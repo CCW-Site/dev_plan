@@ -27,6 +27,32 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ, linxin, jagger
 
+## 2023Y1M3W
+### Plan
+
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @fath11  | bug | i cant change my background  | linixn  | Open  | 2023-01-15 |  |
+| @Da_Creator  | bug | link not working after being a new link  | HCN  | Open  | 2023-01-15 |  |
+| @Kebabo (not chinese)  | bug | Griffpatch's physics extension  | Jamin  | Open  | 2023-01-11 |  |
+| @Kebabo (not chinese)  | bug | can't make versions on any project  | HCN  | Done  | 2023-01-09 |  |
+| @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | suggestion | Add glossy blur effect as some backgrounds OR enable draggable windows  | HCN  | Open  | 2023-01-15 |  |
+| @Kebabo (not chinese)  | suggestion | Everyone can upload assets in marketplace  | HCN  | Open  | 2023-01-14 |  |
+| @𝒔𝒌𝒚𝒅𝒓3𝒙𝒙  | suggestion | Make tiktok ADS  | Collin  | Open  | 2023-01-13 |  |
+| @𝒔𝒌𝒚𝒅𝒓3𝒙𝒙  | suggestion | please add html converting  | HCN  | Open  | 2023-01-13 |  |
+| @CupStudios  | suggestion | Firebase SDK  | HCN  | Open  | 2023-01-13 |  |
+| @Tessal  | suggestion | Other programming language support  | HCN  | Open  | 2023-01-12 |  |
+| @Pelf0xx  | suggestion | change the mouse chat with a group chat  | linxin  | Open  | 2023-01-12 |  |
+| @Kebabo (not chinese)  | suggestion | Forum channel for people to showcase the progress in their games  | collin  | Open  | 2023-01-12 |  |
+| @Kebabo (not chinese)  | suggestion | touching blocks offscreen  | HCN  | Open  | 2023-01-10 |  |
+| @Kebabo (not chinese)  | suggestion | NG Donations  | Collin  | Open  | 2023-01-10 |  |
+| @Martinelplayz  | suggestion | DESKTOP APP WITH DESKTOP EXCLUSIVE EXTENSIONS  | HCN  | Open  | 2023-01-10 |  |
+| @Martinelplayz  | suggestion | project backpacks  | HCN  | Open  | 2023-01-10 |  |
+| @Kebabo (not chinese)  | suggestion | coding tabs  | HCN  | Open  | 2023-01-09 |  |
+| @afarzan  | suggestion | Square brushes in bitmap mode  | HCN  | Open  | 2023-01-09 |  |
+| @Kebabo (not chinese)  | suggestion | make the block following the mouse while scrolling  | HCN  | Open  | 2023-01-09 |  |
+| @Tessal  | suggestion | Extensions importing directly into categories  | HCN  | Open  | 2023-01-09 |  |
+
 ## 2023Y1M2W
 ### Plan
 
