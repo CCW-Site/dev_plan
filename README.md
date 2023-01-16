@@ -35,7 +35,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @fath11  | bug | i cant change my background  | linixn  | Open  | 2023-01-15 |  |
 | @Da_Creator  | bug | link not working after being a new link  | HCN  | Open  | 2023-01-15 |  |
 | @Kebabo (not chinese)  | bug | Griffpatch's physics extension  | Jamin  | Open  | 2023-01-11 |  |
-| @Kebabo (not chinese)  | bug | can't make versions on any project  | HCN  | Done  | 2023-01-09 |  |
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | suggestion | Add glossy blur effect as some backgrounds OR enable draggable windows  | HCN  | Open  | 2023-01-15 |  |
 | @Kebabo (not chinese)  | suggestion | Everyone can upload assets in marketplace  | HCN  | Open  | 2023-01-14 |  |
 | @𝒔𝒌𝒚𝒅𝒓3𝒙𝒙  | suggestion | Make tiktok ADS  | Collin  | Open  | 2023-01-13 |  |
@@ -52,6 +51,17 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @afarzan  | suggestion | Square brushes in bitmap mode  | HCN  | Open  | 2023-01-09 |  |
 | @Kebabo (not chinese)  | suggestion | make the block following the mouse while scrolling  | HCN  | Open  | 2023-01-09 |  |
 | @Tessal  | suggestion | Extensions importing directly into categories  | HCN  | Open  | 2023-01-09 |  |
+
+## Fixed
+- Fixed: can't make versions on any project (reporter: @Kebabo (not chinese))
+
+
+
+| Type      | Reply rate       | Resolution rate   | Unresolved Quantity         |
+| ------------- | ------------- | ------------- | ------------- |
+| Bug  | 100% | 77%  | 23  |
+| Suggestion  | 93% | 40%  | 74  |
+| Help-desk  | 100% | 45%  | 13  | 
 
 ## 2023Y1M2W
 ### Plan
