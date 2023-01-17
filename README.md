@@ -52,6 +52,18 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Kebabo (not chinese)  | suggestion | make the block following the mouse while scrolling  | HCN  | Open  | 2023-01-09 |  |
 | @Tessal  | suggestion | Extensions importing directly into categories  | HCN  | Open  | 2023-01-09 |  |
 
+### Community Contributor board(2023/01/09~2023/01/15)
+- @Kebabo (not chinese) : 2 🐛 6 💡
+- @𝒔𝒌𝒚𝒅𝒓3𝒙𝒙  : 2 💡
+- @Tessal  : 2 💡
+- @Martinelplayz  : 2 💡
+- @fath11 : 1 🐛
+- @Da_Creator : 1 🐛
+- @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05 : 1 💡
+- @CupStudios  : 1 💡
+- @Pelf0xx  : 1 💡
+- @afarzan  : 1 💡
+
 ## Fixed
 - Fixed: can't make versions on any project (reporter: @Kebabo (not chinese))
 
@@ -81,25 +93,11 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @wzy1tenyears  | suggestion | about this server achieve 500 person's activity and a new NG's get way  | collin  | Open  | 2023-01-04 |  |
 | @imknownBydifferentnames  | suggestion | Custom lazy load video or audio link  | collin  | Open  | 2023-01-02 |  |
 
-## Fixed
-- Fiexed: I cant publish my game or upload it (reporter: @𝒔𝒌𝒚𝒅𝒓3𝒙𝒙)
-
-### Community Contributor board(2023/01/09~2023/01/15)
-- @Kebabo (not chinese) : 2 🐛 6 💡
-- @𝒔𝒌𝒚𝒅𝒓3𝒙𝒙  : 2 💡
-- @Tessal  : 2 💡
-- @Martinelplayz  : 2 💡
-- @fath11 : 1 🐛
-- @Da_Creator : 1 🐛
-- @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05 : 1 💡
-- @CupStudios  : 1 💡
-- @Pelf0xx  : 1 💡
-- @afarzan  : 1 💡
-
 ### Fixed
 - FIXED: Project not saved after saving (reporter: Kebabo)
 - FIXED: Latest version won't publish if uploaded from SB3 (reporter: imknownBydifferentnames)
 - FIXED: Project not saving (reporter: Tessal)
+- Fiexed: I cant publish my game or upload it (reporter: @𝒔𝒌𝒚𝒅𝒓3𝒙𝒙)
 
 ### Community Contributor board(2023/01/02~2023/01/08)
 
