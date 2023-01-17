@@ -68,9 +68,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @imknownBydifferentnames  | bug | Quake freezing my browser then crashing VM  | HCN  | Open  | 2023-01-08 |  |
 | @imknownBydifferentnames  | bug | search barely works  | LJ  | Open  | 2023-01-08 |  |
-| @𝒔𝒌𝒚𝒅𝒓3𝒙𝒙  | bug | I cant publish my game or upload it  | linxin  | Open  | 2023-01-08 |  |
 | @zep-excpoint  | bug | a shared imported gandi project just links to my profile  | collin  | Open  | 2023-01-06 |  |
 | @Tessal  | bug | Can't Import file into list  | collin  | Open  | 2023-01-04 |  |
 | @Tessal  | bug | [Translation Bug] Share with Update  | collin  | Open  | 2023-01-04 |  |
@@ -82,6 +80,21 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | suggestion | Display Folders in the main Cloud Backpack Interface  | HCN  | Open  | 2023-01-07 |  |
 | @wzy1tenyears  | suggestion | about this server achieve 500 person's activity and a new NG's get way  | collin  | Open  | 2023-01-04 |  |
 | @imknownBydifferentnames  | suggestion | Custom lazy load video or audio link  | collin  | Open  | 2023-01-02 |  |
+
+## Fixed
+- Fiexed: I cant publish my game or upload it (reporter: @𝒔𝒌𝒚𝒅𝒓3𝒙𝒙)
+
+### Community Contributor board(2023/01/09~2023/01/15)
+- @Kebabo (not chinese) : 2 🐛 6 💡
+- @𝒔𝒌𝒚𝒅𝒓3𝒙𝒙  : 2 💡
+- @Tessal  : 2 💡
+- @Martinelplayz  : 2 💡
+- @fath11 : 1 🐛
+- @Da_Creator : 1 🐛
+- @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05 : 1 💡
+- @CupStudios  : 1 💡
+- @Pelf0xx  : 1 💡
+- @afarzan  : 1 💡
 
 ### Fixed
 - FIXED: Project not saved after saving (reporter: Kebabo)
@@ -105,7 +118,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @Da_Creator  | bug | Quake crashed Gandi screen or whatever it is  | HCN  | Open  | 2023-01-01 |  |
-| @Da_Creator  | bug | Quake extension is laggy in fullscreen  | HCN  | Open  | 2022-12-31 |  |
 | @wzy1tenyears  | bug | no NG instraction  | HCN  | collin  | 2022-12-30 |  |
 | @fath11  | bug | all my project is corrupted lol  | HCN  | Open  | 2022-12-30 |  |
 | @Chasma  | bug | Progress rewinded and Bugged On the same project | HCN  | Open  | 2022-12-30 |  |
