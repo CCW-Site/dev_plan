@@ -120,7 +120,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @fath11  | bug | all my project is corrupted lol  | HCN  | Open  | 2022-12-30 |  |
 | @Chasma  | bug | Progress rewinded and Bugged On the same project | HCN  | Open  | 2022-12-30 |  |
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | bug | Cloud Extension Page | HCN  | Open  | 2022-12-29 |  |
-| @Chasma  | bug | one project bugged; cannot open | HCN  | Done  | 2022-12-29 |  |
 | @CoolScratcher  | bug | Terminal exit color should be red | HCN  | Open  | 2022-12-28 |  |
 | @HexMan  | bug | Error after saving my custom addon | HCN  | Open  | 2022-12-28 |  |
 | @CoolScratcher  | bug | addToBackpack | HCN  | Open  | 2022-12-28 |  |
@@ -146,15 +145,15 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Tessal  | suggestion | .txt converting to .csv before importing into lists | collin  | Open  | 2022-12-26 |  |
 | @Da_Creator  | suggestion | Cloud variables that stores Info for each person (except guests) | collin  | Open  | 2022-12-26 |  |
 
+## Fixed
+- Fixed: cannot open project (reporter: @Chasma)
+
 ## 2022Y12M4W
 ### Plan
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @Tessal  | bug | Global Functions copying local variables to sprites  | HCN  | Open  | 2022-12-24 |  |
-| @HexMan  | bug | Random Menu POP Up  | xiaoqiang  | Open  | 2022-12-19 |  |
-| @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | bug | Cloud Backpack Issues  | Jagger  | Done  | 2022-12-22 | 2022-12-22  |
-| @unexpectedIntegerNull  | bug | Mis-spelt message  | Collin  | Done  | 2022-12-21 | 2022-12-21  |
 | @Tessal  | suggestion | Project Tags and Identification | Collin  | Open  | 2022-12-25 |   |
 | @Julius MODS  | suggestion | Add Type Safety | Collin  | Open  | 2022-12-25 |   |
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | suggestion | change the in-editor comment design | Collin  | Open  | 2022-12-25 |   |
@@ -171,7 +170,10 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 
 ### Fixed
-- FIXED: Cloud Backpack Issues (reporter: 𝓟𝓪𝓹𝓲𝓬𝓱𝓲05)
+- Fixed: Cloud Backpack Issues (reporter: 𝓟𝓪𝓹𝓲𝓬𝓱𝓲05)
+- Fixed: Random Menu POP Up (reporter: @HexMan)
+- Fixed: Cloud Backpack Issues (reporter: @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05)
+- Fixed: Mis-spelt message (reporter: @unexpectedIntegerNull)
 
 
 Community Contributor board(2022/12/26~2023/01/01)
@@ -195,11 +197,8 @@ Community Contributor board(2022/12/26~2023/01/01)
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @PerlinNoise  | bug | some translation is so horrible  | collin  | Open  | 2022-12-17 |  |
-| @LGM Productions  | bug | The hide pause button block does not work in the editor  | HCN  | Open  | 2022-12-17 |  |
 | @fath11  | bug | Every time I reload the page the view count keeps increasing  | linxin  | Open  | 2022-12-17 |  |
 | @Martinelplayz  | bug | upon putting my project to 16:9 the stage became very stretched and so did all sprites attached  | linxin  | Open  | 2022-12-16 |  |
-| @Papichi05  | bug | Collaboration system bugs  | linxin  | Open  | 2022-12-16 |  |
 | @PerlinNoise  | suggestion | Cocrea Docs are outdated  | collin  | Open  | 2022-12-18 |  |
 | @🎄 Mewster 🎄  | suggestion | Devlog feature (like itch.io)  | collin  | Open  | 2022-12-18 |  |
 | @PerlinNoise  | suggestion | Community-hosted or requested game jams  | Jamin  | Open  | 2022-12-18 |  |
@@ -223,6 +222,8 @@ Community Contributor board(2022/12/26~2023/01/01)
 
 ### Fixed
 - Fixed: When you search stuff,it does not work at all and pops up a 404 error (reporter: 🎄 Mewster 🎄)
+- Fixed: Tanslation issue (reporter: @PerlinNoise)
+- Fixed: Collaboration system bugs (reporter: @Papichi05)
 
 
 ### Community Contributor board(2022/12/12~2022/12/18)
@@ -249,7 +250,6 @@ Community Contributor board(2022/12/26~2023/01/01)
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @popkorn  | bug | old media utils logo found on getgandi.com chinese version  | linxin  | Open  | 2022-12-10 |  |
 | @popkorn  | bug | videos in media extension suddenly not working  | HCN  | Open  | 2022-12-10 |  |
 | @dandan  | bug | project runs smoothly until you edit it  | HCN  | Open  | 2022-12-06  |  |
 | @winwinlmfao  | suggestion | Variables only for a specific script  | HCN  | Open  | 2022-12-11  |  |
@@ -274,6 +274,7 @@ Community Contributor board(2022/12/26~2023/01/01)
 
 ### Fixed
 - Fixed: cocrea error when reload (reporter: HexMan)
+- Fixed: old media utils logo found on getgandi.com chinese version (reporter: @popkorn)
 
 ### Added
 - Added: Bot Commands Channel (reporter: ☭ Mewster ☭)
@@ -409,7 +410,6 @@ Community Contributor board(2022/12/26~2023/01/01)
 | @CoolScratcher  | bug | getting problem a lot whenever I use Quake  | HCN  | Open  | 2022-11-14 |  |
 | @CoolScratcher  | suggestion | costume editor doesn't fit gandi  | HCN  | Open  | 2022-11-14 |  |
 | @poprock  | suggestion | make there be an option when uploading a project file (.sb3) to make it replace the current project or make a new one  | HCN  | Open  | 2022-11-15 |  |
-| @popkorn  | bug | version control not working  | xiqoqiang | In Progress  | 2022-11-15 |  |
 | @zep-excpoint  | bug | cant use extension hat blocks with booleans or strings  | xiqoqiang | Open  | 2022-11-16 |  |
 | @HarlanX  | bug | Black-screen bug  | HCN | Open  | 2022-11-17 |  |
 | @AdamTheDumbPerson  | bug | mmo bug  | HCN | Open  | 2022-11-18 |  |
@@ -433,6 +433,7 @@ Community Contributor board(2022/12/26~2023/01/01)
 - Fixed: faq channel double section (reporter: labrosggv)
 - Fixed: editor is broken (reporter: Xason/popkorn)
 - Fixed: translation suggestions (reporter: @CoolScratcher)
+- Fixed: version control not working (reporter: @popkorn)
 
 ### Added
 - Added: NG leaderboard (reporter: CoolScratcher)
