@@ -57,7 +57,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @!Belo!  | suggestion | ICustom Boolean Blocks  | HCN  | Open  | 2023-01-17 |  |
 | @Kebabo  | suggestion | pan ramp but we can select the sound | HCN  | Open  | 2023-01-16 |  |
 
-| Type      | Reply rate       | Resolution rate   | Unresolved Quantity         |
+| Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
 | ------------- | ------------- | ------------- | ------------- |
 | Bug  | 100% | 81%  | 18  |
 | Suggestion  | 90% | 19%  | 141  |
