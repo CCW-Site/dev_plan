@@ -27,6 +27,36 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ, linxin, jagger
 
+## 2023Y1M4W
+
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @Tessal  | bug | White Screen  | HCN  | Open  | 2023-01-27 |  |
+| @wzy1tenyears  | bug | a problem about add face sensing extensions  | collin  | Open  | 2023-01-23 |  |
+| @wzy1tenyears  | bug | add many extensions will happen  | collin  | Open  | 2023-01-23 |  |
+| @catthatcanturnvalves  | bug | a few ago  | linxin  | Open  | 2023-01-20 |  |
+| @Kebabo  | bug | "For all sprites" not working  | collin  | Open  | 2023-01-20 |  |
+| @Classic  | bug | Studio Member Not Found  | ZJ  | Done  | 2023-01-25 |  |
+| @HexMan  | bug | Studio Member does not exist  | ZJ  | Done  | 2023-01-25 |  |
+| @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | bug | Project loading issues  | ZJ  | Done  | 2023-01-24 |  |
+| @ron  | bug | calibration problem  | ZJ  | Done  | 2023-01-24 |  |
+| @Mattcraft  | bug | Abnormal Connection  | ZJ  | Done  | 2023-01-17 |  |
+| @Da_Creator  | suggestion | add an uninstall for extensions  | HCN  | Open  | 2023-01-28 |  |
+| @poprock  | suggestion | Multiple editors in a sprite  | ZJ  | Open  | 2023-01-27 |  |
+| @ron  | suggestion | gandi ide should support other audio files  | HCN  | Open  | 2023-01-24 |  |
+| @fathVIII_DCLVIII  | suggestion | 3D for gandi  | HCN  | Open  | 2023-01-22 |  |
+| @Outrunfungus43  | suggestion | Gandi Explore Page  | collin  | Open  | 2023-01-21 |  |
+| @catthatcanturnvalves  | suggestion | Convert NG into CWT  | Collin  | Open  | 2023-01-28 |  |
+| @catthatcanturnvalves  | suggestion | Costume editor canvas dark mode  | HCN  | Open  | 2023-01-20 |  |
+| @CoolScratcher  | suggestion | Terminal icon looks weird on gandi website  | linxin  | Open  | 2023-01-20 |  |
+| @catthatcanturnvalves  | suggestion | Right of erasure/right to be forgotten  | collin  | Open  | 2023-01-19 |  |
+| @trooper_oro  | suggestion | a sprite filing system  | HCN  | Open  | 2023-01-19 |  |
+| @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | suggestion | Notifications system on Cocrea  | linxin  | Open  | 2023-01-19 |  |
+| @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | suggestion | Built-in Cocrea chat system  | linxin  | Open  | 2023-01-19 |  |
+| @Kebabo  | suggestion | Improve Sprites layering  | HCN  | Open  | 2023-01-18 |  |
+| @!Belo!  | suggestion | ICustom Boolean Blocks  | HCN  | Open  | 2023-01-17 |  |
+| @Kebabo  | suggestion | pan ramp but we can select the sound | HCN  | Open  | 2023-01-16 |  |
+
 ## 2023Y1M3W
 ### Plan
 
