@@ -27,20 +27,27 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ, linxin, jagger
 
+## 2023Y2M1W
+
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | bug | Delete button in history window is out of place  | HCN  | Open  | 2023-02-01 |  |
+| @fathVIII_DCLVIII  | suggestion | Variables tab  | HCN  | Open  | 2023-02-04 |  |
+| @BlurryKnight  | suggestion | Extension links | HCN  | Open  | 2023-02-04 |  |
+| @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | suggestion | Add an option to revoke the collaboration session | HCN  | Open  | 2023-02-04 |  |
+| @BlurryKnight  | suggestion | Compile to exe | HCN  | Open  | 2023-02-03 |  |
+| @DarkerGEN  | suggestion | Clean Pen, Clean Clones | HCN  | Open  | 2023-02-01 |  |
+| @DarkerGEN  | suggestion | Mouse lock | HCN  | Open  | 2023-01-31 |  |
+| @DarkerGEN  | suggestion | Mouse lock | HCN  | Open  | 2023-01-31 |  |
+
+
 ## 2023Y1M4W
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @Tessal  | bug | White Screen  | HCN  | Open  | 2023-01-27 |  |
-| @wzy1tenyears  | bug | a problem about add face sensing extensions  | collin  | Open  | 2023-01-23 |  |
 | @wzy1tenyears  | bug | add many extensions will happen  | collin  | Open  | 2023-01-23 |  |
-| @catthatcanturnvalves  | bug | a few ago  | linxin  | Open  | 2023-01-20 |  |
 | @Kebabo  | bug | "For all sprites" not working  | collin  | Open  | 2023-01-20 |  |
-| @Classic  | bug | Studio Member Not Found  | ZJ  | Done  | 2023-01-25 |  |
-| @HexMan  | bug | Studio Member does not exist  | ZJ  | Done  | 2023-01-25 |  |
-| @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | bug | Project loading issues  | ZJ  | Done  | 2023-01-24 |  |
-| @ron  | bug | calibration problem  | ZJ  | Done  | 2023-01-24 |  |
-| @Mattcraft  | bug | Abnormal Connection  | ZJ  | Done  | 2023-01-17 |  |
 | @Da_Creator  | suggestion | add an uninstall for extensions  | HCN  | Open  | 2023-01-28 |  |
 | @poprock  | suggestion | Multiple editors in a sprite  | ZJ  | Open  | 2023-01-27 |  |
 | @ron  | suggestion | gandi ide should support other audio files  | HCN  | Open  | 2023-01-24 |  |
@@ -62,6 +69,13 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Bug  | 100% | 81%  | 18  |
 | Suggestion  | 90% | 19%  | 141  |
 | Help-desk  | 100% | 40%  | 18  | 
+
+## Fixed:
+- Fixed: a few ago (reporter: @catthatcanturnvalves)
+- Fixed: Abnormal Connection (reporter: @Mattcraft/@ron/@𝓟𝓪𝓹𝓲𝓬𝓱𝓲05/@HexMan/@Classic)
+
+## Removed
+- removed: a problem about add face sensing extensions (reporter: @wzy1tenyears)
 
 ## 2023Y1M3W
 ### Plan
