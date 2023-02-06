@@ -40,6 +40,12 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @DarkerGEN  | suggestion | Mouse lock | HCN  | Open  | 2023-01-31 |  |
 | @DarkerGEN  | suggestion | Mouse lock | HCN  | Open  | 2023-01-31 |  |
 
+| Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
+| ------------- | ------------- | ------------- | ------------- |
+| Bug  | 100% | 88%  | 12  |
+| Suggestion  | 93% | 19%  | 139  |
+| Help-desk  | 100% | 40%  | 18  | 
+
 
 ## 2023Y1M4W
 
