@@ -51,6 +51,13 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Blueberri  | suggestion | please add an offtopic and memes channel  | Collin  | Open  | 2023-02-07 |  |
 
 
+| Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
+| ------------- | ------------- | ------------- | ------------- |
+| Bug  | 100% | 88%  | 12  |
+| Suggestion  | 91% | 18%  | 151  |
+| Help-desk  | 100% | 40%  | 18  | 
+
+
 ## 2023Y2M1W
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
@@ -65,9 +72,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 | Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
 | ------------- | ------------- | ------------- | ------------- |
-| Bug  | 100% | 88%  | 12  |
+| Bug  | 100% | 78%  | 23  |
 | Suggestion  | 93% | 19%  | 139  |
-| Help-desk  | 100% | 40%  | 18  | 
+| Help-desk  | 100% | 58%  | 16  | 
 
 
 ## 2023Y1M4W
