@@ -27,6 +27,31 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ, linxin, jagger
 
+## 2023Y2M2W
+
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @HexMan  | bug | Blocks can not be DELETED  | collin  | Open  | 2023-02-11 |  |
+| @CoolScratcher  | bug | Tried to go to the projects page  | collin  | Open  | 2023-02-11 |  |
+| @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | bug | The Media Uitls Extension doesn't support stereo sound  | HCN  | Open  | 2023-02-07 |  |
+| @Blueberri  | bug | Channel Permission Setting Issue  | Jamin  | Close  | 2023-02-07 |  |
+| @.Casty  | suggestion | ability to make private project pages that only author can access for MMO testing  | ZLX  | Open  | 2023-02-12 |  |
+| @.Casty  | suggestion | Capitalization  | Collin  | Open  | 2023-02-12 |  |
+| @ᴋᴇʙᴀʙᴏ  | suggestion | add an option; when we scroll with mouse  | Collin  | Open  | 2023-02-12 |  |
+| @SharkPool  | suggestion | Add Stretch + Blur Extension/Allow Extensions from Turbowarp  | Collin  | Open  | 2023-02-12 |  |
+| @ᴋᴇʙᴀʙᴏ  | suggestion | swear detector in project comments  | Collin  | Open  | 2023-02-12 |  |
+| @ᴋᴇʙᴀʙᴏ  | suggestion | Everyone can make templates  | Collin  | Open  | 2023-02-11 |  |
+| @ᴋᴇʙᴀʙᴏ  | suggestion | an option to manually remove an extension  | Collin  | Open  | 2023-02-11 |  |
+| @fathVIII_DCLVIII  | suggestion | multi select feature  | Collin  | Open  | 2023-02-11 |  |
+| @ᴋᴇʙᴀʙᴏ  | suggestion | box2D extension update  | Collin  | Open  | 2023-02-11 |  |
+| @fathVIII_DCLVIII  | suggestion | rename the Gandi role to Dev  | Collin  | Close  | 2023-02-10 |  |
+| @fathVIII_DCLVIII  | suggestion | Have an option to download HTML as 1300x690  | Collin  | Open  | 2023-02-09 |  |
+| @ᴋᴇʙᴀʙᴏ  | suggestion | show 4 cards instead of 3 per rows  | Collin  | Open  | 2023-02-09 |  |
+| @ᴋᴇʙᴀʙᴏ  | suggestion | automatically open the left  | Collin  | Open  | 2023-02-09 |  |
+| @Blueberri  | suggestion | please add an offtopic and memes channel  | Collin  | Open  | 2023-02-07 |  |
+| @fathVIII_DCLVIII  | suggestion | Variables tab  | Collin  | Open  | 2023-02-07 |  |
+
+
 ## 2023Y2M1W
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
@@ -37,7 +62,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | suggestion | Add an option to revoke the collaboration session | HCN  | Open  | 2023-02-04 |  |
 | @BlurryKnight  | suggestion | Compile to exe | HCN  | Open  | 2023-02-03 |  |
 | @DarkerGEN  | suggestion | Clean Pen, Clean Clones | HCN  | Open  | 2023-02-01 |  |
-| @DarkerGEN  | suggestion | Mouse lock | HCN  | Open  | 2023-01-31 |  |
 | @DarkerGEN  | suggestion | Mouse lock | HCN  | Open  | 2023-01-31 |  |
 
 | Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
