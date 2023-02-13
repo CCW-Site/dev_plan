@@ -49,7 +49,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @ᴋᴇʙᴀʙᴏ  | suggestion | show 4 cards instead of 3 per rows  | Collin  | Open  | 2023-02-09 |  |
 | @ᴋᴇʙᴀʙᴏ  | suggestion | automatically open the left  | Collin  | Open  | 2023-02-09 |  |
 | @Blueberri  | suggestion | please add an offtopic and memes channel  | Collin  | Open  | 2023-02-07 |  |
-| @fathVIII_DCLVIII  | suggestion | Variables tab  | Collin  | Open  | 2023-02-07 |  |
 
 
 ## 2023Y2M1W
