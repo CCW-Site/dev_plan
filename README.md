@@ -43,6 +43,12 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @fathVIII_DCLVIII  | suggestion | Custom font | collin  | Open  | 2023-02-13 |  |
 | @fathVIII_DCLVIII  | suggestion | Light Block Extensions | collin  | Open  | 2023-02-13 |  |
 
+| Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
+| ------------- | ------------- | ------------- | ------------- |
+| Bug  | 100% | 90%  | 23  |
+| Suggestion  | 92% | 19%  | 135  |
+| Help-desk  | 100% | 41%  | 12  | 
+
 ## 2023Y2M2W
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
