@@ -27,6 +27,22 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ, linxin, jagger
 
+## 2023Y2M3W
+
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @Tessal  | bug | sprite cant move  | collin  | Open  | 2023-02-17 |  |
+| @Tessal  | bug | scrolling out of the editor  | collin  | Open  | 2023-02-17 |  |
+| @fathVIII_DCLVIII  | bug | Not translated doc and have no doc  | collin  | Open  | 2023-02-16 |  |
+| @.Casty  | suggestion | Pixelate screen  | collin  | Open  | 2023-02-19 |  |
+| @vyc  | suggestion | GandiLang (GLang / GL)  | collin  | Open  | 2023-02-18 |  |
+| @Tessal  | suggestion | Renaming Modules  | collin  | Open  | 2023-02-16 |  |
+| @toe merchant  | suggestion | skip pre-existing assets when uploading a file | collin  | Open  | 2023-02-16 |  |
+| @Kebabo  | suggestion | more canals for the sounds media utils | collin  | Open  | 2023-02-13 |  |
+| @fathVIII_DCLVIII  | suggestion | Cat block | collin  | Open  | 2023-02-13 |  |
+| @fathVIII_DCLVIII  | suggestion | Custom font | collin  | Open  | 2023-02-13 |  |
+| @fathVIII_DCLVIII  | suggestion | Light Block Extensions | collin  | Open  | 2023-02-13 |  |
+
 ## 2023Y2M2W
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
