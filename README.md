@@ -27,6 +27,29 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ, linxin, jagger
 
+## 2023Y2M4W
+
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @Tessal  | bug | Saves are broken again  | collin  | Open  | 2023-02-24 |  |
+| @Tessal  | bug | Broadcasts not escaping...  | collin  | Open  | 2023-02-22 |  |
+| @Tessal  | bug | function refuses to function  | collin  | Open  | 2023-02-22 |  |
+| @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | bug | Costume editor vs Cloud Backpack glitch  | collin  | Open  | 2023-02-22 |  |
+| @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | suggestion | More consistent backdrops title  | collin  | Open  | 2023-02-24 |  |
+| @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | suggestion | Maybe add “All times” availability for Naquagems  | collin  | Open  | 2023-02-24 |  |
+| @Kebabo  | suggestion | Random project button on cocrea  | collin  | Open  | 2023-02-24 |  |
+| @Kebabo  | suggestion | Can we have more emojis in the server?  | collin  | Open  | 2023-02-22 |  |
+| @Kebabo  | suggestion | Rating projects  | collin  | Open  | 2023-02-22 |  |
+| @Tessal  | suggestion | Game workshops  | collin  | Open  | 2023-02-21 |  |
+| @FreshPenguin112  | suggestion | new "check out other mods" video series  | collin  | Open  | 2023-02-21 |  |
+| @fathVIII_DCLVIII  | suggestion | How to react to a suggestion  | collin  | Open  | 2023-02-22 |  |
+
+| Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
+| ------------- | ------------- | ------------- | ------------- |
+| Bug  | 100% | 90%  | 23  |
+| Suggestion  | 92% | 19%  | 135  |
+| Help-desk  | 100% | 41%  | 12  | 
+
 ## 2023Y2M3W
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
@@ -56,7 +79,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @HexMan  | bug | Blocks can not be DELETED  | collin  | Open  | 2023-02-11 |  |
 | @CoolScratcher  | bug | Tried to go to the projects page  | collin  | Open  | 2023-02-11 |  |
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | bug | The Media Uitls Extension doesn't support stereo sound  | HCN  | Open  | 2023-02-07 |  |
-| @Blueberri  | bug | Channel Permission Setting Issue  | Jamin  | Close  | 2023-02-07 |  |
 | @.Casty  | suggestion | ability to make private project pages that only author can access for MMO testing  | ZLX  | Open  | 2023-02-12 |  |
 | @.Casty  | suggestion | Capitalization  | Collin  | Open  | 2023-02-12 |  |
 | @ᴋᴇʙᴀʙᴏ  | suggestion | add an option; when we scroll with mouse  | Collin  | Open  | 2023-02-12 |  |
@@ -79,6 +101,8 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Suggestion  | 91% | 18%  | 151  |
 | Help-desk  | 100% | 40%  | 18  | 
 
+## Fixed
+- fixed: Channel Permission Setting Issue (reporter: @Blueberri)
 
 ## 2023Y2M1W
 
