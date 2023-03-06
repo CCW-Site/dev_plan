@@ -36,6 +36,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Zackary  | bug | When I transfered my game to Gandi so 0xVision could put it on front page,the editor was very Broke | collin  | Open  | 2023-03-02 |  |
 | @Tessal  | bug | Glitching appearance | collin  | Open  | 2023-03-01 |  |
 | @Shrimpy  | bug | Cannot use Gandi IDE | collin  | Close  | 2023-03-05 |  |
+| @fathVIII_DCLVIII  | bug | Editor cannot load when not sign in | collin  | Close  | 2023-03-02 |  |
 | @-Undertale--pro-  | suggestion | easier collaboration | collin  | Open  | 2023-03-04 |  |
 | @Kawaii Killers  | suggestion | Post Processing, Camera Blocks, Speech to Text, File Downloader, More stages, etc. | collin  | Open  | 2023-03-04 |  |
 | @saraysxroom  | suggestion | option to minimize graphics | collin  | Open  | 2023-03-03 |  |
