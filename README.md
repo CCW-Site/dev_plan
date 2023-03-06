@@ -27,6 +27,28 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ, linxin, jagger
 
+## 2023Y3M1W
+
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @SpicyIcy  | bug | dragging code to another sprite does not transfer the code | collin  | Open  | 2023-03-05 |  |
+| @SpicyIcy  | bug | MMOs refuse to load | collin  | Open  | 2023-03-02 |  |
+| @Zackary  | bug | When I transfered my game to Gandi so 0xVision could put it on front page,the editor was very Broke | collin  | Open  | 2023-03-02 |  |
+| @Tessal  | bug | Glitching appearance | collin  | Open  | 2023-03-01 |  |
+| @Shrimpy  | bug | Cannot use Gandi IDE | collin  | Close  | 2023-03-05 |  |
+| @-Undertale--pro-  | suggestion | easier collaboration | collin  | Open  | 2023-03-04 |  |
+| @Kawaii Killers  | suggestion | Post Processing, Camera Blocks, Speech to Text, File Downloader, More stages, etc. | collin  | Open  | 2023-03-04 |  |
+| @saraysxroom  | suggestion | option to minimize graphics | collin  | Open  | 2023-03-03 |  |
+| @SpicyIcy  | suggestion | A list of rejected suggestions | collin  | Open  | 2023-02-28 |  |
+| @SpicyIcy  | suggestion | Please make the "popular projects" tab scrollable | collin  | Open  | 2023-02-28 |  |
+
+| Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
+| ------------- | ------------- | ------------- | ------------- |
+| Bug  | 100% | 90%  | 23  |
+| Suggestion  | 90% | 19%  | 140  |
+| Help-desk  | 100% | 41%  | 12  | 
+
+
 ## 2023Y2M4W
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
