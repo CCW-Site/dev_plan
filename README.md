@@ -35,9 +35,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @SpicyIcy  | bug | MMOs refuse to load | collin  | Open  | 2023-03-02 |  |
 | @Zackary  | bug | When I transfered my game to Gandi so 0xVision could put it on front page,the editor was very Broke | collin  | Open  | 2023-03-02 |  |
 | @Tessal  | bug | Glitching appearance | collin  | Open  | 2023-03-01 |  |
-| @Shrimpy  | bug | Cannot use Gandi IDE | collin  | Close  | 2023-03-05 |  |
-| @fathVIII_DCLVIII  | bug | Editor cannot load when not sign in | collin  | Close  | 2023-03-02 |  |
-| @-Undertale--pro-  | suggestion | easier collaboration | collin  | Open  | 2023-03-04 |  |
 | @Kawaii Killers  | suggestion | Post Processing, Camera Blocks, Speech to Text, File Downloader, More stages, etc. | collin  | Open  | 2023-03-04 |  |
 | @saraysxroom  | suggestion | option to minimize graphics | collin  | Open  | 2023-03-03 |  |
 | @SpicyIcy  | suggestion | A list of rejected suggestions | collin  | Open  | 2023-02-28 |  |
@@ -47,7 +44,12 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | ------------- | ------------- | ------------- | ------------- |
 | Bug  | 100% | 90%  | 23  |
 | Suggestion  | 90% | 19%  | 140  |
-| Help-desk  | 100% | 41%  | 12  | 
+| Help-desk  | 100% | 41%  | 12  |
+
+## Fixed
+- fixed: Cannot use Gandi IDE (reporter: @Shrimpy)
+- fixed: easier collaboration (reporter: @-Undertale--pro-)
+- fixed: Editor cannot load when not sign in (reporter: @fathVIII_DCLVIII)
 
 
 ## 2023Y2M4W
