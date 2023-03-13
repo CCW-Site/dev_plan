@@ -31,16 +31,16 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @SpicyIcy  | bug | a general "art" channel | collin  | Open  | 2023-03-10 |  |
-| @fathVIII_DCLVIII  | bug | a way to change html embed size before actually download it | collin  | Open  | 2023-03-10 |  |
-| @Echoless  | bug | Infinite Vector Editor | collin  | Open  | 2023-03-10 |  |
-| @Outrunfungus43  | bug | Advertisement Chat In Server | collin  | Open  | 2023-03-10 |  |
-| @SpicyIcy  | bug | revamp the site Layout | collin  | Open  | 2023-03-09 |  |
-| @Prins  | bug | Scene Manager | collin  | Open  | 2023-03-09 |  |
-| @Da_Creator  | bug | Game Achievements/badges/game completion% | collin  | Open  | 2023-03-08 |  |
-| @Echoless  | bug | Vector Limitations Removel | collin  | Open  | 2023-03-07 |  |
-| @Echoless  | bug | ScratchZIP Extension (Mod Support) | collin  | Open  | 2023-03-07 |  |
-| @normalcat  | bug | make the game view larger | collin  | Open  | 2023-03-06 |  |
+| @SpicyIcy  | suggestion | a general "art" channel | collin  | Open  | 2023-03-10 |  |
+| @fathVIII_DCLVIII  | suggestion | a way to change html embed size before actually download it | collin  | Open  | 2023-03-10 |  |
+| @Echoless  | suggestion | Infinite Vector Editor | collin  | Open  | 2023-03-10 |  |
+| @Outrunfungus43  | suggestion | Advertisement Chat In Server | collin  | Open  | 2023-03-10 |  |
+| @SpicyIcy  | suggestion | revamp the site Layout | collin  | Open  | 2023-03-09 |  |
+| @Prins  | suggestion | Scene Manager | collin  | Open  | 2023-03-09 |  |
+| @Da_Creator  | suggestion | Game Achievements/badges/game completion% | collin  | Open  | 2023-03-08 |  |
+| @Echoless  | suggestion | Vector Limitations Removel | collin  | Open  | 2023-03-07 |  |
+| @Echoless  | suggestion | ScratchZIP Extension (Mod Support) | collin  | Open  | 2023-03-07 |  |
+| @normalcat  | suggestion | make the game view larger | collin  | Open  | 2023-03-06 |  |
 
 | Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
 | ------------- | ------------- | ------------- | ------------- |
