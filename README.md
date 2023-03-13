@@ -27,6 +27,27 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ, linxin, jagger
 
+## 2023Y3M2W
+
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @SpicyIcy  | bug | a general "art" channel | collin  | Open  | 2023-03-10 |  |
+| @fathVIII_DCLVIII  | bug | a way to change html embed size before actually download it | collin  | Open  | 2023-03-10 |  |
+| @Echoless  | bug | Infinite Vector Editor | collin  | Open  | 2023-03-10 |  |
+| @Outrunfungus43  | bug | Advertisement Chat In Server | collin  | Open  | 2023-03-10 |  |
+| @SpicyIcy  | bug | revamp the site Layout | collin  | Open  | 2023-03-09 |  |
+| @Prins  | bug | Scene Manager | collin  | Open  | 2023-03-09 |  |
+| @Da_Creator  | bug | Game Achievements/badges/game completion% | collin  | Open  | 2023-03-08 |  |
+| @Echoless  | bug | Vector Limitations Removel | collin  | Open  | 2023-03-07 |  |
+| @Echoless  | bug | ScratchZIP Extension (Mod Support) | collin  | Open  | 2023-03-07 |  |
+| @normalcat  | bug | make the game view larger | collin  | Open  | 2023-03-06 |  |
+
+| Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
+| ------------- | ------------- | ------------- | ------------- |
+| Bug  | 100% | 91%  | 22  |
+| Suggestion  | 92% | 20%  | 145  |
+| Help-desk  | 100% | 42%  | 14  |
+
 ## 2023Y3M1W
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
