@@ -27,6 +27,25 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ, linxin, jagger
 
+## 2023Y3M3W
+
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @.Casty  | bug | Checked variable in project does not dissapear despite removed extension | collin  | Open  | 2023-03-16 |  |
+| @ramanking101  | bug | It keeps crashing when i want to get in it to work on my project | collin  | Close  | 2023-03-14 |  |
+| @Kebabo  | suggestion | GIft NGS everywhere | collin  | Open  | 2023-03-19 |  |
+| @Tessal  | suggestion | Better Camera / Viewport | collin  | Open  | 2023-03-17 |  |
+| @.Casty  | suggestion | Bug hunter and Suggestion-er role | collin  | Open  | 2023-03-16 |  |
+| @Zackary  | suggestion | A Better Version of Gandi IDE | collin  | Open  | 2023-03-15 |  |
+| @Kebabo  | suggestion | Game Jams in Cocrea | collin  | Open  | 2023-03-14 |  |
+| @Outrunfungus43  | suggestion | Separating Help Desk And Hiring Requests | collin  | Close  | 2023-03-14 |  |
+
+| Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
+| ------------- | ------------- | ------------- | ------------- |
+| Bug  | 100% | 91%  | 22  |
+| Suggestion  | 92% | 20%  | 145  |
+| Help-desk  | 100% | 42%  | 14  |
+
 ## 2023Y3M2W
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
