@@ -32,19 +32,23 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @.Casty  | bug | Checked variable in project does not dissapear despite removed extension | collin  | Open  | 2023-03-16 |  |
-| @ramanking101  | bug | It keeps crashing when i want to get in it to work on my project | collin  | Close  | 2023-03-14 |  |
 | @Kebabo  | suggestion | GIft NGS everywhere | collin  | Open  | 2023-03-19 |  |
 | @Tessal  | suggestion | Better Camera / Viewport | collin  | Open  | 2023-03-17 |  |
 | @.Casty  | suggestion | Bug hunter and Suggestion-er role | collin  | Open  | 2023-03-16 |  |
 | @Zackary  | suggestion | A Better Version of Gandi IDE | collin  | Open  | 2023-03-15 |  |
 | @Kebabo  | suggestion | Game Jams in Cocrea | collin  | Open  | 2023-03-14 |  |
-| @Outrunfungus43  | suggestion | Separating Help Desk And Hiring Requests | collin  | Close  | 2023-03-14 |  |
 
 | Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
 | ------------- | ------------- | ------------- | ------------- |
 | Bug  | 100% | 91%  | 22  |
 | Suggestion  | 92% | 20%  | 145  |
 | Help-desk  | 100% | 42%  | 14  |
+
+## Fixed
+- fixed: It keeps crashing when i want to get in it to work on my project (reporter: @ramanking101)
+
+## Added
+- added: Separating Help Desk And Hiring Requests (reporter: @Outrunfungus43)
 
 ## 2023Y3M2W
 
@@ -107,7 +111,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Kebabo  | suggestion | Rating projects  | collin  | Open  | 2023-02-22 |  |
 | @Tessal  | suggestion | Game workshops  | collin  | Open  | 2023-02-21 |  |
 | @FreshPenguin112  | suggestion | new "check out other mods" video series  | collin  | Open  | 2023-02-21 |  |
-| @fathVIII_DCLVIII  | suggestion | How to react to a suggestion  | collin  | Open  | 2023-02-22 |  |
 
 | Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
 | ------------- | ------------- | ------------- | ------------- |
@@ -157,7 +160,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @fathVIII_DCLVIII  | suggestion | Have an option to download HTML as 1300x690  | Collin  | Open  | 2023-02-09 |  |
 | @ᴋᴇʙᴀʙᴏ  | suggestion | show 4 cards instead of 3 per rows  | Collin  | Open  | 2023-02-09 |  |
 | @ᴋᴇʙᴀʙᴏ  | suggestion | automatically open the left  | Collin  | Open  | 2023-02-09 |  |
-| @Blueberri  | suggestion | please add an offtopic and memes channel  | Collin  | Open  | 2023-02-07 |  |
 
 
 | Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
@@ -165,6 +167,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Bug  | 100% | 88%  | 12  |
 | Suggestion  | 91% | 18%  | 151  |
 | Help-desk  | 100% | 40%  | 18  | 
+
+## Added
+- added: please add an offtopic and memes channel (reporter: @Blueberri)
 
 ## Fixed
 - fixed: Channel Permission Setting Issue (reporter: @Blueberri)
@@ -265,7 +270,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - Fixed: can't make versions on any project (reporter: @Kebabo (not chinese))
 
 
-
 | Type      | Reply rate       | Resolution rate   | Unresolved Quantity         |
 | ------------- | ------------- | ------------- | ------------- |
 | Bug  | 100% | 77%  | 23  |
@@ -277,24 +281,26 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @imknownBydifferentnames  | bug | search barely works  | LJ  | Open  | 2023-01-08 |  |
 | @zep-excpoint  | bug | a shared imported gandi project just links to my profile  | collin  | Open  | 2023-01-06 |  |
 | @Tessal  | bug | Can't Import file into list  | collin  | Open  | 2023-01-04 |  |
 | @Tessal  | bug | [Translation Bug] Share with Update  | collin  | Open  | 2023-01-04 |  |
-| @imknownBydifferentnames  | bug | all of the code mysteriously disappeared  | collin  | Open  | 2023-01-02 |  |
 | @imknownBydifferentnames  | bug | Mysterious f added to my project link  | linxin  | Open  | 2023-01-02 |  |
-| @imknownBydifferentnames  | bug | Missing translation  | linxin  | Open  | 2023-01-02 |  |
 | @imknownBydifferentnames  | suggestion | My retinas are burning (dark mode on website)  | linxin  | Open  | 2023-01-08 |  |
 | @𝒔𝒌𝒚𝒅𝒓3𝒙𝒙  | suggestion | Please add HD file upload  | linxin  | Open  | 2023-01-08 |  |
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | suggestion | Display Folders in the main Cloud Backpack Interface  | HCN  | Open  | 2023-01-07 |  |
-| @wzy1tenyears  | suggestion | about this server achieve 500 person's activity and a new NG's get way  | collin  | Open  | 2023-01-04 |  |
 | @imknownBydifferentnames  | suggestion | Custom lazy load video or audio link  | collin  | Open  | 2023-01-02 |  |
 
 ### Fixed
-- FIXED: Project not saved after saving (reporter: Kebabo)
-- FIXED: Latest version won't publish if uploaded from SB3 (reporter: imknownBydifferentnames)
-- FIXED: Project not saving (reporter: Tessal)
-- Fiexed: I cant publish my game or upload it (reporter: @𝒔𝒌𝒚𝒅𝒓3𝒙𝒙)
+- fixed: Project not saved after saving (reporter: Kebabo)
+- fixed: Latest version won't publish if uploaded from SB3 (reporter: imknownBydifferentnames)
+- fixed: Project not saving (reporter: Tessal)
+- fixed: I cant publish my game or upload it (reporter: @𝒔𝒌𝒚𝒅𝒓3𝒙𝒙)
+- fixed: search barely works (reporter: @imknownBydifferentnames)
+- fixed: Missing translation (reporter: @imknownBydifferentnames)
+- fixed: all of the code mysteriously disappeared (reporter: @imknownBydifferentnames)
+
+## Rejected
+- rejected: about this server achieve 500 person's activity and a new NG's get way (reporter: wzy1tenyears)
 
 ### Community Contributor board(2023/01/02~2023/01/08)
 
@@ -403,7 +409,6 @@ Community Contributor board(2022/12/26~2023/01/01)
 | @Mintil  | suggestion | pls let blocks have customizable skin | collin  | Open  | 2022-12-16 |  |
 | @robo  | suggestion | Add the [for each [var] in (10)] block | collin  | Jamin  | 2022-12-16 |  |
 | @Papichi05  | suggestion | Addon Feature Suggestions | HCN  | Open  | 2022-12-16 |  |
-| @CoolScratcher  | suggestion | Ping Roles | collin  | Open  | 2022-12-16 |  |
 | @🎄 Mewster 🎄  | suggestion | Documentation Area (Dark Mode on Extensions Page) | linxin  | Open  | 2022-12-15 |  |
 | @Tessal  | suggestion | Improved Layering | linxin  | Open  | 2022-12-15 |  |
 | @Tessal  | suggestion | QOL Improvements | collin  | Open  | 2022-12-15 |  |
@@ -414,13 +419,16 @@ Community Contributor board(2022/12/26~2023/01/01)
 | @robo  | suggestion | remove this useless asf block | collin  | Open  | 2022-12-13 |  |
 | @ComicWar  | suggestion | Texturing | HCN  | Open  | 2022-12-12 |  |
 | @Col  | suggestion | UI Scaling | linxin  | Open  | 2022-12-12 |  |
-| @HexMan  | suggestion | Weekly game jam | Jamin  | Done  | 2022-12-12 |  |
 | @winwinlmfao  | suggestion | Script Variables | collin  | Done  | 2022-12-12 |  |
 
 ### Fixed
 - Fixed: When you search stuff,it does not work at all and pops up a 404 error (reporter: 🎄 Mewster 🎄)
 - Fixed: Tanslation issue (reporter: @PerlinNoise)
 - Fixed: Collaboration system bugs (reporter: @Papichi05)
+
+### Added
+- added: Ping Roles (reporter: @CoolScratcher)
+- added: Weekly game jam (reporter: @HexMan)
 
 
 ### Community Contributor board(2022/12/12~2022/12/18)
