@@ -571,7 +571,6 @@ Community Contributor board(2022/12/26~2023/01/01)
 | @labrosggv  | suggestion | New menu type for extension developers | HCN  | Open  | 2022-11-26 |  |
 | @zep-excpoint  | suggestion | volume slider on side bar | linxin  | Open  | 2022-11-23 |  |
 | @labrosggv  | suggestion | Canvas extension addition | HCN  | Open  | 2022-11-25 |  |
-| @☭ Mewster ☭  | suggestion | Roles given for things people do| HCN  | Open  | 2022-11-24 |  |
 | @popkorn  | suggestion | extension - controller support| HCN  | Open  | 2022-11-21 |  |
 | @☭ Mewster ☭  | suggestion | Extension Idea - AI Creator | HCN  | Open  | 2022-11-21 |  |
 | @Costope21  | suggestion | The packager should package 16:9 screen size | HCN  | Open  | 2022-11-22 |  |
@@ -589,6 +588,7 @@ Community Contributor board(2022/12/26~2023/01/01)
 - Added: 16 9 canvas size (reporter: NotSoPTBP)
 - Added: featured voting (reporter: popkorn)
 - Added: help forum (reporter: popkorn)
+- Added: Roles given for things people do (repoter: @☭ Mewster ☭)
 
 ### Community Contributor board(2022/11/21~2022/11/27)
 - @labrosggv  : 5 💡 3 🐛
