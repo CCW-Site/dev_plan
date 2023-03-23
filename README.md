@@ -34,7 +34,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @.Casty  | bug | Checked variable in project does not dissapear despite removed extension | collin  | Open  | 2023-03-16 |  |
 | @Kebabo  | suggestion | GIft NGS everywhere | collin  | Open  | 2023-03-19 |  |
 | @Tessal  | suggestion | Better Camera / Viewport | collin  | Open  | 2023-03-17 |  |
-| @.Casty  | suggestion | Bug hunter and Suggestion-er role | collin  | Open  | 2023-03-16 |  |
 | @Zackary  | suggestion | A Better Version of Gandi IDE | collin  | Open  | 2023-03-15 |  |
 | @Kebabo  | suggestion | Game Jams in Cocrea | collin  | Open  | 2023-03-14 |  |
 
@@ -49,6 +48,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 ## Added
 - added: Separating Help Desk And Hiring Requests (reporter: @Outrunfungus43)
+- added: Bug hunter and Suggestion-er role (reporter: @.Casty)
 
 ## 2023Y3M2W
 
