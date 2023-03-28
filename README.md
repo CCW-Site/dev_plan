@@ -27,6 +27,28 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ, linxin, jagger
 
+## 2023Y3M4W
+
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @fathVIII_DCLVIII  | bug | I even followed their Twitter account but it doesn’t registered the task as completed | collin  | Open  | 2023-03-23 |  |
+| @fathVIII_DCLVIII  | bug | official email format | collin  | Open  | 2023-03-23 |  |
+| @fathVIII_DCLVIII  | bug | spelling error | collin  | Close  | 2023-03-23 |  |
+| @Echoless  | suggestion | Import file [fileExtension] and replace [sprite,costume,sound name] | collin  | Open  | 2023-03-26 |  |
+| @Echoless  | suggestion | Stages | collin  | Open  | 2023-03-25 |  |
+| @Echoless  | suggestion | Gandi Extension Suite | collin  | Open  | 2023-03-25 |  |
+| @Echoless  | suggestion | Gandi Extension Suite | collin  | Open  | 2023-03-25 |  |
+| @fathVIII_DCLVIII  | suggestion | A way to prevent project stealing | collin  | Open  | 2023-03-24 |  |
+| @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | suggestion | Restore the custom cursor for the editor | collin  | Open  | 2023-03-22 |  |
+| @ramanking101  | suggestion | mascot | collin  | Open  | 2023-03-22 |  |
+| @Echoless  | suggestion | mascot | collin  | Open  | 2023-03-22 |  |
+| @Tessal  | suggestion | Official Forumns | Open  | Open  | 2023-03-21 |  |
+| @Five Dank Nights at Meme’s 3  | suggestion | Better Mobile site support | collin | Open  | 2023-03-20 |  |
+
+
+## Fixed
+- fixed: spelling error (reporter: @fathVIII_DCLVIII)
+
 ## 2023Y3M3W
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
