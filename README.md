@@ -45,6 +45,11 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Tessal  | suggestion | Official Forumns | Open  | Open  | 2023-03-21 |  |
 | @Five Dank Nights at Meme’s 3  | suggestion | Better Mobile site support | collin | Open  | 2023-03-20 |  |
 
+| Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
+| ------------- | ------------- | ------------- | ------------- |
+| Bug  | 100% | 92%  | 15  |
+| Suggestion  | 91% | 21%  | 85  |
+| Help-desk  | 100% | 40%  | 10  |
 
 ## Fixed
 - fixed: spelling error (reporter: @fathVIII_DCLVIII)
