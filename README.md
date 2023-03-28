@@ -33,7 +33,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @fathVIII_DCLVIII  | bug | I even followed their Twitter account but it doesn’t registered the task as completed | collin  | Open  | 2023-03-23 |  |
 | @fathVIII_DCLVIII  | bug | official email format | collin  | Open  | 2023-03-23 |  |
-| @fathVIII_DCLVIII  | bug | spelling error | collin  | Close  | 2023-03-23 |  |
 | @Echoless  | suggestion | Import file [fileExtension] and replace [sprite,costume,sound name] | collin  | Open  | 2023-03-26 |  |
 | @Echoless  | suggestion | Stages | collin  | Open  | 2023-03-25 |  |
 | @Echoless  | suggestion | Gandi Extension Suite | collin  | Open  | 2023-03-25 |  |
