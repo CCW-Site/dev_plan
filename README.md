@@ -41,6 +41,15 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05 | suggestion | Reimplement the ability to delete all sounds | collin  | Open  | 2023-03-30 |  |
 | @Da_Creator | suggestion | Mic Extension (Voice-Chat MMO and Voice Blocks) | collin  | Open  | 2023-02-28 |  |
 
+| Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
+| ------------- | ------------- | ------------- | ------------- |
+| Bug  | 99% | 92%  | 11  |
+| Suggestion  | 92% | 23%  | 78  |
+| Help-desk  | 100% | 42%  | 11  |
+
+## Fixed
+- fixed: sprite name has been duplicated (reporter: @.Casty)
+
 ## 2023Y3M4W
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
