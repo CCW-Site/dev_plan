@@ -33,7 +33,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @Mirako San | bug | Sprites are replaced | collin  | Open  | 2023-04-02 |  |
-| @.Casty | bug | sprite name has been duplicated | collin  | Closed  | 2023-03-31 |  |
 | @.Casty | suggestion | plz relocate the add sprite button plzz | collin  | Open  | 2023-04-02 |  |
 | @Kebabo | suggestion | emojis in the discord | collin  | Open  | 2023-04-02 |  |
 | @Outrunfungus43 | suggestion | View Remixes Of Projects | collin  | Open  | 2023-04-01 |  |
@@ -101,10 +100,8 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @SpicyIcy  | suggestion | a general "art" channel | collin  | Open  | 2023-03-10 |  |
 | @fathVIII_DCLVIII  | suggestion | a way to change html embed size before actually download it | collin  | Open  | 2023-03-10 |  |
 | @Echoless  | suggestion | Infinite Vector Editor | collin  | Open  | 2023-03-10 |  |
-| @Outrunfungus43  | suggestion | Advertisement Chat In Server | collin  | Open  | 2023-03-10 |  |
 | @SpicyIcy  | suggestion | revamp the site Layout | collin  | Open  | 2023-03-09 |  |
 | @Prins  | suggestion | Scene Manager | collin  | Open  | 2023-03-09 |  |
 | @Da_Creator  | suggestion | Game Achievements/badges/game completion% | collin  | Open  | 2023-03-08 |  |
@@ -118,6 +115,10 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Suggestion  | 90% | 15%  | 85  |
 | help-with-scripts  | 100% | 50%  | 9  |
 
+## Added
+- added: a general "art" channel (reporter: @SpicyIcy)
+- added: Advertisement Chat In Server (reporter: @Outrunfungus43)
+
 ## 2023Y3M1W
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
@@ -128,7 +129,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Tessal  | bug | Glitching appearance | collin  | Open  | 2023-03-01 |  |
 | @Kawaii Killers  | suggestion | Post Processing, Camera Blocks, Speech to Text, File Downloader, More stages, etc. | collin  | Open  | 2023-03-04 |  |
 | @saraysxroom  | suggestion | option to minimize graphics | collin  | Open  | 2023-03-03 |  |
-| @SpicyIcy  | suggestion | A list of rejected suggestions | collin  | Open  | 2023-02-28 |  |
 | @SpicyIcy  | suggestion | Please make the "popular projects" tab scrollable | collin  | Open  | 2023-02-28 |  |
 
 | Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
@@ -142,19 +142,20 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - fixed: easier collaboration (reporter: @-Undertale--pro-)
 - fixed: Editor cannot load when not sign in (reporter: @fathVIII_DCLVIII)
 
+## Rejected
+- rejected: A list of rejected suggestions (reporter: @SpicyIcy)
+
 
 ## 2023Y2M4W
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @Tessal  | bug | Saves are broken again  | collin  | Open  | 2023-02-24 |  |
 | @Tessal  | bug | Broadcasts not escaping...  | collin  | Open  | 2023-02-22 |  |
 | @Tessal  | bug | function refuses to function  | collin  | Open  | 2023-02-22 |  |
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | bug | Costume editor vs Cloud Backpack glitch  | collin  | Open  | 2023-02-22 |  |
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | suggestion | More consistent backdrops title  | collin  | Open  | 2023-02-24 |  |
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | suggestion | Maybe add “All times” availability for Naquagems  | collin  | Open  | 2023-02-24 |  |
 | @Kebabo  | suggestion | Random project button on cocrea  | collin  | Open  | 2023-02-24 |  |
-| @Kebabo  | suggestion | Can we have more emojis in the server?  | collin  | Open  | 2023-02-22 |  |
 | @Kebabo  | suggestion | Rating projects  | collin  | Open  | 2023-02-22 |  |
 | @Tessal  | suggestion | Game workshops  | collin  | Open  | 2023-02-21 |  |
 | @FreshPenguin112  | suggestion | new "check out other mods" video series  | collin  | Open  | 2023-02-21 |  |
@@ -164,6 +165,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Bug  | 99% | 90%  | 25  |
 | Suggestion  | 90% | 18%  | 145  |
 | Help-desk  | 100% | 40%  | 15  | 
+
+### Fixed
+-fixed: Saves are broken again (reporter: Tessal)
 
 ## 2023Y2M3W
 
@@ -203,7 +207,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @ᴋᴇʙᴀʙᴏ  | suggestion | an option to manually remove an extension  | Collin  | Open  | 2023-02-11 |  |
 | @fathVIII_DCLVIII  | suggestion | multi select feature  | Collin  | Open  | 2023-02-11 |  |
 | @ᴋᴇʙᴀʙᴏ  | suggestion | box2D extension update  | Collin  | Open  | 2023-02-11 |  |
-| @fathVIII_DCLVIII  | suggestion | rename the Gandi role to Dev  | Collin  | Close  | 2023-02-10 |  |
 | @fathVIII_DCLVIII  | suggestion | Have an option to download HTML as 1300x690  | Collin  | Open  | 2023-02-09 |  |
 | @ᴋᴇʙᴀʙᴏ  | suggestion | show 4 cards instead of 3 per rows  | Collin  | Open  | 2023-02-09 |  |
 | @ᴋᴇʙᴀʙᴏ  | suggestion | automatically open the left  | Collin  | Open  | 2023-02-09 |  |
@@ -217,6 +220,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 ## Added
 - added: please add an offtopic and memes channel (reporter: @Blueberri)
+- added: rename the Gandi role to Dev (reporter: @fathVIII_DCLVIII)
 
 ## Fixed
 - fixed: Channel Permission Setting Issue (reporter: @Blueberri)
