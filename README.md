@@ -27,6 +27,20 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ, linxin, jagger
 
+
+## 2023Y3M5W
+
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @Mirako San | bug | Sprites are replaced | collin  | Open  | 2023-04-02 |  |
+| @.Casty | bug | sprite name has been duplicated | collin  | Closed  | 2023-03-31 |  |
+| @.Casty | suggestion | plz relocate the add sprite button plzz | collin  | Open  | 2023-04-02 |  |
+| @Kebabo | suggestion | emojis in the discord | collin  | Open  | 2023-04-02 |  |
+| @Outrunfungus43 | suggestion | View Remixes Of Projects | collin  | Open  | 2023-04-01 |  |
+| @Outrunfungus43 | suggestion | Cocrea Home Page Changes | collin  | Open  | 2023-04-01 |  |
+| @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05 | suggestion | Reimplement the ability to delete all sounds | collin  | Open  | 2023-03-30 |  |
+| @Da_Creator | suggestion | Mic Extension (Voice-Chat MMO and Voice Blocks) | collin  | Open  | 2023-02-28 |  |
+
 ## 2023Y3M4W
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
@@ -36,11 +50,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Echoless  | suggestion | Import file [fileExtension] and replace [sprite,costume,sound name] | collin  | Open  | 2023-03-26 |  |
 | @Echoless  | suggestion | Stages | collin  | Open  | 2023-03-25 |  |
 | @Echoless  | suggestion | Gandi Extension Suite | collin  | Open  | 2023-03-25 |  |
-| @Echoless  | suggestion | Gandi Extension Suite | collin  | Open  | 2023-03-25 |  |
 | @fathVIII_DCLVIII  | suggestion | A way to prevent project stealing | collin  | Open  | 2023-03-24 |  |
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | suggestion | Restore the custom cursor for the editor | collin  | Open  | 2023-03-22 |  |
 | @ramanking101  | suggestion | mascot | collin  | Open  | 2023-03-22 |  |
-| @Echoless  | suggestion | mascot | collin  | Open  | 2023-03-22 |  |
 | @Tessal  | suggestion | Official Forumns | Open  | Open  | 2023-03-21 |  |
 | @Five Dank Nights at Meme’s 3  | suggestion | Better Mobile site support | collin | Open  | 2023-03-20 |  |
 
