@@ -41,7 +41,10 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @.Casty | suggestion | Ability to collapse long statements | collin  | Open  | 2023-04-05 |  |
 | @DNASTER202020 | suggestion | 2 dedicated play and pause sound blocks compatible with scratch | collin  | Open  | 2023-04-04 |  |
 
-
+| Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
+| ------------- | ------------- | ------------- | ------------- |
+| Bug  | 100% | 90%  | 17  |
+| Suggestion  | 90% | 21%  | 37  |
 
 ## 2023Y3M5W
 
