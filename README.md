@@ -27,6 +27,25 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ, linxin, jagger
 
+## 2023Y4M2W
+
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @ElmoBear02 | bug | getting System exception | collin  | Open  | 2023-04-16 |  |
+| @ElmoBear02 | bug | My profile didnt save | collin  | Open  | 2023-04-16 |  |
+| @TMN | bug | invalid token | collin  | Open  | 2023-04-12 |  |
+| @fathVIII_DCLVIII | suggestion | Gandi camp possibility | collin  | Open  | 2023-04-16 |  |
+| @§k | suggestion | /exchange for xbox gift card | collin  | Open  | 2023-04-14 |  |
+| @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05 | suggestion | Add an option to duplicate a project | collin  | Open  | 2023-04-11 |  |
+| @AndyGun11 | suggestion | Minus Filters | collin  | Open  | 2023-04-10 |  |
+| @Amine Game Maker | suggestion | Make the screen modifiable | collin  | Open  | 2023-04-10 |  |
+
+
+| Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
+| ------------- | ------------- | ------------- | ------------- |
+| Bug  | 100% | 90%  | 17  |
+| Suggestion  | 90% | 21%  | 37  |
+
 ## 2023Y4M1W
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
