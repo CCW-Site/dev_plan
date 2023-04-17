@@ -62,8 +62,8 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 | Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
 | ------------- | ------------- | ------------- | ------------- |
-| Bug  | 100% | 90%  | 17  |
-| Suggestion  | 90% | 21%  | 37  |
+| Bug  | 99% | 90%  | 17  |
+| Suggestion  | 90% | 21%  | 39  |
 
 ## 2023Y3M5W
 
