@@ -35,6 +35,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @ElmoBear02 | bug | My profile didnt save | collin  | Open  | 2023-04-16 |  |
 | @TMN | bug | invalid token | collin  | Open  | 2023-04-12 |  |
 | @fathVIII_DCLVIII | suggestion | Gandi camp possibility | collin  | Open  | 2023-04-16 |  |
+| @PuzzlingGGG | suggestion | Link previewing | collin  | Open  | 2023-04-15 |  |
 | @§k | suggestion | /exchange for xbox gift card | collin  | Open  | 2023-04-14 |  |
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05 | suggestion | Add an option to duplicate a project | collin  | Open  | 2023-04-11 |  |
 | @AndyGun11 | suggestion | Minus Filters | collin  | Open  | 2023-04-10 |  |
