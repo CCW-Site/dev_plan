@@ -31,6 +31,30 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @Frisk | bug | can't due anything due to constant invalid token errors | collin  | Open  | 2023-04-23 |  |
+| @Tessal | bug | Some letters do not appear in Terminal | collin  | Open  | 2023-04-23 |  |
+| @giftboxx | bug | project not loading | collin  | Open  | 2023-04-20 |  |
+| @fath11 | bug | some collab mode and mmo problem | collin  | Open  | 2023-04-19 |  |
+| @poprock | suggestion | Tags for sprites (sprite groups) | collin  | Open  | 2023-04-23 |  |
+| @babilx | suggestion | onion skinning | collin  | Open  | 2023-04-22 |  |
+| @babilx | suggestion | fix sprite importing | collin  | Open  | 2023-04-22 |  |
+| @HexMan | suggestion | Instant Update | collin  | Open  | 2023-04-22 |  |
+| @.Casty | suggestion | I have no idea what to put in the title so here goes a random link of meaningful words: Fix please | collin  | Open  | 2023-04-21 |  |
+| @Amine Game Maker | suggestion | Java Script extensions on Gandi IDE | collin  | Open  | 2023-04-19 |  |
+| @RontheWarrior | suggestion | Better Auto Save Feature | collin  | Rejected  | 2023-04-19 |  |
+| @Tessal | suggestion | Quack Improvements | collin  | Open  | 2023-04-18 |  |
+| @Tessal | suggestion | Fix directions | collin  | Open  | 2023-04-18 |  |
+| @fath11 | suggestion | Save to your computer on button | collin  | Open  | 2023-04-17 |  |
+
+| Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
+| ------------- | ------------- | ------------- | ------------- |
+| Bug  | 99% | 90%  | 15 |
+| Suggestion  | 90% | 20%  | 43 |
+
+## 2023Y4M2W
+
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @ElmoBear02 | bug | getting System exception | collin  | Open  | 2023-04-16 |  |
 | @ElmoBear02 | bug | My profile didnt save | collin  | Open  | 2023-04-16 |  |
 | @TMN | bug | invalid token | collin  | Open  | 2023-04-12 |  |
