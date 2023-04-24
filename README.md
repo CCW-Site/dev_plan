@@ -41,7 +41,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @HexMan | suggestion | Instant Update | collin  | Open  | 2023-04-22 |  |
 | @.Casty | suggestion | I have no idea what to put in the title so here goes a random link of meaningful words: Fix please | collin  | Open  | 2023-04-21 |  |
 | @Amine Game Maker | suggestion | Java Script extensions on Gandi IDE | collin  | Open  | 2023-04-19 |  |
-| @RontheWarrior | suggestion | Better Auto Save Feature | collin  | Rejected  | 2023-04-19 |  |
 | @Tessal | suggestion | Quack Improvements | collin  | Open  | 2023-04-18 |  |
 | @Tessal | suggestion | Fix directions | collin  | Open  | 2023-04-18 |  |
 | @fath11 | suggestion | Save to your computer on button | collin  | Open  | 2023-04-17 |  |
@@ -50,6 +49,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | ------------- | ------------- | ------------- | ------------- |
 | Bug  | 99% | 90%  | 15 |
 | Suggestion  | 90% | 20%  | 43 |
+
+## Rejected
+- rejected: Better Auto Save Feature
 
 ## 2023Y4M2W
 
