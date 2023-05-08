@@ -58,6 +58,11 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @ColeMoir | suggestion | G-Kamera "set camera mode" block | collin  | Open  | 2023-04-28 |  |
 | @NotSoPTBP | suggestion | Variable alert | collin  | Open  | 2023-04-27 |  |
 
+| Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
+| ------------- | ------------- | ------------- | ------------- |
+| Bug  | 99% | 90%  | 19 |
+| Suggestion  | 90% | 20%  | 36 |
+
 ## 2023Y4M2W
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
