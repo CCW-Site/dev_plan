@@ -27,6 +27,37 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ, linxin, jagger
 
+## 2023Y4M4W-2023Y5M1W
+
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @vernacular | bug |AI block “reset context” is not working | collin  | Open  | 2023-05-07 |  |
+| @4756 | bug | scrollbar intercept with screen in editor mode | collin  | Open  | 2023-05-06 |  |
+| @ArtemisMS | bug | Color-Selection Tool Is Not Working | collin  | Open  | 2023-05-06 |  |
+| @.Casty | bug | halp is crash reload cant fix | collin  | Open  | 2023-05-06 |  |
+| @fathnormalizing | bug | mouse will be offset when the camera is moved with g-kamera extension | collin  | Open  | 2023-05-05 |  |
+| @NotSoPTBP | bug | My project got overwritten because of a bug | collin  | Open  | 2023-05-03 |  |
+| @Tessal | bug | G-kamera | collin  | Open  | 2023-04-30 |  |
+| @DJQtip | bug | I can't access previously edited projects | collin  | Open  | 2023-04-30 |  |
+| @DJQtip | bug | Collaboration Bug | collin  | Open  | 2023-04-29 |  |
+| @Twist | bug | Blank Screen | collin  | Open  | 2023-04-27 |  |
+| @Razor Xo | bug | Failed to save | collin  | Open  | 2023-04-27 |  |
+| @별Xhris_YD빛 | bug | Slowly | collin  | Open  | 2023-04-25 |  |
+| @Chew | bug | new prob with loading that interferes how mmo works | collin  | Open  | 2023-04-24 |  |
+| @.Casty | suggestion | True (and false block) block that looks better than <0 = 0> | collin  | Open  | 2023-05-07 |  |
+| @.Casty | suggestion | Gandi Pure Math function: expr (---) when (--) is (--) | collin  | Open  | 2023-05-07 |  |
+| @AndyGun11 | suggestion | Add Bluewillow bot to the Discord Server | collin  | Open  | 2023-05-07 |  |
+| @fathnormalizing | suggestion | We need to give evil gandi robot a name | collin  | Open  | 2023-05-05 |  |
+| @fathnormalizing | suggestion | change the evil gandi robot chest logo to cocrea logo | collin  | Open  | 2023-05-05 |  |
+| @chipiseth | suggestion | MAKE RANDOM TAB | collin  | Open  | 2023-05-05 |  |
+| @Echoless | suggestion | Global Filters | collin  | Open  | 2023-05-05 |  |
+| @SpicyIcy | suggestion | Customize the AI a bit more | collin  | Open  | 2023-05-04 |  |
+| @fathnormalizing | suggestion | make a Odyssey supports custom stage size | collin  | Open  | 2023-05-04 |  |
+| @Tessal | suggestion | World Generation Extension | collin  | Open  | 2023-05-01 |  |
+| @jn567 | suggestion | project review system | collin  | Open  | 2023-04-30 |  |
+| @ColeMoir | suggestion | G-Kamera "set camera mode" block | collin  | Open  | 2023-04-28 |  |
+| @NotSoPTBP | suggestion | Variable alert | collin  | Open  | 2023-04-27 |  |
+
 ## 2023Y4M2W
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
