@@ -39,6 +39,11 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05 | suggestion | Revamp the item sections for the Cloud Backpack | collin  | Open  | 2023-05-10 |  |
 | @𝘿𝙖_𝘾𝙧𝙚𝙖𝙩𝙤𝙧 | suggestion | Studios | collin  | Open  | 2023-05-08 |  |
 
+| Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
+| ------------- | ------------- | ------------- | ------------- |
+| Bug  | 98% | 89%  | 26 |
+| Suggestion  | 90% | 19%  | 47 |
+
 ## 2023Y4M4W-2023Y5M1W
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
