@@ -43,7 +43,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @CyberNat2000 | suggestion | 5 NGs for bump the server | collin  | Open  | 2023-05-16 |  |
 | @Fath11 | suggestion | Change the filter blocks tool | collin  | Open  | 2023-05-16 |  |
 | @Python boi | suggestion | Ability to add dropdowns to custom blocks | collin  | Open  | 2023-05-16 |  |
-| @Python boi | suggestion | Ability to add dropdowns to custom blocks | collin  | Open  | 2023-05-16 |  |
 
 | Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
 | ------------- | ------------- | ------------- | ------------- |
