@@ -90,7 +90,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Chew | bug | new prob with loading that interferes how mmo works | collin  | Open  | 2023-04-24 |  |
 | @.Casty | suggestion | True (and false block) block that looks better than <0 = 0> | collin  | Open  | 2023-05-07 |  |
 | @.Casty | suggestion | Gandi Pure Math function: expr (---) when (--) is (--) | collin  | Open  | 2023-05-07 |  |
-| @AndyGun11 | suggestion | Add Bluewillow bot to the Discord Server | collin  | Open  | 2023-05-07 |  |
 | @fathnormalizing | suggestion | We need to give evil gandi robot a name | collin  | Open  | 2023-05-05 |  |
 | @fathnormalizing | suggestion | change the evil gandi robot chest logo to cocrea logo | collin  | Open  | 2023-05-05 |  |
 | @chipiseth | suggestion | MAKE RANDOM TAB | collin  | Open  | 2023-05-05 |  |
@@ -106,6 +105,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | ------------- | ------------- | ------------- | ------------- |
 | Bug  | 99% | 90%  | 19 |
 | Suggestion  | 90% | 20%  | 36 |
+
+## Added
+- added: Add Bluewillow bot to the Discord Server (reporter: @AndyGun11)
 
 ## 2023Y4M2W
 
