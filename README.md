@@ -879,7 +879,6 @@ Community Contributor board(2022/12/26~2023/01/01)
 | @poprock  | suggestion | develop a manage tool to read all current user data  | linxin  | Open  | 2022-11-07 |  |
 | @labrosggv  | bug | Create a global block in a module.Move the global block in any other sprite.Remove the module.Edit the global block.You will have a global block in a normal sprite that is called undefined.block name.| HCN  | Open | 2022-11-09 |  |
 | @poprock  | suggestion | better vector editor and support for google fonts and custom fonts for text boxes | HCN  | Open  | 2022-11-12 |  |
-| @CoolScratcher  | suggestion | server suggestion: don't name all the bots "gandi bot," it looks weird | 0xVision.eth  | Done  | 2022-11-11 | 2022-11-14 | 
 
 ### Fixed
 - Fixed: can't use the collab things (reporter: EndrYT)
@@ -892,6 +891,7 @@ Community Contributor board(2022/12/26~2023/01/01)
 
 ### Added
 - added: AI scratch extension support (reporter: @Wokafish)
+- added: don't name all the bots "gandi bot," it looks weird (reporter: @CoolScratcher)
 
 ### **Community Contributor board(2022/11/07~2022/11/13)**
 - @labrosggv#2097  : 2 :bulb: 2  :bug:
