@@ -565,7 +565,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | suggestion | change the in-editor comment design | Collin  | Open  | 2022-12-25 |   |
 | @Tessal  | suggestion | Break and Continue blocks | Collin  | Open  | 2022-12-23 |   |
 | @HexMan  | suggestion | NG Transactions | Collin  | Open  | 2022-12-23 |   |
-| @unexpectedIntegerNull  | suggestion | Username changing | Collin  | Open  | 2022-12-21 |   |
 | @unexpectedIntegerNull  | suggestion | NG gifting from Cocrea NG dashboard | Collin  | Open  | 2022-12-21 |   |
 | @Julius MODS  | suggestion | Sprite Folders. | Collin  | Open  | 2022-12-20 |   |
 | @🎄 Mewster 🎄  | suggestion | Moderators (Add-On from a former one) | Collin  | Open  | 2022-12-20 |   |
@@ -580,6 +579,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - Fixed: Random Menu POP Up (reporter: @HexMan)
 - Fixed: Cloud Backpack Issues (reporter: @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05)
 - Fixed: Mis-spelt message (reporter: @unexpectedIntegerNull)
+
+### Rejected
+- rejected: Username changing (reporter: @unexpectedIntegerNull)
 
 
 Community Contributor board(2022/12/26~2023/01/01)
