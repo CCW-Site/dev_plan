@@ -3,7 +3,7 @@
 Here is the development plan tracking log of the Gandi IDE and Cocrea team, All improvement suggestions and bugs raised by users are recorded here and kept updated for quick feedback. If you have any questions or suggestions, please join our discord server to ask.
 
 - [discord server](https://discord.gg/QVUyFEQres)
-- [cocrea](https://cocrea.world/)
+- [cocrea](https://cocrea.world/)f
 
 
 ## Types of changes
@@ -567,11 +567,13 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @HexMan  | suggestion | NG Transactions | Collin  | Open  | 2022-12-23 |   |
 | @unexpectedIntegerNull  | suggestion | NG gifting from Cocrea NG dashboard | Collin  | Open  | 2022-12-21 |   |
 | @Julius MODS  | suggestion | Sprite Folders. | Collin  | Open  | 2022-12-20 |   |
-| @🎄 Mewster 🎄  | suggestion | Moderators (Add-On from a former one) | Collin  | Open  | 2022-12-20 |   |
 | @zep-excpoint  | suggestion | Touching (sprite) from (direction) side | Collin  | Open  | 2022-12-20 |   |
 | @Martinelplayz  | suggestion | random project button & project tags & search mechanics | Collin  | Open  | 2022-12-19 |   |
 | @Pootis  | suggestion | Keyframe Extension | Collin  | Open  | 2022-12-19 |   |
 | @Chemical Coding  | suggestion | Deleting Broadcasts | Collin  | Open  | 2022-12-19 |   |
+
+### Added
+- added: Moderators (Add-On from a former one) (reporter: @🎄 Mewster 🎄)
 
 
 ### Fixed
