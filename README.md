@@ -825,9 +825,7 @@ Community Contributor board(2022/12/26~2023/01/01)
 | @CoolScratcher  | suggestion | costume editor doesn't fit gandi  | HCN  | Open  | 2022-11-14 |  |
 | @poprock  | suggestion | make there be an option when uploading a project file (.sb3) to make it replace the current project or make a new one  | HCN  | Open  | 2022-11-15 |  |
 | @zep-excpoint  | bug | cant use extension hat blocks with booleans or strings  | xiqoqiang | Open  | 2022-11-16 |  |
-| @AdamTheDumbPerson  | bug | mmo bug  | HCN | Open  | 2022-11-18 |  |
 | @popkorn  | suggestion | download a file in the cloud storage through the project | HCN | Open  | 2022-11-17 |  |
-| @dandan  | bug | gandi IDE is unusable on chromebooks right now | HCN | Open  | 2022-11-19 |  |
 | @PerlinNoise  | bug | Can't view code properly | HCN | Open  | 2022-11-20 |  |
 | @PerlinNoise  | suggestion | 3D game extension | HCN | Open  | 2022-11-20 |  |
 | @PerlinNoise  | suggestion | 2D world generation | HCN | Open  | 2022-11-20 |  |
@@ -847,6 +845,8 @@ Community Contributor board(2022/12/26~2023/01/01)
 - Fixed: version control not working (reporter: @popkorn)
 - Fixed: Random error (reporter: @PerlinNoise)
 - Fixed: Black-screen bug (reporter: @HarlanX)
+- fixed: mmo bug (reporter: @AdamTheDumbPerson)
+- fixed: gandi IDE is unusable on chromebooks right now (reporter: @dandan)
 
 ### Added
 - Added: NG leaderboard (reporter: CoolScratcher)
