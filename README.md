@@ -611,7 +611,6 @@ Community Contributor board(2022/12/26~2023/01/01)
 | @Martinelplayz  | bug | upon putting my project to 16:9 the stage became very stretched and so did all sprites attached  | linxin  | Open  | 2022-12-16 |  |
 | @PerlinNoise  | suggestion | Cocrea Docs are outdated  | collin  | Open  | 2022-12-18 |  |
 | @🎄 Mewster 🎄  | suggestion | Devlog feature (like itch.io)  | collin  | Open  | 2022-12-18 |  |
-| @PerlinNoise  | suggestion | Community-hosted or requested game jams  | Jamin  | Open  | 2022-12-18 |  |
 | @wzy1tenyears  | suggestion | improve cocrea network for china pls | collin  | Open  | 2022-12-16 |  |
 | @Mintil  | suggestion | pls let blocks have customizable skin | collin  | Open  | 2022-12-16 |  |
 | @robo  | suggestion | Add the [for each [var] in (10)] block | collin  | Jamin  | 2022-12-16 |  |
@@ -620,7 +619,6 @@ Community Contributor board(2022/12/26~2023/01/01)
 | @Tessal  | suggestion | Improved Layering | linxin  | Open  | 2022-12-15 |  |
 | @Tessal  | suggestion | QOL Improvements | collin  | Open  | 2022-12-15 |  |
 | @Papichi05  | suggestion | Gandi IDE Offline Editor | HCN  | Open  | 2022-12-15 |  |
-| @labrosggv  | suggestion | A project option to disable autosaving | collin  | Open  | 2022-12-14 |  |
 | @CoolScratcher  | suggestion | Interactive Extension Selecting | collin  | Open  | 2022-12-13 |  |
 | @HexMan  | suggestion | Turbowarp custom extention | HCN  | Open  | 2022-12-13 |  |
 | @robo  | suggestion | remove this useless asf block | collin  | Open  | 2022-12-13 |  |
@@ -636,6 +634,8 @@ Community Contributor board(2022/12/26~2023/01/01)
 ### Added
 - added: Ping Roles (reporter: @CoolScratcher)
 - added: Weekly game jam (reporter: @HexMan)
+- added: Community-hosted or requested game jams (reporter: @PerlinNoise)
+- added: A project option to disable autosaving (reporter: @labrosggv)
 
 
 ### Community Contributor board(2022/12/12~2022/12/18)
@@ -670,9 +670,7 @@ Community Contributor board(2022/12/26~2023/01/01)
 | @Tricky313  | suggestion | should be able to resize each of the side tabs | linxin  | Open  | 2022-12-10  |  |
 | @Exo  | suggestion | custom stage sizes | linxin  | Open  | 2022-12-10  |  |
 | @HexMan  | suggestion | It would be nice to put variables into a folder just like you can with sprites using and extension | linxin  | Open  | 2022-12-10  |  |
-| @Tessal  | suggestion | make our own templates | linxin  | Open  | 2022-12-09  |  |
-| @CupStudios  | suggestion | A specific channel to send media like photos or videos | collin  | Open  | 2022-12-08  |  |
-| @DarkerGEN  | suggestion | Each weekly-game-fest should have themes to base the game on | 0xVision.eth  | Open  | 2022-12-08  |  |
+| @Tessal  | suggestion | make our own templates | linxin  | Open  | 2022-12-09  |  ||
 | @popkorn  | suggestion | Character rigging or parenting extension | Jamin  | Open  | 2022-12-07  |  |
 | @NotSoPTBP  | suggestion | Better Extension layout | linxin  | Open  | 2022-12-07  |  |
 | @CupStudios  | suggestion | Crowdin Gandi Page | collin  | Open  | 2022-12-06  |  |
@@ -689,9 +687,11 @@ Community Contributor board(2022/12/26~2023/01/01)
 ### Added
 - Added: Bot Commands Channel (reporter: ☭ Mewster ☭)
 - Added: project showcase channel (reporter: @zep-excpoint)
+- added: A specific channel to send media like photos or videos (reporter: @CupStudios)
 
 ### Rejected
 - Rejected: work command (reporter: CupStudios)
+- rejected: Each weekly-game-fest should have themes to base the game on (reporter: @DarkerGEN)
 
 ### Community Contributor board(2022/12/05~2022/12/11)
 - @CupStudios   : 4 💡
@@ -780,7 +780,6 @@ Community Contributor board(2022/12/26~2023/01/01)
 | @zep-excpoint  | suggestion | volume slider on side bar | linxin  | Open  | 2022-11-23 |  |
 | @labrosggv  | suggestion | Canvas extension addition | HCN  | Open  | 2022-11-25 |  |
 | @popkorn  | suggestion | extension - controller support| HCN  | Open  | 2022-11-21 |  |
-| @☭ Mewster ☭  | suggestion | Extension Idea - AI Creator | HCN  | Open  | 2022-11-21 |  |
 | @Costope21  | suggestion | The packager should package 16:9 screen size | HCN  | Open  | 2022-11-22 |  |
 | @wzy1tenyears  | suggestion | The windows in gandi aren't fit edge | collin  | Open  | 2022-11-22 |  |
 | @labrosggv  | suggestion | use a command that would generates a random project idea | ZJ  | Open  | 2022-11-22 |  |
@@ -798,6 +797,7 @@ Community Contributor board(2022/12/26~2023/01/01)
 - Added: Roles given for things people do (reporter: @☭ Mewster ☭)
 - Added: better points commands (reporter: @labrosggv)
 - Added: want a channel where people can look for people to help their projects (reporter: @winwinlmfao)
+- added: Extension Idea - AI Creator (reporter: @☭ Mewster ☭)
 
 ### Community Contributor board(2022/11/21~2022/11/27)
 - @labrosggv  : 5 💡 3 🐛
@@ -877,7 +877,6 @@ Community Contributor board(2022/12/26~2023/01/01)
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @Martinelplayz  | bug | bug : i was using opera, and moving from the page to page is difficult on gandi because i kept being told to sign in, despite the fact i WAS signed in. almost every page i entered would act like i was signed out until i reload the page. including the editor  | HCN  | Open  | 2022-11-07 |  |
 | @poprock  | suggestion | develop a manage tool to read all current user data  | linxin  | Open  | 2022-11-07 |  |
-| @Wokafish  | suggestion | AI scratch extension support  | Jamin  | In Progress  | 2022-11-07 |  |
 | @labrosggv  | bug | Create a global block in a module.Move the global block in any other sprite.Remove the module.Edit the global block.You will have a global block in a normal sprite that is called undefined.block name.| HCN  | Open | 2022-11-09 |  |
 | @poprock  | suggestion | better vector editor and support for google fonts and custom fonts for text boxes | HCN  | Open  | 2022-11-12 |  |
 | @CoolScratcher  | suggestion | server suggestion: don't name all the bots "gandi bot," it looks weird | 0xVision.eth  | Done  | 2022-11-11 | 2022-11-14 | 
@@ -890,6 +889,9 @@ Community Contributor board(2022/12/26~2023/01/01)
 - Fixed: The new gui covers the arrows in the extensions sidebar (reporter: labrosggv)
 - Fixed: gandi deleting any duplicates(reporter: poprock)
 - Fixed: cannot loading projectd (reporter: Portraito)
+
+### Added
+- added: AI scratch extension support (reporter: @Wokafish)
 
 ### **Community Contributor board(2022/11/07~2022/11/13)**
 - @labrosggv#2097  : 2 :bulb: 2  :bug:
