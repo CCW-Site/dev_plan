@@ -31,7 +31,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @Chili_chil1 | bug | Gandi keeps deleting my game | collin  | Open  | 2023-05-21 |  |
 | @CleverUsername | bug | whenever I try to edit my background it crashes entirely | collin  | Open  | 2023-05-21 |  |
 | @Zsergi77 | bug | My project doesn't load | collin  | Open  | 2023-05-20 |  |
 | @Fath11 | bug | i cant remix | collin  | Open  | 2023-05-20 |  |
@@ -48,6 +47,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | ------------- | ------------- | ------------- | ------------- |
 | Bug  | 99% | 90%  | 34 |
 | Suggestion  | 90% | 19%  | 45 |
+
+## Rejected
+- rejected: Gandi keeps deleting my game (reporter: @Chili_chil1)
 
 ## 2023Y5M2W
 
