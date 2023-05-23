@@ -439,7 +439,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | suggestion | Add glossy blur effect as some backgrounds OR enable draggable windows  | HCN  | Open  | 2023-01-15 |  |
 | @Kebabo (not chinese)  | suggestion | Everyone can upload assets in marketplace  | HCN  | Open  | 2023-01-14 |  |
 | @𝒔𝒌𝒚𝒅𝒓3𝒙𝒙  | suggestion | Make tiktok ADS  | Collin  | Open  | 2023-01-13 |  |
-| @𝒔𝒌𝒚𝒅𝒓3𝒙𝒙  | suggestion | please add html converting  | HCN  | Open  | 2023-01-13 |  |
 | @CupStudios  | suggestion | Firebase SDK  | HCN  | Open  | 2023-01-13 |  |
 | @Tessal  | suggestion | Other programming language support  | HCN  | Open  | 2023-01-12 |  |
 | @Pelf0xx  | suggestion | change the mouse chat with a group chat  | linxin  | Open  | 2023-01-12 |  |
@@ -467,6 +466,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 ## Fixed
 - Fixed: can't make versions on any project (reporter: @Kebabo (not chinese))
+
+## Added
+- added: please add html converting (reporter: @𝒔𝒌𝒚𝒅𝒓3𝒙𝒙)
 
 
 | Type      | Reply rate       | Resolution rate   | Unresolved Quantity         |
