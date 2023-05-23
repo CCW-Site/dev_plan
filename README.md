@@ -99,7 +99,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Tessal | suggestion | World Generation Extension | collin  | Open  | 2023-05-01 |  |
 | @jn567 | suggestion | project review system | collin  | Open  | 2023-04-30 |  |
 | @ColeMoir | suggestion | G-Kamera "set camera mode" block | collin  | Open  | 2023-04-28 |  |
-| @NotSoPTBP | suggestion | Variable alert | collin  | Open  | 2023-04-27 |  |
 
 | Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
 | ------------- | ------------- | ------------- | ------------- |
@@ -108,6 +107,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 ## Added
 - added: Add Bluewillow bot to the Discord Server (reporter: @AndyGun11)
+- added: Variable alert (reporter: @NotSoPTBP)
 
 ## 2023Y4M2W
 
