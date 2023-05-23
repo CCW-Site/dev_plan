@@ -532,7 +532,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @fath11  | bug | I have banned myself | HCN  | Done  | 2022-12-26 |  |
 | @Tessal  | suggestion | New organized workspace | HCN  | Open  | 2023-01-01 |  |
 | @Tessal  | suggestion | HJSON support for ''Data Utilities'' Extension | HCN  | Open  | 2023-01-01 |  |
-| @CupStudios  | suggestion | More languages channels | HCN  | Open  | 2022-12-30 |  |
 | @unexpectedIntegerNull  | suggestion | Disconnect certain session IDs or usernames | HCN  | Open  | 2022-12-30 |  |
 | @unexpectedIntegerNull  | suggestion | MMO Extension generates error codes so the game can display different messages | HCN  | Open  | 2022-12-30 |  |
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | suggestion | File Folders in Media Cloud Section | HCN  | Open  | 2022-12-29 |  |
@@ -551,6 +550,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 ## Fixed
 - Fixed: cannot open project (reporter: @Chasma)
+
+## Rejected
+- rejected: More languages channels (reporter: @CupStudios)
 
 ## 2022Y12M4W
 ### Plan
