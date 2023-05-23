@@ -398,7 +398,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @Tessal  | bug | White Screen  | HCN  | Open  | 2023-01-27 |  |
 | @wzy1tenyears  | bug | add many extensions will happen  | collin  | Open  | 2023-01-23 |  |
-| @Kebabo  | bug | "For all sprites" not working  | collin  | Open  | 2023-01-20 |  |
 | @Da_Creator  | suggestion | add an uninstall for extensions  | HCN  | Open  | 2023-01-28 |  |
 | @poprock  | suggestion | Multiple editors in a sprite  | ZJ  | Open  | 2023-01-27 |  |
 | @ron  | suggestion | gandi ide should support other audio files  | HCN  | Open  | 2023-01-24 |  |
@@ -425,16 +424,15 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - Fixed: a few ago (reporter: @catthatcanturnvalves)
 - Fixed: Abnormal Connection (reporter: @Mattcraft/@ron/@𝓟𝓪𝓹𝓲𝓬𝓱𝓲05/@HexMan/@Classic)
 
-## Removed
-- removed: a problem about add face sensing extensions (reporter: @wzy1tenyears)
+## Rejected
+- rejected: a problem about add face sensing extensions (reporter: @wzy1tenyears)
+- rejected: "For all sprites" not working (reporter: @Kebabo)
 
 ## 2023Y1M3W
 ### Plan
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @fath11  | bug | i cant change my background  | linixn  | Open  | 2023-01-15 |  |
-| @Da_Creator  | bug | link not working after being a new link  | HCN  | Open  | 2023-01-15 |  |
 | @Kebabo (not chinese)  | bug | Griffpatch's physics extension  | Jamin  | Open  | 2023-01-11 |  |
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | suggestion | Add glossy blur effect as some backgrounds OR enable draggable windows  | HCN  | Open  | 2023-01-15 |  |
 | @Kebabo (not chinese)  | suggestion | Everyone can upload assets in marketplace  | HCN  | Open  | 2023-01-14 |  |
@@ -466,6 +464,8 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 ## Fixed
 - Fixed: can't make versions on any project (reporter: @Kebabo (not chinese))
+- fixed: i cant change my background (reporter: @fath11)
+- fixed: link not working after being a new link (reporter: @Da_Creator)
 
 ## Added
 - added: please add html converting (reporter: @𝒔𝒌𝒚𝒅𝒓3𝒙𝒙)
@@ -482,10 +482,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @zep-excpoint  | bug | a shared imported gandi project just links to my profile  | collin  | Open  | 2023-01-06 |  |
-| @Tessal  | bug | Can't Import file into list  | collin  | Open  | 2023-01-04 |  |
-| @Tessal  | bug | [Translation Bug] Share with Update  | collin  | Open  | 2023-01-04 |  |
-| @imknownBydifferentnames  | bug | Mysterious f added to my project link  | linxin  | Open  | 2023-01-02 |  |
 | @imknownBydifferentnames  | suggestion | My retinas are burning (dark mode on website)  | linxin  | Open  | 2023-01-08 |  |
 | @𝒔𝒌𝒚𝒅𝒓3𝒙𝒙  | suggestion | Please add HD file upload  | linxin  | Open  | 2023-01-08 |  |
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | suggestion | Display Folders in the main Cloud Backpack Interface  | HCN  | Open  | 2023-01-07 |  |
@@ -499,9 +495,13 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - fixed: search barely works (reporter: @imknownBydifferentnames)
 - fixed: Missing translation (reporter: @imknownBydifferentnames)
 - fixed: all of the code mysteriously disappeared (reporter: @imknownBydifferentnames)
+- fixed: a shared imported gandi project just links to my profile (reporter: @zep-excpoint)
+- fixed: Can't Import file into list (reporter: @Tessal)
 
 ## Rejected
 - rejected: about this server achieve 500 person's activity and a new NG's get way (reporter: wzy1tenyears)
+- rejected: [Translation Bug] Share with Update (reporter: @Tessal)
+- rejected: Mysterious f added to my project link (reporter: @imknownBydifferentnames)
 
 ### Community Contributor board(2023/01/02~2023/01/08)
 
@@ -522,14 +522,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Da_Creator  | bug | Quake crashed Gandi screen or whatever it is  | HCN  | Open  | 2023-01-01 |  |
 | @wzy1tenyears  | bug | no NG instraction  | HCN  | collin  | 2022-12-30 |  |
 | @fath11  | bug | all my project is corrupted lol  | HCN  | Open  | 2022-12-30 |  |
-| @Chasma  | bug | Progress rewinded and Bugged On the same project | HCN  | Open  | 2022-12-30 |  |
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | bug | Cloud Extension Page | HCN  | Open  | 2022-12-29 |  |
-| @CoolScratcher  | bug | Terminal exit color should be red | HCN  | Open  | 2022-12-28 |  |
 | @HexMan  | bug | Error after saving my custom addon | HCN  | Open  | 2022-12-28 |  |
-| @CoolScratcher  | bug | addToBackpack | HCN  | Open  | 2022-12-28 |  |
 | @labrosggv  | bug | Corrupted Project | HCN  | Open  | 2022-12-27 |  |
-| @CoolScratcher  | bug | Displaced scroll bar and zoom options | HCN  | Open  | 2022-12-27 |  |
-| @fath11  | bug | I have banned myself | HCN  | Done  | 2022-12-26 |  |
 | @Tessal  | suggestion | New organized workspace | HCN  | Open  | 2023-01-01 |  |
 | @Tessal  | suggestion | HJSON support for ''Data Utilities'' Extension | HCN  | Open  | 2023-01-01 |  |
 | @unexpectedIntegerNull  | suggestion | Disconnect certain session IDs or usernames | HCN  | Open  | 2022-12-30 |  |
@@ -550,6 +545,11 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 ## Fixed
 - Fixed: cannot open project (reporter: @Chasma)
+- fixed: Progress rewinded and Bugged On the same project (reporter: @Chasma)
+- fixed: Terminal exit color should be red (reporter: @CoolScratcher)
+- fixed: addToBackpack (reporter: @CoolScratcher)
+- fixed: Displaced scroll bar and zoom options (reporter: @CoolScratcher)
+- fixed: I have banned myself (reporter: @fath11)
 
 ## Rejected
 - rejected: More languages channels (reporter: @CupStudios)
@@ -662,7 +662,6 @@ Community Contributor board(2022/12/26~2023/01/01)
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @popkorn  | bug | videos in media extension suddenly not working  | HCN  | Open  | 2022-12-10 |  |
 | @dandan  | bug | project runs smoothly until you edit it  | HCN  | Open  | 2022-12-06  |  |
 | @winwinlmfao  | suggestion | Variables only for a specific script  | HCN  | Open  | 2022-12-11  |  |
 | @PerlinNoise  | suggestion | Unlisted mode for projects  | linxin  | Open  | 2022-12-11  |  |
@@ -683,6 +682,7 @@ Community Contributor board(2022/12/26~2023/01/01)
 ### Fixed
 - Fixed: cocrea error when reload (reporter: HexMan)
 - Fixed: old media utils logo found on getgandi.com chinese version (reporter: @popkorn)
+- fixed: videos in media extension suddenly not working (reporter: @popkorn)
 
 ### Added
 - Added: Bot Commands Channel (reporter: ☭ Mewster ☭)
@@ -716,10 +716,6 @@ Community Contributor board(2022/12/26~2023/01/01)
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @PerlinNoise  | bug | Custom extensions won't load  | HCN  | Open  | 2022-12-04 |  |
-| @hd  | bug | No video or audio folders to put mp3 or mp4 into  | linxin  | In Progress  | 2022-12-04 |  |
-| @Wokafish  | bug | Lists dont save  | HCN  | Open  | 2022-12-02 |  |
-| @Suumy0327  | bug | Variable right click bug  | HCN  | Open  | 2022-12-04 |  |
-| @Tessal   | bug | Functions calling from other sprites  | HCN  | Open  | 2022-12-03 |  |
 | @popkorn   | bug | Variables and lists not showing  | HCN  | Open  | 2022-11-30 |  |
 | @HexMa   | suggestion | Market Place  | HCN  | Open  | 2022-12-04 |  |
 | @NotSoPTBP   | suggestion | Interpolation (like in turbowarp)  | HCN  | Open  | 2022-11-30 |  |
@@ -740,9 +736,15 @@ Community Contributor board(2022/12/26~2023/01/01)
 ### Fixed
 - Fixed: Project duplicated all sprites and can't load the project (reporter: Creep5432.catrobat)
 - Fixed: automatically deletes sprite (reporter: PerlinNoise)
+- fixed: No video or audio folders to put mp3 or mp4 into (reporter: @hd)
 
 ### Added
 - Added: Search Button in Cocrea (reporter: ☭ Mewster ☭ )
+
+### Rejected
+- rejected: Variable right click bug (reporter: @Suumy0327) (no response)
+- rejected: Functions calling from other sprites (reporter: @Tessal) (no response)
+- rejected: Lists dont save (reporter: @Wokafish) (no response)
 
 ### Community Contributor board(2022/11/28~2022/12/04)
 - @PerlinNoise  : 1 💡 2 🐛
@@ -824,7 +826,6 @@ Community Contributor board(2022/12/26~2023/01/01)
 | @CoolScratcher  | bug | getting problem a lot whenever I use Quake  | HCN  | Open  | 2022-11-14 |  |
 | @CoolScratcher  | suggestion | costume editor doesn't fit gandi  | HCN  | Open  | 2022-11-14 |  |
 | @poprock  | suggestion | make there be an option when uploading a project file (.sb3) to make it replace the current project or make a new one  | HCN  | Open  | 2022-11-15 |  |
-| @zep-excpoint  | bug | cant use extension hat blocks with booleans or strings  | xiqoqiang | Open  | 2022-11-16 |  |
 | @popkorn  | suggestion | download a file in the cloud storage through the project | HCN | Open  | 2022-11-17 |  |
 | @PerlinNoise  | bug | Can't view code properly | HCN | Open  | 2022-11-20 |  |
 | @PerlinNoise  | suggestion | 3D game extension | HCN | Open  | 2022-11-20 |  |
@@ -847,6 +848,7 @@ Community Contributor board(2022/12/26~2023/01/01)
 - Fixed: Black-screen bug (reporter: @HarlanX)
 - fixed: mmo bug (reporter: @AdamTheDumbPerson)
 - fixed: gandi IDE is unusable on chromebooks right now (reporter: @dandan)
+- fixed: cant use extension hat blocks with booleans or strings (reporter: @zep-excpoint)
 
 ### Added
 - Added: NG leaderboard (reporter: CoolScratcher)
@@ -875,9 +877,7 @@ Community Contributor board(2022/12/26~2023/01/01)
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @Martinelplayz  | bug | bug : i was using opera, and moving from the page to page is difficult on gandi because i kept being told to sign in, despite the fact i WAS signed in. almost every page i entered would act like i was signed out until i reload the page. including the editor  | HCN  | Open  | 2022-11-07 |  |
 | @poprock  | suggestion | develop a manage tool to read all current user data  | linxin  | Open  | 2022-11-07 |  |
-| @labrosggv  | bug | Create a global block in a module.Move the global block in any other sprite.Remove the module.Edit the global block.You will have a global block in a normal sprite that is called undefined.block name.| HCN  | Open | 2022-11-09 |  |
 | @poprock  | suggestion | better vector editor and support for google fonts and custom fonts for text boxes | HCN  | Open  | 2022-11-12 |  |
 
 ### Fixed
@@ -888,6 +888,8 @@ Community Contributor board(2022/12/26~2023/01/01)
 - Fixed: The new gui covers the arrows in the extensions sidebar (reporter: labrosggv)
 - Fixed: gandi deleting any duplicates(reporter: poprock)
 - Fixed: cannot loading projectd (reporter: Portraito)
+- fixed: abnormal login status (reporter: @Martinelplayz)
+- fixed: undefined.block name (reporter: @labrosggv)
 
 ### Added
 - added: AI scratch extension support (reporter: @Wokafish)
