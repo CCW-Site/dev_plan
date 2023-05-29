@@ -42,7 +42,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @DJQtip | bug | Gandi acting weird for now reason right now | collin  | Open  | 2023-05-22 |  |
 | @DJQtip | bug | Text engine broken | collin  | Open  | 2023-05-22 |  |
 | @DJQtip | bug | Project names not saving | collin  | Open  | 2023-05-22 |  |
-| @B-dude | bug | AI Extension not working | collin  | Done  | 2023-05-22 |  |
 | @AscensionMS | suggestion | Achievments | collin  | Open  | 2023-05-28 |  |
 | @Kebabo | suggestion | turn the animated NG emoji to normal not animated emoji | collin  | Open  | 2023-05-28 |  |
 | @zep-excpoint | suggestion | translation issue | collin  | Open  | 2023-05-28 |  |
@@ -54,12 +53,17 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @𝘿𝙖_𝘾𝙧𝙚𝙖𝙩𝙤𝙧 | suggestion | Add more emojis to the server | collin  | Open  | 2023-05-24 |  | 
 | @Kebabo | suggestion | Show every default variables | collin  | Open  | 2023-05-23 |  |
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05 | suggestion | Open up a "serious-talk" channel for this server | collin  | Open  | 2023-05-22 |  |
-| @Kebabo | suggestion | Make tutorials | collin  | Done  | 2023-05-22 |  |
 
 | Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
 | ------------- | ------------- | ------------- | ------------- |
 | Bug  | 99% | 90%  | 34 |
 | Suggestion  | 90% | 19%  | 45 |
+
+### Added
+- added: Make tutorials (reporter: @Kebabo)
+
+### Fixed
+- fixed: AI Extension not working (reporter: @B-dude)
 
 ## 2023Y5M3W
 
