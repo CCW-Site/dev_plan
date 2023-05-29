@@ -79,8 +79,8 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 | Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
 | ------------- | ------------- | ------------- | ------------- |
-| Bug  | 99% | 90%  | 34 |
-| Suggestion  | 90% | 19%  | 45 |
+| Bug  | 99% | 91%  | 37 |
+| Suggestion  | 90% | 18%  | 50 |
 
 ## Rejected
 - rejected: Gandi keeps deleting my game (reporter: @Chili_chil1)
