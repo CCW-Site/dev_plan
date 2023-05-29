@@ -27,6 +27,40 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ, linxin, jagger
 
+## 2023Y5M4W
+
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @Fath11 | bug | Project editing bug | collin  | Open  | 2023-05-22 |  |
+| @Chew | bug | name reset to untitled after i edited and saved it | collin  | Open  | 2023-05-28 |  |
+| @Oblivious | bug | Project fails to load | collin  | Open  | 2023-05-28 |  |
+| @zep-excpoint | bug | Invalid token error | collin  | Open  | 2023-05-28 |  |
+| @chipiseth | bug | my project keeps on deleting everything inside of it | collin  | Open  | 2023-05-28 |  |
+| @Anthem | bug | I'm trying to upload a project to the Gandi IDE, and it's not working | collin  | Open  | 2023-05-27 |  |
+| @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05 | bug | "Unassigned variable" overlapping variables. | collin  | Open  | 2023-05-27 |  |
+| @Python boi | bug | Stamping doesn't work outside of the 640*320 stage (g-kamera) | collin  | Open  | 2023-05-26 |  |
+| @DJQtip | bug | Gandi acting weird for now reason right now | collin  | Open  | 2023-05-22 |  |
+| @DJQtip | bug | Text engine broken | collin  | Open  | 2023-05-22 |  |
+| @DJQtip | bug | Project names not saving | collin  | Open  | 2023-05-22 |  |
+| @B-dude | bug | AI Extension not working | collin  | Done  | 2023-05-22 |  |
+| @AscensionMS | suggestion | Achievments | collin  | Open  | 2023-05-28 |  |
+| @Kebabo | suggestion | turn the animated NG emoji to normal not animated emoji | collin  | Open  | 2023-05-28 |  |
+| @zep-excpoint | suggestion | translation issue | collin  | Open  | 2023-05-28 |  |
+| @𝘿𝙖_𝘾𝙧𝙚𝙖𝙩𝙤𝙧 | suggestion | All sprites run at the same time (extension) | collin  | Open  | 2023-05-26 |  |
+| @kaplin86 | suggestion | Sharing Backpacked Assets | collin  | Open  | 2023-05-26 |  |
+| @kaplin86 | suggestion | Static Boolean input for custom blocks | collin  | Open  | 2023-05-25 |  |
+| @Girassolz 1937 | suggestion | Stats And Clone-Single-Variables | collin  | Open  | 2023-05-25 |  | 
+| @.AzCasty | suggestion | Why do NG's have Cents? | collin  | Open  | 2023-05-24 |  | 
+| @𝘿𝙖_𝘾𝙧𝙚𝙖𝙩𝙤𝙧 | suggestion | Add more emojis to the server | collin  | Open  | 2023-05-24 |  | 
+| @Kebabo | suggestion | Show every default variables | collin  | Open  | 2023-05-23 |  |
+| @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05 | suggestion | Open up a "serious-talk" channel for this server | collin  | Open  | 2023-05-22 |  |
+| @Kebabo | suggestion | Make tutorials | collin  | Done  | 2023-05-22 |  |
+
+| Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
+| ------------- | ------------- | ------------- | ------------- |
+| Bug  | 99% | 90%  | 34 |
+| Suggestion  | 90% | 19%  | 45 |
+
 ## 2023Y5M3W
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
