@@ -863,7 +863,6 @@ Community Contributor board(2022/12/26~2023/01/01)
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @CoolScratcher  | suggestion | costume editor doesn't fit gandi  | HCN  | Open  | 2022-11-14 |  |
 | @poprock  | suggestion | make there be an option when uploading a project file (.sb3) to make it replace the current project or make a new one  | HCN  | Open  | 2022-11-15 |  |
 | @popkorn  | suggestion | download a file in the cloud storage through the project | HCN | Open  | 2022-11-17 |  |
 | @PerlinNoise  | suggestion | 3D game extension | HCN | Open  | 2022-11-20 |  |
@@ -896,6 +895,7 @@ Community Contributor board(2022/12/26~2023/01/01)
 - removed: Can't view code properly (reporter: @PerlinNoise)
 - removed: getting problem a lot whenever I use Quake (reporter: @CoolScratcher)
 - removed: add an editor timed out error (reporter: @popkorn)
+- removed: costume editor doesn't fit gandi (reporter: @CoolScratcher)
 
 ### Community Contributor board(2022/11/14~2022/11/20)
 - @popkorn  : 3 💡 2  🐛
