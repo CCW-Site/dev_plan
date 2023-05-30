@@ -824,7 +824,6 @@ Community Contributor board(2022/12/26~2023/01/01)
 | @popkorn  | suggestion | extension - controller support| HCN  | Open  | 2022-11-21 |  |
 | @Costope21  | suggestion | The packager should package 16:9 screen size | HCN  | Open  | 2022-11-22 |  |
 | @wzy1tenyears  | suggestion | The windows in gandi aren't fit edge | collin  | Open  | 2022-11-22 |  |
-| @labrosggv  | suggestion | use a command that would generates a random project idea | ZJ  | Open  | 2022-11-22 |  |
 | @Martinelplayz  | suggestion | suggest an update to the fermi extension that allows general limits to be removed | HCN  | Open  | 2022-11-21 |  |
 
 ### Fixed
@@ -840,6 +839,7 @@ Community Contributor board(2022/12/26~2023/01/01)
 - Added: better points commands (reporter: @labrosggv)
 - Added: want a channel where people can look for people to help their projects (reporter: @winwinlmfao)
 - added: Extension Idea - AI Creator (reporter: @☭ Mewster ☭)
+- added: use a command that would generates a random project idea (reporter: @labrosggv)
 
 ### Community Contributor board(2022/11/21~2022/11/27)
 - @labrosggv  : 5 💡 3 🐛
