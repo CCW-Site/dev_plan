@@ -31,7 +31,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @Fath11 | bug | Project editing bug | collin  | Open  | 2023-05-22 |  |
 | @Chew | bug | name reset to untitled after i edited and saved it | collin  | Open  | 2023-05-28 |  |
 | @Oblivious | bug | Project fails to load | collin  | Open  | 2023-05-28 |  |
 | @zep-excpoint | bug | Invalid token error | collin  | Open  | 2023-05-28 |  |
@@ -66,6 +65,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 ### Rejected
 - rejected: Open up a "serious-talk" channel for this server (reporter: @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05)
+- rejected: Project editing bug (reporter: @Fath11)
 
 ## 2023Y5M3W
 
