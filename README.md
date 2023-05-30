@@ -867,7 +867,6 @@ Community Contributor board(2022/12/26~2023/01/01)
 | @CoolScratcher  | suggestion | costume editor doesn't fit gandi  | HCN  | Open  | 2022-11-14 |  |
 | @poprock  | suggestion | make there be an option when uploading a project file (.sb3) to make it replace the current project or make a new one  | HCN  | Open  | 2022-11-15 |  |
 | @popkorn  | suggestion | download a file in the cloud storage through the project | HCN | Open  | 2022-11-17 |  |
-| @PerlinNoise  | bug | Can't view code properly | HCN | Open  | 2022-11-20 |  |
 | @PerlinNoise  | suggestion | 3D game extension | HCN | Open  | 2022-11-20 |  |
 | @PerlinNoise  | suggestion | 2D world generation | HCN | Open  | 2022-11-20 |  |
 | @Mewster  | suggestion | Add a packager feature | HCN | Open  | 2022-11-18 |  |
@@ -896,6 +895,7 @@ Community Contributor board(2022/12/26~2023/01/01)
 
 ### Removed
 - Removed: Old projects getting deleted (reporter: iceler21)
+- removed: Can't view code properly (reporter: @PerlinNoise)
 
 ### Community Contributor board(2022/11/14~2022/11/20)
 - @popkorn  : 3 💡 2  🐛
