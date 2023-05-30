@@ -872,7 +872,6 @@ Community Contributor board(2022/12/26~2023/01/01)
 | @Costope21  | suggestion | .TTF imports | HCN | Open  | 2022-11-18 |  |
 | @Wokafish  | suggestion | Multiple mouse cursors | HCN | Open  | 2022-11-18 |  |
 | @Costope21  | suggestion | Gandi IDE as an App | HCN | Open  | 2022-11-18 |  |
-| @popkorn  | suggestion | add an editor timed out error | HCN | Open  | 2022-11-18 |  |
 | @iceler21  | suggestion | Scratch Addons and Turbowarp features support | HCN | Open  | 2022-11-18 |  |
 | @AdamTheDumbPerson  | suggestion | Suggestion for dolly | HCN | Open  | 2022-11-18 |  |
 | @AdamTheDumbPerson  | suggestion | Suggestion for MMO | HCN | Open  | 2022-11-18 |  |
@@ -896,6 +895,7 @@ Community Contributor board(2022/12/26~2023/01/01)
 - Removed: Old projects getting deleted (reporter: iceler21)
 - removed: Can't view code properly (reporter: @PerlinNoise)
 - removed: getting problem a lot whenever I use Quake (reporter: @CoolScratcher)
+- removed: add an editor timed out error (reporter: @popkorn)
 
 ### Community Contributor board(2022/11/14~2022/11/20)
 - @popkorn  : 3 💡 2  🐛
