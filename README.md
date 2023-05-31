@@ -90,6 +90,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - rejected: Gandi keeps deleting my game (reporter: @Chili_chil1)
 - rejected: mp3 wont upload and appear when uploaded (reporter: @no text to speech 100% real)
 - rejected: Sprite Moving with another sprite while the camera is moving and pointing at mouse pointer (reporter: @RealAngrii)
+- rejected: i cant remix (reporter: @Fath11)
 
 ## 2023Y5M2W
 
