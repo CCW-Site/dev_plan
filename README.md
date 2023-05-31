@@ -207,7 +207,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05 | bug | Force Disable Remix for users signed out | collin  | Open  | 2023-04-09 |  |
-| @JDfan138 | bug | Description and instructions won't let me type in it | collin  | Open  | 2023-04-08 |  |
 | @labrosggv | bug | weird placement of "about" button in small screens | collin  | Open  | 2023-04-08 |  |
 | @Gibb77 | bug | Gandi Crashing when toggling fullscreen/start and stop | collin  | Closed  | 2023-04-05 |  |
 | @Chew | bug | project wouldnt load | collin  | Open  | 2023-04-04 |  |
@@ -220,6 +219,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | ------------- | ------------- | ------------- | ------------- |
 | Bug  | 100% | 90%  | 17  |
 | Suggestion  | 90% | 21%  | 37  |
+
+### Rejected
+- rejected: Description and instructions won't let me type in it (reporter: @JDfan138)
 
 ## 2023Y3M5W
 
