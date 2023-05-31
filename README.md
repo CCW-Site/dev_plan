@@ -569,7 +569,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @fath11  | bug | all my project is corrupted lol  | HCN  | Open  | 2022-12-30 |  |
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | bug | Cloud Extension Page | HCN  | Open  | 2022-12-29 |  |
 | @HexMan  | bug | Error after saving my custom addon | HCN  | Open  | 2022-12-28 |  |
-| @labrosggv  | bug | Corrupted Project | HCN  | Open  | 2022-12-27 |  |
 | @Tessal  | suggestion | New organized workspace | HCN  | Open  | 2023-01-01 |  |
 | @Tessal  | suggestion | HJSON support for ''Data Utilities'' Extension | HCN  | Open  | 2023-01-01 |  |
 | @unexpectedIntegerNull  | suggestion | Disconnect certain session IDs or usernames | HCN  | Open  | 2022-12-30 |  |
@@ -598,6 +597,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 ## Rejected
 - rejected: More languages channels (reporter: @CupStudios)
+- rejected: Corrupted Project (reporter: @labrosggv)
 
 ## 2022Y12M4W
 ### Plan
