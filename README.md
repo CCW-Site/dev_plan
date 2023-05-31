@@ -184,7 +184,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @ElmoBear02 | bug | getting System exception | collin  | Open  | 2023-04-16 |  |
 | @ElmoBear02 | bug | My profile didnt save | collin  | Open  | 2023-04-16 |  |
 | @fathVIII_DCLVIII | suggestion | Gandi camp possibility | collin  | Open  | 2023-04-16 |  |
 | @PuzzlingGGG | suggestion | Link previewing | collin  | Open  | 2023-04-15 |  |
@@ -201,6 +200,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 ### Fixed
 - fixed: invalid token (reporter: @TMN)
+- fixed: getting System exception (reporter: @ElmoBear02)
 
 ## 2023Y4M1W
 
