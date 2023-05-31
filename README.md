@@ -339,7 +339,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @Tessal  | bug | Broadcasts not escaping...  | collin  | Open  | 2023-02-22 |  |
-| @Tessal  | bug | function refuses to function  | collin  | Open  | 2023-02-22 |  |
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | bug | Costume editor vs Cloud Backpack glitch  | collin  | Open  | 2023-02-22 |  |
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | suggestion | More consistent backdrops title  | collin  | Open  | 2023-02-24 |  |
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | suggestion | Maybe add “All times” availability for Naquagems  | collin  | Open  | 2023-02-24 |  |
@@ -355,7 +354,8 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Help-desk  | 100% | 40%  | 15  | 
 
 ### Fixed
--fixed: Saves are broken again (reporter: Tessal)
+- fixed: Saves are broken again (reporter: @Tessal)
+- fixed: function refuses to function (reporter: @Tessal)
 
 ## 2023Y2M3W
 
