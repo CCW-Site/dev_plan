@@ -324,7 +324,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @SpicyIcy  | bug | dragging code to another sprite does not transfer the code | collin  | Open  | 2023-03-05 |  |
 | @SpicyIcy  | bug | MMOs refuse to load | collin  | Open  | 2023-03-02 |  |
-| @Zackary  | bug | When I transfered my game to Gandi so 0xVision could put it on front page,the editor was very Broke | collin  | Open  | 2023-03-02 |  |
 | @Tessal  | bug | Glitching appearance | collin  | Open  | 2023-03-01 |  |
 | @Kawaii Killers  | suggestion | Post Processing, Camera Blocks, Speech to Text, File Downloader, More stages, etc. | collin  | Open  | 2023-03-04 |  |
 | @saraysxroom  | suggestion | option to minimize graphics | collin  | Open  | 2023-03-03 |  |
@@ -343,6 +342,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 ## Rejected
 - rejected: A list of rejected suggestions (reporter: @SpicyIcy)
+- rejected: When I transfered my game to Gandi so 0xVision could put it on front page,the editor was very Broke (reporter: @Zackary)
 
 
 ## 2023Y2M4W
