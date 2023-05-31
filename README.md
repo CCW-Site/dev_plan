@@ -227,7 +227,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @Mirako San | bug | Sprites are replaced | collin  | Open  | 2023-04-02 |  |
 | @.Casty | suggestion | plz relocate the add sprite button plzz | collin  | Open  | 2023-04-02 |  |
 | @Kebabo | suggestion | emojis in the discord | collin  | Open  | 2023-04-02 |  |
 | @Outrunfungus43 | suggestion | View Remixes Of Projects | collin  | Open  | 2023-04-01 |  |
@@ -243,6 +242,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 ## Fixed
 - fixed: sprite name has been duplicated (reporter: @.Casty)
+
+### Rejected
+- rejected: Sprites are replaced (reporter: @Mirako San)
 
 ## 2023Y3M4W
 
