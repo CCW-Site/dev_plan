@@ -115,7 +115,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @vernacular | bug |AI block “reset context” is not working | collin  | Open  | 2023-05-07 |  |
 | @4756 | bug | scrollbar intercept with screen in editor mode | collin  | Open  | 2023-05-06 |  |
 | @ArtemisMS | bug | Color-Selection Tool Is Not Working | collin  | Open  | 2023-05-06 |  |
 | @.Casty | bug | halp is crash reload cant fix | collin  | Open  | 2023-05-06 |  |
@@ -145,9 +144,12 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Bug  | 99% | 90%  | 19 |
 | Suggestion  | 90% | 20%  | 36 |
 
-## Added
+### Added
 - added: Add Bluewillow bot to the Discord Server (reporter: @AndyGun11)
 - added: Variable alert (reporter: @NotSoPTBP)
+
+### Rejected
+- rejected: AI block “reset context” is not working (reporter: @vernacular)
 
 ## 2023Y4M2W
 
