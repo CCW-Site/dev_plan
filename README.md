@@ -760,7 +760,6 @@ Community Contributor board(2022/12/26~2023/01/01)
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @PerlinNoise  | bug | Custom extensions won't load  | HCN  | Open  | 2022-12-04 |  |
 | @popkorn   | bug | Variables and lists not showing  | HCN  | Open  | 2022-11-30 |  |
 | @HexMa   | suggestion | Market Place  | HCN  | Open  | 2022-12-04 |  |
 | @NotSoPTBP   | suggestion | Interpolation (like in turbowarp)  | HCN  | Open  | 2022-11-30 |  |
@@ -790,6 +789,7 @@ Community Contributor board(2022/12/26~2023/01/01)
 - rejected: Variable right click bug (reporter: @Suumy0327) (no response)
 - rejected: Functions calling from other sprites (reporter: @Tessal) (no response)
 - rejected: Lists dont save (reporter: @Wokafish) (no response)
+- rejected: Custom extensions won't load (reporter: @PerlinNoise)
 
 ### Community Contributor board(2022/11/28~2022/12/04)
 - @PerlinNoise  : 1 💡 2 🐛
