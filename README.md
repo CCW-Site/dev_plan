@@ -208,7 +208,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05 | bug | Force Disable Remix for users signed out | collin  | Open  | 2023-04-09 |  |
 | @labrosggv | bug | weird placement of "about" button in small screens | collin  | Open  | 2023-04-08 |  |
-| @Gibb77 | bug | Gandi Crashing when toggling fullscreen/start and stop | collin  | Closed  | 2023-04-05 |  |
 | @Chew | bug | project wouldnt load | collin  | Open  | 2023-04-04 |  |
 | @fathVIII_DCLVIII | bug | floating windows is not closing | collin  | Closed  | 2023-04-04 |  |
 | @Echoless | suggestion | Bottom heavy font for Dyslexic people | collin  | Open  | 2023-04-06 |  |
@@ -222,6 +221,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 ### Rejected
 - rejected: Description and instructions won't let me type in it (reporter: @JDfan138)
+- rejected: Gandi Crashing when toggling fullscreen/start and stop (reporter: @Gibb77)
 
 ## 2023Y3M5W
 
