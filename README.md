@@ -609,7 +609,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Julius MODS  | suggestion | Add Type Safety | Collin  | Open  | 2022-12-25 |   |
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | suggestion | change the in-editor comment design | Collin  | Open  | 2022-12-25 |   |
 | @Tessal  | suggestion | Break and Continue blocks | Collin  | Open  | 2022-12-23 |   |
-| @HexMan  | suggestion | NG Transactions | Collin  | Open  | 2022-12-23 |   |
 | @unexpectedIntegerNull  | suggestion | NG gifting from Cocrea NG dashboard | Collin  | Open  | 2022-12-21 |   |
 | @Julius MODS  | suggestion | Sprite Folders. | Collin  | Open  | 2022-12-20 |   |
 | @zep-excpoint  | suggestion | Touching (sprite) from (direction) side | Collin  | Open  | 2022-12-20 |   |
@@ -629,6 +628,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 ### Rejected
 - rejected: Username changing (reporter: @unexpectedIntegerNull)
+- rejected: NG Transactions (reporter: @HexMan)
 
 
 Community Contributor board(2022/12/26~2023/01/01)
