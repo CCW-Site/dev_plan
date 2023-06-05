@@ -3,7 +3,7 @@
 Here is the development plan tracking log of the Gandi IDE and Cocrea team, All improvement suggestions and bugs raised by users are recorded here and kept updated for quick feedback. If you have any questions or suggestions, please join our discord server to ask.
 
 - [discord server](https://discord.gg/QVUyFEQres)
-- [cocrea](https://cocrea.world/)f
+- [cocrea](https://cocrea.world/)
 
 
 ## Types of changes
@@ -26,6 +26,30 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ, linxin, jagger
+
+## 2023Y6M1W
+
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @-AzCasty | bug | my project CRASHED | collin  | Open  | 2023-06-03 |  |
+| @LueyBouy | bug | Overwritten projects | collin  | Open  | 2023-06-03 |  |
+| @KirillsPoddubskis | bug | Can't switch costumes | collin  | Open  | 2023-06-02 |  |
+| @-AzCasty | bug | this cool delete glitch | collin  | Open  | 2023-06-02 |  |
+| @José Luiz | bug | my homepage is broken | collin  | Open  | 2023-06-02 |  |
+| @Chili_chil1 | bug | I can’t open projects | collin  | Open  | 2023-06-02 |  |
+| @UI Exploits | bug | Images dont load nor can I use gandi ide extensions in Opera GX | collin  | Open  | 2023-05-31 |  |
+| @-AzCasty | bug | Font go brrrr in backpack | collin  | Open  | 2023-05-30 |  |
+| @Kebabo | bug | Unassigned variable | collin  | Open  | 2023-05-30 |  |
+| @Fath11 | bug | MMO doesn't work with collab mode on | collin  | Open  | 2023-05-29 |  |
+| @Outrunfungus43 | suggestion | saturation in effects for sprites | collin  | Open  | 2023-06-04 |  |
+| @FireArrow | suggestion | new currency | collin  | Open  | 2023-06-04 |  |
+| @FireArrow | suggestion | Naquigems should be spendable in projects | collin  | Open  | 2023-06-04 |  |
+| @-AzCasty | suggestion | `Color of location (x) (y) on screen` block | collin  | Open  | 2023-06-02 |  |
+| @mablabo | suggestion | Player Score | collin  | Open  | 2023-06-02 |  |
+| @kaplin86 | suggestion | Extra Collab Tags | collin  | Open  | 2023-05-31 |  |
+| @Man of Umbrella | suggestion | Interface Options | collin  | Open  | 2023-05-30 |  |
+| @Kebabo | suggestion | Block catégories like 2.0 scratch | collin  | Open  | 2023-05-30 |  |
+| @kaplin86 | suggestion | Canvas V2 Past the edges | collin  | Open  | 2023-05-30 |  |
 
 ## 2023Y5M4W
 
