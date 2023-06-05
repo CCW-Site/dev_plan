@@ -51,6 +51,11 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Kebabo | suggestion | Block catégories like 2.0 scratch | collin  | Open  | 2023-05-30 |  |
 | @kaplin86 | suggestion | Canvas V2 Past the edges | collin  | Open  | 2023-05-30 |  |
 
+| Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
+| ------------- | ------------- | ------------- | ------------- |
+| Bug  | 99% | 88%  | 40 |
+| Suggestion  | 90% | 18%  | 54 |
+
 ## 2023Y5M4W
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
