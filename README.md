@@ -31,7 +31,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @-AzCasty | bug | my project CRASHED | collin  | Open  | 2023-06-03 |  |
 | @LueyBouy | bug | Overwritten projects | collin  | Open  | 2023-06-03 |  |
 | @KirillsPoddubskis | bug | Can't switch costumes | collin  | Open  | 2023-06-02 |  |
 | @-AzCasty | bug | this cool delete glitch | collin  | Open  | 2023-06-02 |  |
@@ -55,6 +54,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | ------------- | ------------- | ------------- | ------------- |
 | Bug  | 99% | 88%  | 40 |
 | Suggestion  | 90% | 18%  | 54 |
+
+### Fixed
+- fixed: my project CRASHED (reporter: @-AzCasty)
 
 ## 2023Y5M4W
 
