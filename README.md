@@ -45,7 +45,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @FireArrow | suggestion | Naquigems should be spendable in projects | collin  | Open  | 2023-06-04 |  |
 | @-AzCasty | suggestion | `Color of location (x) (y) on screen` block | collin  | Open  | 2023-06-02 |  |
 | @mablabo | suggestion | Player Score | collin  | Open  | 2023-06-02 |  |
-| @kaplin86 | suggestion | Extra Collab Tags | collin  | Open  | 2023-05-31 |  |
 | @Man of Umbrella | suggestion | Interface Options | collin  | Open  | 2023-05-30 |  |
 | @Kebabo | suggestion | Block catégories like 2.0 scratch | collin  | Open  | 2023-05-30 |  |
 | @kaplin86 | suggestion | Canvas V2 Past the edges | collin  | Open  | 2023-05-30 |  |
@@ -57,6 +56,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 ### Fixed
 - fixed: my project CRASHED (reporter: @-AzCasty)
+
+### Added
+- added: Extra Collab Tags (reporter: @kaplin86)
 
 ## 2023Y5M4W
 
