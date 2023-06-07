@@ -34,7 +34,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @LueyBouy | bug | Overwritten projects | collin  | Open  | 2023-06-03 |  |
 | @KirillsPoddubskis | bug | Can't switch costumes | collin  | Open  | 2023-06-02 |  |
 | @-AzCasty | bug | this cool delete glitch | collin  | Open  | 2023-06-02 |  |
-| @José Luiz | bug | my homepage is broken | collin  | Open  | 2023-06-02 |  |
 | @Chili_chil1 | bug | I can’t open projects | collin  | Open  | 2023-06-02 |  |
 | @UI Exploits | bug | Images dont load nor can I use gandi ide extensions in Opera GX | collin  | Open  | 2023-05-31 |  |
 | @-AzCasty | bug | Font go brrrr in backpack | collin  | Open  | 2023-05-30 |  |
@@ -56,6 +55,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 ### Fixed
 - fixed: my project CRASHED (reporter: @-AzCasty)
+- fixed: my homepage is broken (reporter: @José Luiz)
 
 ### Added
 - added: Extra Collab Tags (reporter: @kaplin86)
