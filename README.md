@@ -155,7 +155,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @4756 | bug | scrollbar intercept with screen in editor mode | collin  | Open  | 2023-05-06 |  |
 | @ArtemisMS | bug | Color-Selection Tool Is Not Working | collin  | Open  | 2023-05-06 |  |
-| @.Casty | bug | halp is crash reload cant fix | collin  | Open  | 2023-05-06 |  |
 | @fathnormalizing | bug | mouse will be offset when the camera is moved with g-kamera extension | collin  | Open  | 2023-05-05 |  |
 | @NotSoPTBP | bug | My project got overwritten because of a bug | collin  | Open  | 2023-05-03 |  |
 | @Tessal | bug | G-kamera | collin  | Open  | 2023-04-30 |  |
@@ -188,6 +187,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 ### Rejected
 - rejected: AI block “reset context” is not working (reporter: @vernacular)
+- rejected: halp is crash reload cant fix (reporter: @.Casty)
+
+
 
 ## 2023Y4M2W
 
