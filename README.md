@@ -34,7 +34,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @LueyBouy | bug | Overwritten projects | collin  | Open  | 2023-06-03 |  |
 | @-AzCasty | bug | My blocks won't delete in the Blocks section when deleted by right-click menu | collin  | Open  | 2023-06-02 |  |
 | @Chili_chil1 | bug | I can’t open projects | collin  | Open  | 2023-06-02 |  |
-| @UI Exploits | bug | Images dont load nor can I use gandi ide extensions in Opera GX | collin  | Open  | 2023-05-31 |  |
 | @-AzCasty | bug | Font go brrrr in backpack | collin  | Open  | 2023-05-30 |  |
 | @Kebabo | bug | Unassigned variable | collin  | Open  | 2023-05-30 |  |
 | @Fath11 | bug | MMO doesn't work with collab mode on | collin  | Open  | 2023-05-29 |  |
@@ -61,6 +60,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 ### Rejected
 - rejected: Can't switch costumes (reporter: @KirillsPoddubskis)
+- rejected: Images dont load nor can I use gandi ide extensions in Opera GX (reporter: @UI Exploits)
 
 ## 2023Y5M4W
 
