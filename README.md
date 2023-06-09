@@ -196,7 +196,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @Frisk | bug | can't due anything due to constant invalid token errors | collin  | Open  | 2023-04-23 |  |
 | @Tessal | bug | Some letters do not appear in Terminal | collin  | Open  | 2023-04-23 |  |
 | @giftboxx | bug | project not loading | collin  | Open  | 2023-04-20 |  |
 | @fath11 | bug | some collab mode and mmo problem | collin  | Open  | 2023-04-19 |  |
@@ -217,6 +216,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 ## Rejected
 - rejected: Better Auto Save Feature
+- rejected: can't due anything due to constant invalid token errors (reporter: @Frisk)
 
 ## 2023Y4M2W
 
