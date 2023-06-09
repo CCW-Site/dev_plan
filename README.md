@@ -188,6 +188,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 ### Rejected
 - rejected: AI block “reset context” is not working (reporter: @vernacular)
 - rejected: halp is crash reload cant fix (reporter: @.Casty)
+- rejected: Blank Screen (reporter: @Twist)
 
 
 
