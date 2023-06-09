@@ -863,7 +863,6 @@ Community Contributor board(2022/12/26~2023/01/01)
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @Wokafish  | bug | Website scrolling on tablet  | HCN  | Open  | 2022-11-26 |  |
 | @popkorn  | bug | project taking very long to load or not loading at all on cocrea  | HCN  | Open  | 2022-11-25 |  |
 | @popkorn  | bug | gandi mmo extension x and y not working  | HCN  | Open  | 2022-11-25 |  |
 | @labrosggv  | bug | Motion and Looks Category blocks appear in modules    | HCN  | Open  | 2022-11-25 |  |
@@ -893,6 +892,9 @@ Community Contributor board(2022/12/26~2023/01/01)
 - Added: want a channel where people can look for people to help their projects (reporter: @winwinlmfao)
 - added: Extension Idea - AI Creator (reporter: @☭ Mewster ☭)
 - added: use a command that would generates a random project idea (reporter: @labrosggv)
+
+### Rejected
+- rejected: Website scrolling on tablet (reporter: @Wokafish)
 
 ### Community Contributor board(2022/11/21~2022/11/27)
 - @labrosggv  : 5 💡 3 🐛
