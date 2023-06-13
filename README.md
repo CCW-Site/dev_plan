@@ -32,7 +32,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @NotSoPTBP | bug | My project lags when I'm using sliders | collin  | Open  | 2023-06-10 |  |
-| @! ᴋ ᴇ ʙ ᴀ ʙ ᴏ | bug | Witcats Mouse cant detect clicks when mouse is locked | collin  | Open  | 2023-06-08 |  |
 | @! ᴋ ᴇ ʙ ᴀ ʙ ᴏ | bug | Media Utils not working | collin  | Open  | 2023-06-08 |  |
 | @! ᴋ ᴇ ʙ ᴀ ʙ ᴏ | bug | "True&false" not showing | collin  | Open  | 2023-06-07 |  |
 | @-AzCasty! | bug | Another translation mistake | collin  | Open  | 2023-06-07 |  |
