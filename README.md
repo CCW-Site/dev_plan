@@ -51,7 +51,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @GGG | suggestion | Mirror Tools | collin  | Open  | 2023-06-06 |  |
 | @Nikname | suggestion | Cloud backpack/Editor improvements | collin  | Open  | 2023-06-06 |  |
 | @NotSoPTBP | suggestion | Where the Like button is in the project page ? | collin  | Open  | 2023-06-06 |  |
-| @NotSoPTBP | suggestion | Where the Like button is in the project page ? | collin  | Open  | 2023-06-06 |  |
 
 | Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
 | ------------- | ------------- | ------------- | ------------- |
