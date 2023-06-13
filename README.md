@@ -48,7 +48,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Mistereee | suggestion | Report Button | collin  | Open  | 2023-06-09 |  |
 | @NotSoPTBP | suggestion | Add the restore sprite button | collin  | Open  | 2023-06-07 |  |
 | @GGG | suggestion | Allow "Async Asset Management" to get data URI's | collin  | Open  | 2023-06-07 |  |
-| @GGG | suggestion | Mirror Tools | collin  | Open  | 2023-06-06 |  |
+| @invalid-user | suggestion | Mirror Tools | collin  | Open  | 2023-06-06 |  |
 | @Nikname | suggestion | Cloud backpack/Editor improvements | collin  | Open  | 2023-06-06 |  |
 | @NotSoPTBP | suggestion | Where the Like button is in the project page ? | collin  | Open  | 2023-06-06 |  |
 
