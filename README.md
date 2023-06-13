@@ -27,6 +27,40 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ, linxin, jagger
 
+## 2023Y6M2W
+
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @NotSoPTBP | bug | My project lags when I'm using sliders | collin  | Open  | 2023-06-10 |  |
+| @! ᴋ ᴇ ʙ ᴀ ʙ ᴏ | bug | Witcats Mouse cant detect clicks when mouse is locked | collin  | Open  | 2023-06-08 |  |
+| @! ᴋ ᴇ ʙ ᴀ ʙ ᴏ | bug | Media Utils not working | collin  | Open  | 2023-06-08 |  |
+| @! ᴋ ᴇ ʙ ᴀ ʙ ᴏ | bug | "True&false" not showing | collin  | Open  | 2023-06-07 |  |
+| @-AzCasty! | bug | Another translation mistake | collin  | Open  | 2023-06-07 |  |
+| @nuggscircle | bug | collab wont work | collin  | Closed  | 2023-06-07 |  |
+| @Python boi | bug | Fonts in Animated Text Extention Aren't translated to/dont support English | collin  | Open  | 2023-06-07 |  |
+| @-AzCasty! | bug | Translation error in 4D pocket, Regex utils | collin  | Open  | 2023-06-05 |  |
+| @曹操 | bug | Project won't load for collaboator. | collin  | Open  | 2023-06-08 |  |
+| @gaggleball | suggestion | Devlog Forum Channel | collin  | Open  | 2023-06-11 |  |
+| @! ᴋ ᴇ ʙ ᴀ ʙ ᴏ | suggestion | switch from :up: to :arrow_up: | collin  | Open  | 2023-06-11 |  |
+| @! ᴋ ᴇ ʙ ᴀ ʙ ᴏ | suggestion | Multiple key-values when making clone (DOLLY extension) | collin  | Open  | 2023-06-11 |  |
+| @! ᴋ ᴇ ʙ ᴀ ʙ ᴏ | suggestion | Make that we can duplicate single block | collin  | Open  | 2023-06-10 |  |
+| @AscensionMS | suggestion | Community Tool like Steam(Modding) | collin  | Open  | 2023-06-09 |  |
+| @Mistereee | suggestion | Report Button | collin  | Open  | 2023-06-09 |  |
+| @NotSoPTBP | suggestion | Add the restore sprite button | collin  | Open  | 2023-06-07 |  |
+| @GGG | suggestion | Allow "Async Asset Management" to get data URI's | collin  | Open  | 2023-06-07 |  |
+| @GGG | suggestion | Mirror Tools | collin  | Open  | 2023-06-06 |  |
+| @Nikname | suggestion | Cloud backpack/Editor improvements | collin  | Open  | 2023-06-06 |  |
+| @NotSoPTBP | suggestion | Where the Like button is in the project page ? | collin  | Open  | 2023-06-06 |  |
+| @NotSoPTBP | suggestion | Where the Like button is in the project page ? | collin  | Open  | 2023-06-06 |  |
+
+| Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
+| ------------- | ------------- | ------------- | ------------- |
+| Bug  | 98% | 88%  | 38 |
+| Suggestion  | 89% | 16%  | 62 |
+
+### Fixed
+
+
 ## 2023Y6M1W
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
