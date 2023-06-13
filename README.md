@@ -58,6 +58,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Suggestion  | 89% | 16%  | 62 |
 
 ### Fixed
+- fixed: Witcats Mouse cant detect clicks when mouse is locked (reporter: @! ᴋ ᴇ ʙ ᴀ ʙ ᴏ)
 
 
 ## 2023Y6M1W
