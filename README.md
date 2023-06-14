@@ -35,8 +35,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @! ᴋ ᴇ ʙ ᴀ ʙ ᴏ | bug | Media Utils not working | collin  | Open  | 2023-06-08 |  |
 | @! ᴋ ᴇ ʙ ᴀ ʙ ᴏ | bug | "True&false" not showing | collin  | Open  | 2023-06-07 |  |
 | @-AzCasty! | bug | Another translation mistake | collin  | Open  | 2023-06-07 |  |
-| @nuggscircle | bug | collab wont work | collin  | Closed  | 2023-06-07 |  |
-| @Python boi | bug | Fonts in Animated Text Extention Aren't translated to/dont support English | collin  | Open  | 2023-06-07 |  |
 | @-AzCasty! | bug | Translation error in 4D pocket, Regex utils | collin  | Open  | 2023-06-05 |  |
 | @曹操 | bug | Project won't load for collaboator. | collin  | Open  | 2023-06-08 |  |
 | @gaggleball | suggestion | Devlog Forum Channel | collin  | Open  | 2023-06-11 |  |
@@ -58,6 +56,8 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 ### Fixed
 - fixed: Witcats Mouse cant detect clicks when mouse is locked (reporter: @! ᴋ ᴇ ʙ ᴀ ʙ ᴏ)
+- fixed: Fonts in Animated Text Extention Aren't translated to/dont support English (reporter: @Python boi)
+- fixed: collab wont work (reporter: @nuggscircle)
 
 
 ## 2023Y6M1W
