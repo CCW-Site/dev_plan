@@ -38,7 +38,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @-AzCasty! | bug | Translation error in 4D pocket, Regex utils | collin  | Open  | 2023-06-05 |  |
 | @曹操 | bug | Project won't load for collaboator. | collin  | Open  | 2023-06-08 |  |
 | @gaggleball | suggestion | Devlog Forum Channel | collin  | Open  | 2023-06-11 |  |
-| @! ᴋ ᴇ ʙ ᴀ ʙ ᴏ | suggestion | switch from :up: to :arrow_up: | collin  | Open  | 2023-06-11 |  |
 | @! ᴋ ᴇ ʙ ᴀ ʙ ᴏ | suggestion | Multiple key-values when making clone (DOLLY extension) | collin  | Open  | 2023-06-11 |  |
 | @! ᴋ ᴇ ʙ ᴀ ʙ ᴏ | suggestion | Make that we can duplicate single block | collin  | Open  | 2023-06-10 |  |
 | @AscensionMS | suggestion | Community Tool like Steam(Modding) | collin  | Open  | 2023-06-09 |  |
@@ -53,6 +52,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | ------------- | ------------- | ------------- | ------------- |
 | Bug  | 98% | 88%  | 38 |
 | Suggestion  | 89% | 16%  | 62 |
+
+### Added
+- added: switch from :up: to :arrow_up: (reporter: @! ᴋ ᴇ ʙ ᴀ ʙ ᴏ)
 
 ### Fixed
 - fixed: Witcats Mouse cant detect clicks when mouse is locked (reporter: @! ᴋ ᴇ ʙ ᴀ ʙ ᴏ)
