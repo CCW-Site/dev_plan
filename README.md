@@ -73,7 +73,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Kebabo | bug | Unassigned variable | collin  | Open  | 2023-05-30 |  |
 | @Fath11 | bug | MMO doesn't work with collab mode on | collin  | Open  | 2023-05-29 |  |
 | @Outrunfungus43 | suggestion | saturation in effects for sprites | collin  | Open  | 2023-06-04 |  |
-| @FireArrow | suggestion | new currency | collin  | Open  | 2023-06-04 |  |
 | @FireArrow | suggestion | Naquigems should be spendable in projects | collin  | Open  | 2023-06-04 |  |
 | @-AzCasty | suggestion | `Color of location (x) (y) on screen` block | collin  | Open  | 2023-06-02 |  |
 | @mablabo | suggestion | Player Score | collin  | Open  | 2023-06-02 |  |
@@ -96,6 +95,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 ### Rejected
 - rejected: Can't switch costumes (reporter: @KirillsPoddubskis)
 - rejected: Images dont load nor can I use gandi ide extensions in Opera GX (reporter: @UI Exploits)
+- rejected: new currency (reporter: @FireArrow)
 
 ## 2023Y5M4W
 
