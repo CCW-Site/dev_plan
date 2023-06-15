@@ -66,7 +66,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @LueyBouy | bug | Overwritten projects | collin  | Open  | 2023-06-03 |  |
 | @-AzCasty | bug | My blocks won't delete in the Blocks section when deleted by right-click menu | collin  | Open  | 2023-06-02 |  |
 | @Chili_chil1 | bug | I can’t open projects | collin  | Open  | 2023-06-02 |  |
 | @-AzCasty | bug | Font go brrrr in backpack | collin  | Open  | 2023-05-30 |  |
@@ -88,6 +87,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 ### Fixed
 - fixed: my project CRASHED (reporter: @-AzCasty)
 - fixed: my homepage is broken (reporter: @José Luiz)
+- fixed: Overwritten projects (reporter: @LueyBouy)
 
 ### Added
 - added: Extra Collab Tags (reporter: @kaplin86)
