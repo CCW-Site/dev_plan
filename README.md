@@ -282,7 +282,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05 | bug | Force Disable Remix for users signed out | collin  | Open  | 2023-04-09 |  |
 | @labrosggv | bug | weird placement of "about" button in small screens | collin  | Open  | 2023-04-08 |  |
 | @Chew | bug | project wouldnt load | collin  | Open  | 2023-04-04 |  |
-| @fathVIII_DCLVIII | bug | floating windows is not closing | collin  | Closed  | 2023-04-04 |  |
 | @Echoless | suggestion | Bottom heavy font for Dyslexic people | collin  | Open  | 2023-04-06 |  |
 | @.Casty | suggestion | Ability to collapse long statements | collin  | Open  | 2023-04-05 |  |
 | @DNASTER202020 | suggestion | 2 dedicated play and pause sound blocks compatible with scratch | collin  | Open  | 2023-04-04 |  |
@@ -291,6 +290,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | ------------- | ------------- | ------------- | ------------- |
 | Bug  | 100% | 90%  | 17  |
 | Suggestion  | 90% | 21%  | 37  |
+
+### Fixed
+- fixed: floating windows is not closing (reporter: @fathVIII_DCLVIII)
 
 ### Rejected
 - rejected: Description and instructions won't let me type in it (reporter: @JDfan138)
