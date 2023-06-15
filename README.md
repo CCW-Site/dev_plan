@@ -451,8 +451,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @Tessal  | bug | sprite cant move  | collin  | Open  | 2023-02-17 |  |
-| @Tessal  | bug | scrolling out of the editor  | collin  | Open  | 2023-02-17 |  |
 | @fathVIII_DCLVIII  | bug | Not translated doc and have no doc  | collin  | Open  | 2023-02-16 |  |
 | @.Casty  | suggestion | Pixelate screen  | collin  | Open  | 2023-02-19 |  |
 | @vyc  | suggestion | GandiLang (GLang / GL)  | collin  | Open  | 2023-02-18 |  |
@@ -468,6 +466,10 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Bug  | 100% | 90%  | 23  |
 | Suggestion  | 92% | 19%  | 135  |
 | Help-desk  | 100% | 41%  | 12  | 
+
+### Rejected
+- rejected: sprite cant move （reporter: @Tessal）
+- rejected: scrolling out of the editor (reporter: @Tessal)
 
 ## 2023Y2M2W
 
