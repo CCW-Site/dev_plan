@@ -904,8 +904,6 @@ Community Contributor board(2022/12/26~2023/01/01)
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @popkorn  | bug | project taking very long to load or not loading at all on cocrea  | HCN  | Open  | 2022-11-25 |  |
 | @popkorn  | bug | gandi mmo extension x and y not working  | HCN  | Open  | 2022-11-25 |  |
-| @labrosggv  | bug | Motion and Looks Category blocks appear in modules    | HCN  | Open  | 2022-11-25 |  |
-| @wzy1tenyears  | bug | can't click and run in modules    | HCN  | Open  | 2022-11-22 |  |
 | @HexMan  | suggestion | have an API wrapper     | HCN  | Open  | 2022-11-27 |  |
 | @DeMelBros (Muya)  | suggestion | 35 max member collaboration feature | HCN  | Open  | 2022-11-24 |  |
 | @labrosggv  | suggestion | Private variables in backdrop | HCN  | Open  | 2022-11-26 |  |
@@ -934,6 +932,8 @@ Community Contributor board(2022/12/26~2023/01/01)
 
 ### Rejected
 - rejected: Website scrolling on tablet (reporter: @Wokafish)
+- rejected: can't click and run in modules (reporter: @wzy1tenyears)
+- rejected: Motion and Looks Category blocks appear in modules (reporter: @labrosggv)
 
 ### Community Contributor board(2022/11/21~2022/11/27)
 - @labrosggv  : 5 💡 3 🐛
