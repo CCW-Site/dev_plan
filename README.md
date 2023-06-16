@@ -106,7 +106,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Chew | bug | name reset to untitled after i edited and saved it | collin  | Open  | 2023-05-28 |  |
 | @zep-excpoint | bug | Invalid token error | collin  | Open  | 2023-05-28 |  |
 | @chipiseth | bug | my project keeps on deleting everything inside of it | collin  | Open  | 2023-05-28 |  |
-| @Anthem | bug | I'm trying to upload a project to the Gandi IDE, and it's not working | collin  | Open  | 2023-05-27 |  |
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05 | bug | "Unassigned variable" overlapping variables. | collin  | Open  | 2023-05-27 |  |
 | @Python boi | bug | Stamping doesn't work outside of the 640*320 stage (g-kamera) | collin  | Open  | 2023-05-26 |  |
 | @DJQtip | bug | Gandi acting weird for now reason right now | collin  | Open  | 2023-05-22 |  |
@@ -138,6 +137,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - rejected: Open up a "serious-talk" channel for this server (reporter: @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05)
 - rejected: Project editing bug (reporter: @Fath11)
 - rejected: Project names not saving (reporter: @DJQtip)
+- rejected: I'm trying to upload a project to the Gandi IDE, and it's not working (reporter: @Anthem)
 
 ## 2023Y5M3W
 
