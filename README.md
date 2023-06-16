@@ -35,7 +35,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @! ᴋ ᴇ ʙ ᴀ ʙ ᴏ | bug | Media Utils not working | collin  | Open  | 2023-06-08 |  |
 | @! ᴋ ᴇ ʙ ᴀ ʙ ᴏ | bug | "True&false" not showing | collin  | Open  | 2023-06-07 |  |
 | @-AzCasty! | bug | Another translation mistake | collin  | Open  | 2023-06-07 |  |
-| @-AzCasty! | bug | Translation error in 4D pocket, Regex utils | collin  | Open  | 2023-06-05 |  |
 | @! ᴋ ᴇ ʙ ᴀ ʙ ᴏ | suggestion | Multiple key-values when making clone (DOLLY extension) | collin  | Open  | 2023-06-11 |  |
 | @! ᴋ ᴇ ʙ ᴀ ʙ ᴏ | suggestion | Make that we can duplicate single block | collin  | Open  | 2023-06-10 |  |
 | @AscensionMS | suggestion | Community Tool like Steam(Modding) | collin  | Open  | 2023-06-09 |  |
@@ -60,6 +59,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - fixed: Fonts in Animated Text Extention Aren't translated to/dont support English (reporter: @Python boi)
 - fixed: collab wont work (reporter: @nuggscircle)
 - fixed: Project won't load for collaboator (reporter: @曹操)
+
+### Rejected
+- rejected: Translation error in 4D pocket, Regex utils (reporter: @-AzCasty!)
 
 
 ## 2023Y6M1W
