@@ -111,7 +111,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Python boi | bug | Stamping doesn't work outside of the 640*320 stage (g-kamera) | collin  | Open  | 2023-05-26 |  |
 | @DJQtip | bug | Gandi acting weird for now reason right now | collin  | Open  | 2023-05-22 |  |
 | @DJQtip | bug | Text engine broken | collin  | Open  | 2023-05-22 |  |
-| @DJQtip | bug | Project names not saving | collin  | Open  | 2023-05-22 |  |
 | @AscensionMS | suggestion | Achievments | collin  | Open  | 2023-05-28 |  |
 | @Kebabo | suggestion | turn the animated NG emoji to normal not animated emoji | collin  | Open  | 2023-05-28 |  |
 | @zep-excpoint | suggestion | translation issue | collin  | Open  | 2023-05-28 |  |
@@ -138,6 +137,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 ### Rejected
 - rejected: Open up a "serious-talk" channel for this server (reporter: @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05)
 - rejected: Project editing bug (reporter: @Fath11)
+- rejected: Project names not saving (reporter: @DJQtip)
 
 ## 2023Y5M3W
 
