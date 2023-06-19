@@ -43,10 +43,12 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @kaplin86 | suggestion | "Paid" row of cocrea projects | collin  | Open  | 2023-06-16 |  |
 | @valid-user | suggestion | animation tree extension | collin  | Open  | 2023-06-15 |  |
 | @Mistereee | suggestion | Home Page | collin  | Open  | 2023-06-13 |  |
-| @valid-user | suggestion | helper role | collin  | Open  | 2023-06-13 |  |
 | @kaplin86 | suggestion | Tutorial-Based Role | collin  | Open  | 2023-06-13 |  |
 | @ION | suggestion | Extensions we need: (mainly Turbowarp ones, if anyone can recode them into gandi dm me) | collin  | Open  | 2023-06-13 |  |
 | @CB0516 | suggestion | Being able to hide that little sidebar | collin  | Open  | 2023-06-13 |  |
+
+### Added
+- added: helper role (reporter: valid-user)
 
 ### Fixed
 - fixed: how to fix quake lag bug (reporter: Chasm Matt)
