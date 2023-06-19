@@ -35,12 +35,10 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Poggins | bug | two of my games somehow have the same project id | collin  | Open  | 2023-06-17 |  |
 | @Juice =] | bug | Stage stretched out on Firefox browser | collin  | Open  | 2023-06-16 |  |
 | @kaplin86 | bug | G-Kamera move block only working for sprites | collin  | Open  | 2023-06-15 |  |
-| @valid-user | bug | Cant give ng to @HCN | collin  | Closed  | 2023-06-13 |  |
 | @Chasm Matt | bug | clone crash | collin  | Closed  | 2023-06-13 |  |
 | @CodeyCat890 | suggestion | If, Elif/Else If, Else | collin  | Open  | 2023-06-18 |  |
 | @valid-user | suggestion | is shift key pressed | collin  | Open  | 2023-06-18 |  |
 | @poprock | suggestion | OG role | collin  | Open  | 2023-06-17 |  |
-| @Empyrean   | suggestion | make an off-topic channel, but you get to make posts like this one | collin  | Open  | 2023-06-16 |  |
 | @Ƒαтн11 | suggestion | change the Server name | collin  | Open  | 2023-06-16 |  |
 | @kaplin86 | suggestion | "Paid" row of cocrea projects | collin  | Open  | 2023-06-16 |  |
 | @valid-user | suggestion | animation tree extension | collin  | Open  | 2023-06-15 |  |
@@ -49,7 +47,13 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @kaplin86 | suggestion | Tutorial-Based Role | collin  | Open  | 2023-06-13 |  |
 | @ION | suggestion | Extensions we need: (mainly Turbowarp ones, if anyone can recode them into gandi dm me) | collin  | Open  | 2023-06-13 |  |
 | @CB0516 | suggestion | Being able to hide that little sidebar | collin  | Open  | 2023-06-13 |  |
-| @Chasm Matt | suggestion | how to fix quake lag bug | collin  | Closed  | 2023-06-12 |  |
+
+### Fixed
+- fixed: how to fix quake lag bug (reporter: Chasm Matt)
+- fixed: Cant give ng to @HCN (reporter: valid-user)
+
+### Rejected
+- rejected: make an off-topic channel, but you get to make posts like this one (reporter: Empyrean)
 
 | Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
 | ------------- | ------------- | ------------- | ------------- |
