@@ -139,7 +139,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @Chew | bug | name reset to untitled after i edited and saved it | collin  | Open  | 2023-05-28 |  |
-| @zep-excpoint | bug | Invalid token error | collin  | Open  | 2023-05-28 |  |
 | @chipiseth | bug | my project keeps on deleting everything inside of it | collin  | Open  | 2023-05-28 |  |
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05 | bug | "Unassigned variable" overlapping variables. | collin  | Open  | 2023-05-27 |  |
 | @Python boi | bug | Stamping doesn't work outside of the 640*320 stage (g-kamera) | collin  | Open  | 2023-05-26 |  |
@@ -173,6 +172,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - rejected: Project editing bug (reporter: @Fath11)
 - rejected: Project names not saving (reporter: @DJQtip)
 - rejected: I'm trying to upload a project to the Gandi IDE, and it's not working (reporter: @Anthem)
+- rejected: Invalid token error (reporter: zep-excpoint)
 
 ## 2023Y5M3W
 
