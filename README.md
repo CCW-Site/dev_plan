@@ -166,6 +166,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - fixed: AI Extension not working (reporter: @B-dude)
 - fixed: Project fails to load (reporter: @Oblivious)
 - fixed: my project keeps on deleting everything inside of it (reporter: chipiseth)
+- fixed: name reset to untitled after i edited and saved it (reporter: Chew)
 
 ### Rejected
 - rejected: Open up a "serious-talk" channel for this server (reporter: @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05)
