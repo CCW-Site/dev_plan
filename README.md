@@ -139,7 +139,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @Chew | bug | name reset to untitled after i edited and saved it | collin  | Open  | 2023-05-28 |  |
-| @chipiseth | bug | my project keeps on deleting everything inside of it | collin  | Open  | 2023-05-28 |  |
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05 | bug | "Unassigned variable" overlapping variables. | collin  | Open  | 2023-05-27 |  |
 | @Python boi | bug | Stamping doesn't work outside of the 640*320 stage (g-kamera) | collin  | Open  | 2023-05-26 |  |
 | @DJQtip | bug | Gandi acting weird for now reason right now | collin  | Open  | 2023-05-22 |  |
@@ -166,6 +165,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 ### Fixed
 - fixed: AI Extension not working (reporter: @B-dude)
 - fixed: Project fails to load (reporter: @Oblivious)
+- fixed: my project keeps on deleting everything inside of it (reporter: chipiseth)
 
 ### Rejected
 - rejected: Open up a "serious-talk" channel for this server (reporter: @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05)
