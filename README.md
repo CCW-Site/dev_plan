@@ -53,6 +53,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Bug  | 99% | 90%  | 27 |
 | Suggestion  | 89% | 16%  | 61 |
 
+### Fixed
+- fixed: invaild token (reporter: MatheusSilva)
+
 ## 2023Y6M3W
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
