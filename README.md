@@ -27,6 +27,32 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ, linxin, jagger
 
+## 2023Y6M4W
+
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @Chasm Matt | bug | laggy project when in fullscreen mode | collin  | Open  | 2023-06-24 |  |
+| @bxjhq. 3> (<23) | bug | Multiple people can edit one sprite | collin  | Open  | 2023-06-23 |  |
+| @danpersonguything | bug | Very Laggy | collin  | Open  | 2023-06-22 |  |
+| @sherbet angelcore !! | bug | html file not loading | collin  | Open  | 2023-06-19 |  |
+| @MatheusSilva | bug | invaild token | collin  | Open  | 2023-06-19 |  |
+| @-CazmoNetics | suggestion | Idle creators spectate when in sprite when collabing | collin  | Open  | 2023-06-25 |  |
+| @Nikname | suggestion | When project stopped event | collin  | Open  | 2023-06-25 |  |
+| @Nikname | suggestion | Get cloud data from Scratch projects | collin  | Open  | 2023-06-25 |  |
+| @Nikname | suggestion | Cloud variable history | collin  | Open  | 2023-06-25 |  |
+| @Outrunfungus43 | suggestion | make it so we can send non integer amounts of ng | collin  | Open  | 2023-06-25 |  |
+| @danpersonguything | suggestion | View account creation date | collin  | Open  | 2023-06-22 |  |
+| @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05 | suggestion | Download projects directly from the Cocrea Projects Page | collin  | Open  | 2023-06-22 |  |
+| @Ascension | suggestion | Dev Schedule Channel | collin  | Open  | 2023-06-21 |  |
+| @Chasm Matt | suggestion | Why cant #code-analysis detect Cocrea projects? | collin  | Open  | 2023-06-20 |  |
+| @-CazmoNetics | suggestion | add the QOTD bot cuz why not | collin  | Open  | 2023-06-19 |  |
+| @-CazmoNetics | suggestion | Quake for Audio-related stuff | collin  | Open  | 2023-06-19 |  |
+
+| Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
+| ------------- | ------------- | ------------- | ------------- |
+| Bug  | 99% | 90%  | 27 |
+| Suggestion  | 89% | 16%  | 61 |
+
 ## 2023Y6M3W
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
