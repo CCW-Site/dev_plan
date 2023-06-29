@@ -1113,7 +1113,6 @@ Community Contributor board(2022/12/26~2023/01/01)
 
 | Reporter      | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @手羽先  | There is a bug about the project name in Japanese in the report  | ZJ  | Open  | 2022-10-31|  |
 | @Cyke  | Multilingual support for gandi-ide    | HCN  | Open | 2022-11-06 |  |
 
 ### Community Contributor board(2022/10/31~2022/11/06)
@@ -1139,6 +1138,7 @@ Community Contributor board(2022/12/26~2023/01/01)
 - Fixed: fix media Ext loading error ( reporter: @Jamin )
 - Fixed: using arrow keys to change outline in the costume editor can be done once before it stops editing the outline ( reporter: Portraito )
 - fixed: gandi edit collab bug (reporter: @poprock)
+- fixed: There is a bug about the project name in Japanese in the report (reporter: @手羽先)
 
 
 ## 2022Y10M4W
