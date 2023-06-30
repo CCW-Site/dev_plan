@@ -237,7 +237,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05 | bug | Gandi IDE Project Download Bug | collin  | Open  | 2023-05-09 |  |
 | @NotSoPTBP | suggestion | Vector object Magnetism | collin  | Open  | 2023-05-12 |  |
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05 | suggestion | Revamp the item sections for the Cloud Backpack | collin  | Open  | 2023-05-10 |  |
-| @𝘿𝙖_𝘾𝙧𝙚𝙖𝙩𝙤𝙧 | suggestion | Studios | collin  | Open  | 2023-05-08 |  |
 
 | Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
 | ------------- | ------------- | ------------- | ------------- |
@@ -250,6 +249,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 ### Rejected
 - rejected: Unable to folder projects in kamera (reporter: @dandan)
+- rejected: Studios (reporter: 𝘿𝙖_𝘾𝙧𝙚𝙖𝙩𝙤𝙧)
 
 ## 2023Y4M4W-2023Y5M1W
 
