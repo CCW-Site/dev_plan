@@ -27,6 +27,30 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ, linxin, jagger
 
+## 2023Y7M1W
+
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @blue | bug | The AI Hub "Update Background Info" has a limit on characters | collin  | Open  | 2023-07-02 |  |
+| @Chasm Matt | bug | Arkos' extension not warning about incapability with scratch | collin  | Open  | 2023-07-02 |  |
+| @creeper | bug | project unresponsive and dosnt do anything | collin  | Open  | 2023-06-29 |  |
+| @-Undertale--pro-✨ | bug | history problem | collin  | Open  | 2023-06-29 |  |
+| @DJ | bug | Editing Glitch | collin  | Open  | 2023-06-26 |  |
+| @Nikname | suggestion | View compiled JavaScript when compiler enabled | collin  | Open  | 2023-07-02 |  |
+| @Nikname | suggestion | For loop just like Python has | collin  | Open  | 2023-07-02 |  |
+| @Nikname | suggestion | Remove/Edit When I receive events | collin  | Open  | 2023-07-02 |  |
+| @Nikname | suggestion | Change #help-with-scripts name to "Questions" | collin  | Open  | 2023-07-02 |  |
+| @Ƒαтн11 | suggestion | Officially remove CWT | collin  | Open  | 2023-07-02 |  |
+| @Echoless | suggestion | Gandi should partner with Turbowarp | collin  | Open  | 2023-06-30 |  |
+| @hydration | suggestion | Uncap Quake effects | collin  | Open  | 2023-06-29 |  |
+| @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05 | suggestion | Synchronize themes via system settings | collin  | Open  | 2023-06-27 |  |
+| @Karrtheek | suggestion | Speech to text - Powered by open ai's whisper AI | collin  | Open  | 2023-06-26 |  |
+
+| Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
+| ------------- | ------------- | ------------- | ------------- |
+| Bug  | 99% | 91%  | 23 |
+| Suggestion  | 87% | 15%  | 64 |
+
 ## 2023Y6M4W
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
