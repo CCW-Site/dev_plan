@@ -550,7 +550,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Tessal  | suggestion | Renaming Modules  | collin  | Open  | 2023-02-16 |  |
 | @toe merchant  | suggestion | skip pre-existing assets when uploading a file | collin  | Open  | 2023-02-16 |  |
 | @Kebabo  | suggestion | more canals for the sounds media utils | collin  | Open  | 2023-02-13 |  |
-| @fathVIII_DCLVIII  | suggestion | Cat block | collin  | Open  | 2023-02-13 |  |
 | @fathVIII_DCLVIII  | suggestion | Custom font | collin  | Open  | 2023-02-13 |  |
 | @fathVIII_DCLVIII  | suggestion | Light Block Extensions | collin  | Open  | 2023-02-13 |  |
 
@@ -559,6 +558,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Bug  | 100% | 90%  | 23  |
 | Suggestion  | 92% | 19%  | 135  |
 | Help-desk  | 100% | 41%  | 12  | 
+
+### Added
+- added: Cat block (reporter: fathVIII_DCLVIII)
 
 ### Rejected
 - rejected: sprite cant move （reporter: @Tessal）
