@@ -40,7 +40,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Nikname | suggestion | For loop just like Python has | collin  | Open  | 2023-07-02 |  |
 | @Nikname | suggestion | Remove/Edit When I receive events | collin  | Open  | 2023-07-02 |  |
 | @Nikname | suggestion | Change #help-with-scripts name to "Questions" | collin  | Open  | 2023-07-02 |  |
-| @Ƒαтн11 | suggestion | Officially remove CWT | collin  | Open  | 2023-07-02 |  |
 | @Echoless | suggestion | Gandi should partner with Turbowarp | collin  | Open  | 2023-06-30 |  |
 | @hydration | suggestion | Uncap Quake effects | collin  | Open  | 2023-06-29 |  |
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05 | suggestion | Synchronize themes via system settings | collin  | Open  | 2023-06-27 |  |
@@ -50,6 +49,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | ------------- | ------------- | ------------- | ------------- |
 | Bug  | 99% | 91%  | 23 |
 | Suggestion  | 87% | 15%  | 64 |
+
+### Rejected
+
 
 ## 2023Y6M4W
 
