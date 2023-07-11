@@ -27,6 +27,35 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ, linxin, jagger
 
+## 2023Y7M2W
+
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @HAINAMLION | bug | Dolly clone doesnt delete | collin  | Open  | 2023-07-09 |  |
+| @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05 | bug | Gandi IDE Debug Tool Issue | collin  | Open  | 2023-07-09 |  |
+| @Mississippi and Alabama | bug | It won't let me in | collin  | Open  | 2023-07-08 |  |
+| @HAINAMLION | bug | pressed clean up and this happens | collin  | Open  | 2023-07-07 |  |
+| @The | bug | This shows up whenever I try creating a project | collin  | Open  | 2023-07-06 |  |
+| @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05 | bug | Ability to open Gandi IDE inside Gandi IDE inside Gandi IDE | collin  | Open  | 2023-07-06 |  |
+| @HAINAMLION | suggestion | Folder and Folder-In-Folder that's Lockable or Perimission-Only Openable | collin  | Open  | 2023-07-08 |  |
+| @Outrunfungus43 | suggestion | Give Us Access To A CSS Editor For Our Homepage | collin  | Open  | 2023-07-08 |  |
+| @HAINAMLION | suggestion | add a chain channel | collin  | Open  | 2023-07-07 |  |
+| @Ƒαтн11 | suggestion | Flip this | collin  | Open  | 2023-07-07 |  |
+| @HAINAMLION | suggestion | BING CHILLING EXTENSION FOR GANDI | collin  | Open  | 2023-07-07 |  |
+| @HAINAMLION | suggestion | Renaming broadcast messages | collin  | Open  | 2023-07-06 |  |
+| @Nikname | suggestion | Gandi forums | collin  | Open  | 2023-07-06 |  |
+| @Nikname | suggestion | Gain NG when you level up | collin  | Open  | 2023-07-06 |  |
+| @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05 | suggestion | Add [While] and [for each [i] in (0)] blocks along with the controls catagory | collin  | Open  | 2023-07-06 |  |
+| @-CazmoNetics | suggestion | Code short-circuiting like in python and JS | collin  | Open  | 2023-07-05 |  |
+| @frankenfreddy2324 | suggestion | "Gacha Life"-stylish filter chat, because the word "bypass" exists | collin  | Open  | 2023-07-04 |  |
+| @Ƒαтн11 | suggestion | Studio | collin  | Open  | 2023-07-04 |  |
+| @Ascension | suggestion | Teams in Cocrea | collin  | Open  | 2023-07-03 |  |
+
+| Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
+| ------------- | ------------- | ------------- | ------------- |
+| Bug  | 98% | 90%  | 26 |
+| Suggestion  | 86% | 15%  | 60 |
+
 ## 2023Y7M1W
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
