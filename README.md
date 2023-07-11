@@ -31,7 +31,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @HAINAMLION | bug | Dolly clone doesnt delete | collin  | Open  | 2023-07-09 |  |
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05 | bug | Gandi IDE Debug Tool Issue | collin  | Open  | 2023-07-09 |  |
 | @Mississippi and Alabama | bug | It won't let me in | collin  | Open  | 2023-07-08 |  |
 | @HAINAMLION | bug | pressed clean up and this happens | collin  | Open  | 2023-07-07 |  |
@@ -55,6 +54,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | ------------- | ------------- | ------------- | ------------- |
 | Bug  | 98% | 90%  | 26 |
 | Suggestion  | 86% | 15%  | 60 |
+
+### Fixed
+- fixed: Dolly clone doesnt delete (reporter: HAINAMLION) Thanks to 𝓟𝓪𝓹𝓲𝓬𝓱𝓲05
 
 ## 2023Y7M1W
 
