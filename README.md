@@ -355,7 +355,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @Tessal | bug | Some letters do not appear in Terminal | collin  | Open  | 2023-04-23 |  |
 | @giftboxx | bug | project not loading | collin  | Open  | 2023-04-20 |  |
 | @fath11 | bug | some collab mode and mmo problem | collin  | Open  | 2023-04-19 |  |
 | @poprock | suggestion | Tags for sprites (sprite groups) | collin  | Open  | 2023-04-23 |  |
@@ -372,6 +371,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | ------------- | ------------- | ------------- | ------------- |
 | Bug  | 99% | 90%  | 15 |
 | Suggestion  | 90% | 20%  | 43 |
+
+## Fixed
+- fixed: Some letters do not appear in Terminal (reporter: Tessal)
 
 ## Rejected
 - rejected: Better Auto Save Feature
