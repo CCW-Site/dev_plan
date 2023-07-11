@@ -34,7 +34,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05 | bug | Gandi IDE Debug Tool Issue | collin  | Open  | 2023-07-09 |  |
 | @Mississippi and Alabama | bug | It won't let me in | collin  | Open  | 2023-07-08 |  |
 | @HAINAMLION | bug | pressed clean up and this happens | collin  | Open  | 2023-07-07 |  |
-| @The | bug | This shows up whenever I try creating a project | collin  | Open  | 2023-07-06 |  |
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05 | bug | Ability to open Gandi IDE inside Gandi IDE inside Gandi IDE | collin  | Open  | 2023-07-06 |  |
 | @HAINAMLION | suggestion | Folder and Folder-In-Folder that's Lockable or Perimission-Only Openable | collin  | Open  | 2023-07-08 |  |
 | @Outrunfungus43 | suggestion | Give Us Access To A CSS Editor For Our Homepage | collin  | Open  | 2023-07-08 |  |
@@ -57,6 +56,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 ### Fixed
 - fixed: Dolly clone doesnt delete (reporter: HAINAMLION) Thanks to 𝓟𝓪𝓹𝓲𝓬𝓱𝓲05
+
+### Rejected
+- rejected: This shows up whenever I try creating a project (reporter: The)
 
 ## 2023Y7M1W
 
