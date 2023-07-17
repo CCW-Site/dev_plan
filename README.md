@@ -27,6 +27,29 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ, linxin, jagger
 
+## 2023Y7M3W
+
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @poppyrock | bug | witcat's input not working | collin  | Open  | 2023-07-14 |  |
+| @Saus Ev | bug | Cant import large list data | collin  | Open  | 2023-07-13 |  |
+| @Ƒαтн11 | bug | problem with collaboration mode | collin  | Open  | 2023-07-11 |  |
+| @Ƒαтн11 | bug | Load custom extension is not working | collin  | Open  | 2023-07-11 |  |
+| @Nikname | bug | Deleting blocks problem | collin  | Open  | 2023-07-11 |  |
+| @Ascension | suggestion | Game-Testing Channel/Forum | collin  | Open  | 2023-07-15 |  |
+| @idk256 | suggestion | Make a search bar in the extensions | collin  | Open  | 2023-07-13 |  |
+| @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05 | suggestion | List of editor addons on Gandi IDE | collin  | Open  | 2023-07-13 |  |
+| @Echoless | suggestion | "C" Blocks Extension Support | collin  | Open  | 2023-07-13 |  |
+| @Mr. DevMan | suggestion | Try to make an IDE that converts | collin  | Open  | 2023-07-12 |  |
+| @-CazmoNetics | suggestion | 'Favorite' asset or extension | collin  | Open  | 2023-07-12 |  |
+| @Tessal | suggestion | <touching [sprite] as [costume]> Boolean block | collin  | Open  | 2023-07-11 |  |
+| @Nikname | suggestion | Variable groups | collin  | Open  | 2023-07-10 |  |
+
+| Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
+| ------------- | ------------- | ------------- | ------------- |
+| Bug  | 97% | 89%  | 24 |
+| Suggestion  | 86% | 15%  | 60 |
+
 ## 2023Y7M2W
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
