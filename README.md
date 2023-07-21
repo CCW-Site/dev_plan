@@ -896,7 +896,6 @@ Community Contributor board(2022/12/26~2023/01/01)
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @fath11  | bug | Every time I reload the page the view count keeps increasing  | linxin  | Open  | 2022-12-17 |  |
 | @Martinelplayz  | bug | upon putting my project to 16:9 the stage became very stretched and so did all sprites attached  | linxin  | Open  | 2022-12-16 |  |
-| @PerlinNoise  | suggestion | Cocrea Docs are outdated  | collin  | Open  | 2022-12-18 |  |
 | @🎄 Mewster 🎄  | suggestion | Devlog feature (like itch.io)  | collin  | Open  | 2022-12-18 |  |
 | @wzy1tenyears  | suggestion | improve cocrea network for china pls | collin  | Open  | 2022-12-16 |  |
 | @Mintil  | suggestion | pls let blocks have customizable skin | collin  | Open  | 2022-12-16 |  |
@@ -923,6 +922,7 @@ Community Contributor board(2022/12/26~2023/01/01)
 - added: Weekly game jam (reporter: @HexMan)
 - added: Community-hosted or requested game jams (reporter: @PerlinNoise)
 - added: A project option to disable autosaving (reporter: @labrosggv)
+- added: Cocrea Docs are outdated (reporter: PerlinNoise)
 
 
 ### Community Contributor board(2022/12/12~2022/12/18)
