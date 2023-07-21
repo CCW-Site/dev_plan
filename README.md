@@ -690,7 +690,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @ron  | suggestion | gandi ide should support other audio files  | HCN  | Open  | 2023-01-24 |  |
 | @fathVIII_DCLVIII  | suggestion | 3D for gandi  | HCN  | Open  | 2023-01-22 |  |
 | @Outrunfungus43  | suggestion | Gandi Explore Page  | collin  | Open  | 2023-01-21 |  |
-| @catthatcanturnvalves  | suggestion | Convert NG into CWT  | Collin  | Open  | 2023-01-28 |  |
 | @catthatcanturnvalves  | suggestion | Costume editor canvas dark mode  | HCN  | Open  | 2023-01-20 |  |
 | @CoolScratcher  | suggestion | Terminal icon looks weird on gandi website  | linxin  | Open  | 2023-01-20 |  |
 | @catthatcanturnvalves  | suggestion | Right of erasure/right to be forgotten  | collin  | Open  | 2023-01-19 |  |
@@ -714,6 +713,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 ## Rejected
 - rejected: a problem about add face sensing extensions (reporter: @wzy1tenyears)
 - rejected: "For all sprites" not working (reporter: @Kebabo)
+- rejected: Convert NG into CWT (reporter: catthatcanturnvalves)
 
 ## 2023Y1M3W
 ### Plan
