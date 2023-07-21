@@ -683,7 +683,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @Tessal  | bug | White Screen  | HCN  | Open  | 2023-01-27 |  |
 | @wzy1tenyears  | bug | add many extensions will happen  | collin  | Open  | 2023-01-23 |  |
 | @Da_Creator  | suggestion | add an uninstall for extensions  | HCN  | Open  | 2023-01-28 |  |
 | @poprock  | suggestion | Multiple editors in a sprite  | ZJ  | Open  | 2023-01-27 |  |
@@ -714,6 +713,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - rejected: a problem about add face sensing extensions (reporter: @wzy1tenyears)
 - rejected: "For all sprites" not working (reporter: @Kebabo)
 - rejected: Convert NG into CWT (reporter: catthatcanturnvalves)
+- rejected: White Screen (reporter: Tessal)
 
 ## 2023Y1M3W
 ### Plan
