@@ -949,7 +949,6 @@ Community Contributor board(2022/12/26~2023/01/01)
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @dandan  | bug | project runs smoothly until you edit it  | HCN  | Open  | 2022-12-06  |  |
 | @winwinlmfao  | suggestion | Variables only for a specific script  | HCN  | Open  | 2022-12-11  |  |
 | @PerlinNoise  | suggestion | Unlisted mode for projects  | linxin  | Open  | 2022-12-11  |  |
 | @CoolScratcher  | suggestion | Utilize Custom Cursor better | HCN  | Open  | 2022-12-11  |  |
@@ -979,6 +978,7 @@ Community Contributor board(2022/12/26~2023/01/01)
 ### Rejected
 - Rejected: work command (reporter: CupStudios)
 - rejected: Each weekly-game-fest should have themes to base the game on (reporter: @DarkerGEN)
+- rejected: project runs smoothly until you edit it (reporter: dandan)
 
 ### Community Contributor board(2022/12/05~2022/12/11)
 - @CupStudios   : 4 💡
