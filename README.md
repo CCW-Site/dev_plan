@@ -852,7 +852,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | suggestion | change the in-editor comment design | Collin  | Open  | 2022-12-25 |   |
 | @Tessal  | suggestion | Break and Continue blocks | Collin  | Open  | 2022-12-23 |   |
 | @unexpectedIntegerNull  | suggestion | NG gifting from Cocrea NG dashboard | Collin  | Open  | 2022-12-21 |   |
-| @Julius MODS  | suggestion | Sprite Folders. | Collin  | Open  | 2022-12-20 |   |
 | @zep-excpoint  | suggestion | Touching (sprite) from (direction) side | Collin  | Open  | 2022-12-20 |   |
 | @Martinelplayz  | suggestion | random project button & project tags & search mechanics | Collin  | Open  | 2022-12-19 |   |
 | @Pootis  | suggestion | Keyframe Extension | Collin  | Open  | 2022-12-19 |   |
@@ -860,6 +859,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 ### Added
 - added: Moderators (Add-On from a former one) (reporter: @🎄 Mewster 🎄)
+- added: Sprite Folders (reporter: Julius MODS)
 
 
 ### Fixed
@@ -1017,7 +1017,6 @@ Community Contributor board(2022/12/26~2023/01/01)
 | @popkorn   | suggestion | Add an easy way to connect an external server  | collin  | Open  | 2022-11-30 |  |
 | @DarkerGEN   | suggestion | Add a option to go into full screen while play a scratch game that is 16:9  | linxin  | Open  | 2022-11-30 |  |
 | @saraysxroom   | suggestion | resolution change  | linxin  | Open  | 2022-11-29 |  |
-| @NotSoPTBP   | suggestion | Sprites and Costumes Folder  | linxin  | Open  | 2022-11-29 |  |
 
 ### Fixed
 - Fixed: Project duplicated all sprites and can't load the project (reporter: Creep5432.catrobat)
@@ -1025,7 +1024,8 @@ Community Contributor board(2022/12/26~2023/01/01)
 - fixed: No video or audio folders to put mp3 or mp4 into (reporter: @hd)
 
 ### Added
-- Added: Search Button in Cocrea (reporter: ☭ Mewster ☭ )
+- added: Search Button in Cocrea (reporter: ☭ Mewster ☭ )
+- added: Sprites and Costumes Folder (reporter: NotSoPTBP)
 
 ### Rejected
 - rejected: Variable right click bug (reporter: @Suumy0327) (no response)
