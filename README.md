@@ -315,7 +315,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @CleverUsername | bug | whenever I try to edit my background it crashes entirely | collin  | Open  | 2023-05-21 |  |
-| @Zsergi77 | bug | My project doesn't load | collin  | Open  | 2023-05-20 |  |
 | @Fath11 | bug | i cant remix | collin  | Open  | 2023-05-20 |  |
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05 | bug | A new error has been discovered | collin  | Open  | 2023-05-20 |  |
 | @Fath11 | bug | Ai hub straight ou1t doesn't work when i embed it | collin  | Open  | 2023-05-17 |  |
@@ -329,7 +328,10 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Bug  | 99% | 91%  | 37 |
 | Suggestion  | 90% | 18%  | 50 |
 
-## Rejected
+### Fixed
+- fixed: My project doesn't load (reporter: Zsergi77)
+
+### Rejected
 - rejected: Gandi keeps deleting my game (reporter: @Chili_chil1)
 - rejected: mp3 wont upload and appear when uploaded (reporter: @no text to speech 100% real)
 - rejected: Sprite Moving with another sprite while the camera is moving and pointing at mouse pointer (reporter: @RealAngrii)
