@@ -27,6 +27,30 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ, linxin, jagger
 
+## 2023Y7M4W
+
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @kaplin86 | bug | A* Odyssey debug window doesnt appear | collin  | Open  | 2023-07-23 |  |
+| @chipiseth | bug | My project is constantly reverting to an old version | collin  | Open  | 2023-07-23 |  |
+| @The boneliest | bug | the project loads forever and never stops loading | collin  | Open  | 2023-07-21 |  |
+| @kaplin86 | bug | A* Odyssey Debug Window stays after i have closed the project | collin  | Open  | 2023-07-21 |  |
+| @Vsync | bug | MMO extension error with my friend | collin  | Open  | 2023-07-20 |  |
+| @kaplin86 | bug | Right clicking inside of frames reduces features | collin  | Open  | 2023-07-18 |  |
+| @Oblivious | suggestion | Move the block area over slightly | collin  | Open  | 2023-07-21 |  |
+| @x_Infinite | suggestion | Realign the off topic channel | collin  | Open  | 2023-07-21 |  |
+| @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05 | suggestion | “SG-Theater” Extension Idea | collin  | Open  | 2023-07-20 |  |
+| @Glitchy Sunflower (Girassolz) | suggestion | Multiple Scenes | collin  | Open  | 2023-07-20 |  |
+| @@code on Gandi IDE | suggestion | view people following someone | collin  | Open  | 2023-07-19 |  |
+| @@code on Gandi IDE | suggestion | add a feature where you can favorite projects, so you can get to them quickly | collin  | Open  | 2023-07-18 |  |
+| @-Mysticaer Cazmo | suggestion | bring back the 'All at once' blok (SPELLING ERROR INTENDED) | collin  | Open  | 2023-07-18 |  |
+| @-Mysticaer Cazmo | suggestion | make it so we can choose how many "handles" does each dots on a vector costume have | collin  | Open  | 2023-07-18 |  |
+
+| Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
+| ------------- | ------------- | ------------- | ------------- |
+| Bug  | 96% | 88%  | 29 |
+| Suggestion  | 86% | 16%  | 58 |
+
 ## 2023Y7M3W
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
