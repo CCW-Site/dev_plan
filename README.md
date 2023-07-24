@@ -32,7 +32,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @kaplin86 | bug | A* Odyssey debug window doesnt appear | collin  | Open  | 2023-07-23 |  |
-| @chipiseth | bug | My project is constantly reverting to an old version | collin  | Open  | 2023-07-23 |  |
 | @The boneliest | bug | the project loads forever and never stops loading | collin  | Open  | 2023-07-21 |  |
 | @kaplin86 | bug | A* Odyssey Debug Window stays after i have closed the project | collin  | Open  | 2023-07-21 |  |
 | @Vsync | bug | MMO extension error with my friend | collin  | Open  | 2023-07-20 |  |
@@ -50,6 +49,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | ------------- | ------------- | ------------- | ------------- |
 | Bug  | 96% | 88%  | 29 |
 | Suggestion  | 86% | 16%  | 58 |
+
+### Fixed
+- fixed: My project is constantly reverting to an old version (reporter: chipiseth)
 
 ## 2023Y7M3W
 
