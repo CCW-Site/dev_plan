@@ -111,7 +111,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - fixed: Dolly clone doesnt delete (reporter: HAINAMLION) Thanks to 𝓟𝓪𝓹𝓲𝓬𝓱𝓲05
 
 ### Rejected
-- rejected: This shows up whenever I try creating a project (reporter: The)
+- rejected: This shows up whenever I try creating a project (reporter: Kinoshi)
 
 ## 2023Y7M1W
 
