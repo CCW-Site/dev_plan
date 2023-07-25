@@ -842,7 +842,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @Da_Creator  | bug | Quake crashed Gandi screen or whatever it is  | HCN  | Open  | 2023-01-01 |  |
 | @wzy1tenyears  | bug | no NG instraction  | HCN  | collin  | 2022-12-30 |  |
-| @fath11  | bug | all my project is corrupted lol  | HCN  | Open  | 2022-12-30 |  |
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | bug | Cloud Extension Page | HCN  | Open  | 2022-12-29 |  |
 | @HexMan  | bug | Error after saving my custom addon | HCN  | Open  | 2022-12-28 |  |
 | @Tessal  | suggestion | New organized workspace | HCN  | Open  | 2023-01-01 |  |
@@ -870,6 +869,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - fixed: addToBackpack (reporter: @CoolScratcher)
 - fixed: Displaced scroll bar and zoom options (reporter: @CoolScratcher)
 - fixed: I have banned myself (reporter: @fath11)
+- fixed: all my project is corrupted lol (reporter: fath11)
 
 ## Rejected
 - rejected: More languages channels (reporter: @CupStudios)
