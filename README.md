@@ -1091,7 +1091,6 @@ Community Contributor board(2022/12/26~2023/01/01)
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @popkorn  | bug | project taking very long to load or not loading at all on cocrea  | HCN  | Open  | 2022-11-25 |  |
 | @popkorn  | bug | gandi mmo extension x and y not working  | HCN  | Open  | 2022-11-25 |  |
 | @HexMan  | suggestion | have an API wrapper     | HCN  | Open  | 2022-11-27 |  |
 | @DeMelBros (Muya)  | suggestion | 35 max member collaboration feature | HCN  | Open  | 2022-11-24 |  |
@@ -1108,6 +1107,7 @@ Community Contributor board(2022/12/26~2023/01/01)
 - Fixed: cannot search project in Cocrea (reporter: PerlinNoise)
 - Fixed: Missing translation Entry (reporter: labrosggv)
 - Fixed: Some icons don't load (reporter: PerlinNoise)
+- fixed: project taking very long to load or not loading at all on cocrea (reporter: popkorn)
 
 ### Added
 - Added: 16 9 canvas size (reporter: NotSoPTBP)
