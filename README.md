@@ -60,7 +60,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @Saus Ev | bug | Cant import large list data | collin  | Open  | 2023-07-13 |  |
-| @Ƒαтн11 | bug | problem with collaboration mode | collin  | Open  | 2023-07-11 |  |
 | @Ƒαтн11 | bug | Load custom extension is not working | collin  | Open  | 2023-07-11 |  |
 | @Nikname | bug | Deleting blocks problem | collin  | Open  | 2023-07-11 |  |
 | @Ascension | suggestion | Game-Testing Channel/Forum | collin  | Open  | 2023-07-15 |  |
@@ -79,6 +78,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 ### Fixed
 - fixed: witcat's input not working (reporter: poppyrock)
+- fixed: problem with collaboration mode (reporter: Ƒαтн11)
 
 ## 2023Y7M2W
 
