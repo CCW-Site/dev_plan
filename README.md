@@ -37,7 +37,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Emptied Exodus | bug | Simple MMO Extension | collin  | Open  | 2023-07-27 |  |
 | @Chasm Matt | bug | cat config + custom reporter = bug | collin  | Open  | 2023-07-26 |  |
 | @𝕀𝕧𝕒𝕟 | bug | set drag mode block doesnt work | collin  | Open  | 2023-07-25 |  |
-| @puzzling | bug | Witcat Input Icon Broken | collin  | Open  | 2023-07-25 |  |
 | @rat | suggestion | instant collaboration | collin  | Open  | 2023-07-30 |  |
 | @rat | suggestion | redirect links extension | collin  | Open  | 2023-07-30 |  |
 | @NcTV | suggestion | Livestream Like Twitch | collin  | Open  | 2023-07-29 |  |
@@ -55,6 +54,8 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Bug  | 96% | 89%  | 26 |
 | Suggestion  | 86% | 15%  | 63 |
 
+### Rejected
+- rejected: Witcat Input Icon Broken (reporter: puzzling)
 
 ## 2023Y7M4W
 
