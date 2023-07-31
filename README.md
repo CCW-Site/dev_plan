@@ -27,6 +27,35 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ, linxin, jagger
 
+
+## 2023Y8M1W
+
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @I n D r I s | bug | Multiplayer MMO help (Sprites not showing) | collin  | Open  | 2023-07-30 |  |
+| @chordlessOP | bug | Flag on editor won't start! | collin  | Open  | 2023-07-27 |  |
+| @Emptied Exodus | bug | Simple MMO Extension | collin  | Open  | 2023-07-27 |  |
+| @Chasm Matt | bug | cat config + custom reporter = bug | collin  | Open  | 2023-07-26 |  |
+| @𝕀𝕧𝕒𝕟 | bug | set drag mode block doesnt work | collin  | Open  | 2023-07-25 |  |
+| @puzzling | bug | Witcat Input Icon Broken | collin  | Open  | 2023-07-25 |  |
+| @rat | suggestion | instant collaboration | collin  | Open  | 2023-07-30 |  |
+| @rat | suggestion | redirect links extension | collin  | Open  | 2023-07-30 |  |
+| @NcTV | suggestion | Livestream Like Twitch | collin  | Open  | 2023-07-29 |  |
+| @The Umbrella Guy | suggestion | Sprites are able to move outside of frame | collin  | Open  | 2023-07-28 |  |
+| @NotSoPTBP | suggestion | An idea for Gandi Ide desktop version | collin  | Open  | 2023-07-27 |  |
+| @x_Infinite | suggestion | Ability to change the name of broadcasts | collin  | Open  | 2023-07-27 |  |
+| @FireArrow | suggestion | user-specific achievement points | collin  | Open  | 2023-07-27 |  |
+| @chipiseth | suggestion | more customizble page| collin  | Open  | 2023-07-26 |  |
+| @AndyGun11 | suggestion | "x speed", "y speed", and "directional speed" blocks | collin  | Open  | 2023-07-25 |  |
+| @𝕀𝕧𝕒𝕟 | suggestion | Update pen extension so it can work in gkamera | collin  | Open  | 2023-07-24 |  |
+| @The Umbrella Guy | suggestion | DRAWING TOOLS | collin  | Open  | 2023-07-24 |  |
+
+| Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
+| ------------- | ------------- | ------------- | ------------- |
+| Bug  | 96% | 89%  | 26 |
+| Suggestion  | 86% | 15%  | 63 |
+
+
 ## 2023Y7M4W
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
