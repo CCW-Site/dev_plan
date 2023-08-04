@@ -355,7 +355,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05 | bug | A new error has been discovered | collin  | Open  | 2023-05-20 |  |
 | @Fath11 | bug | Ai hub straight ou1t doesn't work when i embed it | collin  | Open  | 2023-05-17 |  |
 | @Python boi | suggestion | Arrays and Vectors as an Extention | collin  | Open  | 2023-05-21 |  |
-| @CyberNat2000 | suggestion | 5 NGs for bump the server | collin  | Open  | 2023-05-16 |  |
 | @Fath11 | suggestion | Change the filter blocks tool | collin  | Open  | 2023-05-16 |  |
 | @Python boi | suggestion | Ability to add dropdowns to custom blocks | collin  | Open  | 2023-05-16 |  |
 
@@ -363,6 +362,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | ------------- | ------------- | ------------- | ------------- |
 | Bug  | 99% | 91%  | 37 |
 | Suggestion  | 90% | 18%  | 50 |
+
+### Added
+- added: 5 NGs for bump the server (reporter: CyberNat2000)
 
 ### Fixed
 - fixed: My project doesn't load (reporter: Zsergi77)
