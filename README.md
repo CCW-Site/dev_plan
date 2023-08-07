@@ -45,6 +45,12 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @rat | suggestion | comments on profiles | collin  | open  | 2023-08-01 |  |
 | @rat | suggestion | built in tutorials for the editor | collin  | open  | 2023-07-31 |  |
 
+| Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
+| ------------- | ------------- | ------------- | ------------- |
+| Bug  | 96% | 90%  | 28 |
+| Suggestion  | 87% | 15%  | 58 |
+
+
 ## 2023Y8M1W
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
