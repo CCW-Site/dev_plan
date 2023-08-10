@@ -39,7 +39,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @-Undertale--pro-✨ | bug | My broadcast doesn't work | collin  | Open  | 2023-08-02 |  |
 | @Rhythms² | bug | My game just completely broke | collin  | Open  | 2023-08-01 |  |
 | @-Mysticaer Cazmo | bug | Animated Text doc button redirects to wrong site | collin  | Done  | 2023-07-31 |  |
-| @TraffiCloud | suggestion | Moderation team for the Chinese channel | collin  | open  | 2023-08-02 |  |
 | @Cuddamations | suggestion | advanced art tools | collin  | open  | 2023-08-02 |  |
 | @Outrunfungus43 (Pikmin CEO) | suggestion | earn ng from each unique view on a game in gandi ide | collin  | open  | 2023-08-01 |  |
 | @rat | suggestion | comments on profiles | collin  | open  | 2023-08-01 |  |
@@ -49,6 +48,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | ------------- | ------------- | ------------- | ------------- |
 | Bug  | 96% | 90%  | 28 |
 | Suggestion  | 87% | 15%  | 58 |
+
+### Added
+- added: Moderation team for the Chinese channel (reporter: TraffiCloud)
 
 
 ## 2023Y8M1W
