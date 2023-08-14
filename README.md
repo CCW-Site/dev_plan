@@ -27,22 +27,45 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ, linxin, jagger
 
+## 2023Y8M3W(20230807~20230813)
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @Python boi | bug | Unable to load certain project files | collin  | Open  | 2023-08-09 |  |
+| @Puru | bug | There is this error message being displayed in my game. Pls fix this | collin  | Done  | 2023-08-07 |  |
+| @Emptied Exodusk | bug | There is this error message being displayed in my game. Pls fix this | collin  | Done  | 2023-08-07 |  |
+| @Amine GM | suggestion | Making other channel languages | collin  | Done  | 2023-08-12 |  |
+| @Ƒαтн11 | suggestion | Rename project card to advertisement | collin  | Open  | 2023-08-11 |  |
+| @Emptied Exodusk | suggestion | copy-paste code blocks into text | collin  | Open  | 2023-08-11 |  |
+| @x_Infinite | suggestion | Tutorial Bounty | collin  | Open  | 2023-08-11 |  |
+| @Nameless | suggestion | Delete Blocks if Dragged to Sidebar | collin  | Open  | 2023-08-11 |  |
+| @kaplin86 | suggestion | Modules inside of Folders | collin  | Open  | 2023-08-10 |  |
+| @Anni memeiro | suggestion | Mobile scratch games channel | collin  | Open  | 2023-08-09 |  |
+| @~Mysticaer Cazmo | suggestion | Dolly suggestion | collin  | Open  | 2023-08-09 |  |
+| @kaplin86 | suggestion | Posting Images in #poll | collin  | Open  | 2023-08-08 |  |
+| @JamTheDev (RPG CEO) | suggestion | Roles for the top 5 Game Jam Winners | collin  | Open  | 2023-08-08 |  |
+| @Emptied Exodusk | suggestion | More reedemables with NG | collin  | Open  | 2023-08-07 |  |
+
+
 ## 2023Y8M2W
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @kaplin86 | bug | Visual Bug when using Search Feature | collin  | Open  | 2023-08-06 |  |
 | @x_Infinite | bug | Discord Pinging Glitch in VC Texting Channel | collin  | Open  | 2023-08-06 |  |
-| @PuteraEverything | bug | 404 Error Sprite Problem | collin  | Open  | 2023-08-05 |  |
 | @𝕀𝕧𝕒𝕟 (yo dad CEO) | bug | weird collaboration glitch that crashes games | collin  | Open  | 2023-08-03 |  |
 | @RyanIsScratchin' (LUNARUS CEO) | bug | Gandi IDE crashes when you are in another window/app and don't go back to it for some time (< 1-2m.) | collin  | Open  | 2023-08-03 |  |
 | @-Undertale--pro-✨ | bug | My broadcast doesn't work | collin  | Open  | 2023-08-02 |  |
 | @Rhythms² | bug | My game just completely broke | collin  | Open  | 2023-08-01 |  |
-| @-Mysticaer Cazmo | bug | Animated Text doc button redirects to wrong site | collin  | Done  | 2023-07-31 |  |
 | @Cuddamations | suggestion | advanced art tools | collin  | open  | 2023-08-02 |  |
 | @Outrunfungus43 (Pikmin CEO) | suggestion | earn ng from each unique view on a game in gandi ide | collin  | open  | 2023-08-01 |  |
 | @rat | suggestion | comments on profiles | collin  | open  | 2023-08-01 |  |
 | @rat | suggestion | built in tutorials for the editor | collin  | open  | 2023-07-31 |  |
+
+
+### Fixed:
+- fixed: Animated Text doc button redirects to wrong site (reporter: -Mysticaer Cazmo)
+- fixed: 404 Error Sprite Problem (reporter: PuteraEverything)
+
 
 | Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
 | ------------- | ------------- | ------------- | ------------- |
