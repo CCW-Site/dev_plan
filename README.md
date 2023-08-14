@@ -377,7 +377,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @kaplin86 | suggestion | Sharing Backpacked Assets | collin  | Open  | 2023-05-26 |  |
 | @kaplin86 | suggestion | Static Boolean input for custom blocks | collin  | Open  | 2023-05-25 |  |
 | @Girassolz 1937 | suggestion | Stats And Clone-Single-Variables | collin  | Open  | 2023-05-25 |  | 
-| @.AzCasty | suggestion | Why do NG's have Cents? | collin  | Open  | 2023-05-24 |  | 
 | @𝘿𝙖_𝘾𝙧𝙚𝙖𝙩𝙤𝙧 | suggestion | Add more emojis to the server | collin  | Open  | 2023-05-24 |  | 
 | @Kebabo | suggestion | Show every default variables | collin  | Open  | 2023-05-23 |  |
 
@@ -388,6 +387,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 ### Added
 - added: Make tutorials (reporter: @Kebabo)
+- added: Why do NG's have Cents? (.AzCasty)
 
 ### Fixed
 - fixed: AI Extension not working (reporter: @B-dude)
