@@ -31,8 +31,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @Python boi | bug | Unable to load certain project files | collin  | Open  | 2023-08-09 |  |
-| @Puru | bug | There is this error message being displayed in my game. Pls fix this | collin  | Done  | 2023-08-07 |  |
-| @Amine GM | suggestion | Making other channel languages | collin  | Done  | 2023-08-12 |  |
 | @Ƒαтн11 | suggestion | Rename project card to advertisement | collin  | Open  | 2023-08-11 |  |
 | @Emptied Exodusk | suggestion | copy-paste code blocks into text | collin  | Open  | 2023-08-11 |  |
 | @x_Infinite | suggestion | Tutorial Bounty | collin  | Open  | 2023-08-11 |  |
@@ -48,6 +46,12 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | ------------- | ------------- | ------------- | ------------- |
 | Bug  | 97% | 89%  | 27 |
 | Suggestion  | 88% | 14%  | 59 |
+
+### Added
+- added: Making other channel languages (Amine GM)
+
+### Fixed
+- fixed: There is this error message being displayed in my game. Pls fix this (Puru)
 
 
 ## 2023Y8M2W
@@ -944,6 +948,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Tessal  | suggestion | .txt converting to .csv before importing into lists | collin  | Open  | 2022-12-26 |  |
 | @Da_Creator  | suggestion | Cloud variables that stores Info for each person (except guests) | collin  | Open  | 2022-12-26 |  |
 
+### Added
+- added: More languages channels (CupStudios)
+
 ## Fixed
 - Fixed: cannot open project (reporter: @Chasma)
 - fixed: Progress rewinded and Bugged On the same project (reporter: @Chasma)
@@ -954,7 +961,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - fixed: all my project is corrupted lol (reporter: fath11)
 
 ## Rejected
-- rejected: More languages channels (reporter: @CupStudios)
 - rejected: Corrupted Project (reporter: @labrosggv)
 
 ## 2022Y12M4W
