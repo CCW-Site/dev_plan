@@ -236,7 +236,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Nikname | suggestion | When project stopped event | collin  | Open  | 2023-06-25 |  |
 | @Nikname | suggestion | Get cloud data from Scratch projects | collin  | Open  | 2023-06-25 |  |
 | @Nikname | suggestion | Cloud variable history | collin  | Open  | 2023-06-25 |  |
-| @Outrunfungus43 | suggestion | make it so we can send non integer amounts of ng | collin  | Open  | 2023-06-25 |  |
 | @danpersonguything | suggestion | View account creation date | collin  | Open  | 2023-06-22 |  |
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05 | suggestion | Download projects directly from the Cocrea Projects Page | collin  | Open  | 2023-06-22 |  |
 | @Ascension | suggestion | Dev Schedule Channel | collin  | Open  | 2023-06-21 |  |
@@ -251,6 +250,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 ### Fixed
 - fixed: invaild token (reporter: MatheusSilva)
+
+### Rejected
+- rejected: make it so we can send non integer amounts of ng (Outrunfungus43)
 
 ## 2023Y6M3W
 
