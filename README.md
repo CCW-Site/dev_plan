@@ -32,7 +32,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @Python boi | bug | Unable to load certain project files | collin  | Open  | 2023-08-09 |  |
 | @Puru | bug | There is this error message being displayed in my game. Pls fix this | collin  | Done  | 2023-08-07 |  |
-| @Emptied Exodusk | bug | There is this error message being displayed in my game. Pls fix this | collin  | Done  | 2023-08-07 |  |
 | @Amine GM | suggestion | Making other channel languages | collin  | Done  | 2023-08-12 |  |
 | @Ƒαтн11 | suggestion | Rename project card to advertisement | collin  | Open  | 2023-08-11 |  |
 | @Emptied Exodusk | suggestion | copy-paste code blocks into text | collin  | Open  | 2023-08-11 |  |
@@ -44,6 +43,11 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @kaplin86 | suggestion | Posting Images in #poll | collin  | Open  | 2023-08-08 |  |
 | @JamTheDev (RPG CEO) | suggestion | Roles for the top 5 Game Jam Winners | collin  | Open  | 2023-08-08 |  |
 | @Emptied Exodusk | suggestion | More reedemables with NG | collin  | Open  | 2023-08-07 |  |
+
+| Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
+| ------------- | ------------- | ------------- | ------------- |
+| Bug  | 97% | 89%  | 27 |
+| Suggestion  | 88% | 14%  | 59 |
 
 
 ## 2023Y8M2W
@@ -61,16 +65,14 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @rat | suggestion | comments on profiles | collin  | open  | 2023-08-01 |  |
 | @rat | suggestion | built in tutorials for the editor | collin  | open  | 2023-07-31 |  |
 
-
-### Fixed:
-- fixed: Animated Text doc button redirects to wrong site (reporter: -Mysticaer Cazmo)
-- fixed: 404 Error Sprite Problem (reporter: PuteraEverything)
-
-
 | Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
 | ------------- | ------------- | ------------- | ------------- |
 | Bug  | 96% | 90%  | 28 |
 | Suggestion  | 87% | 15%  | 58 |
+
+### Fixed:
+- fixed: Animated Text doc button redirects to wrong site (reporter: -Mysticaer Cazmo)
+- fixed: 404 Error Sprite Problem (reporter: PuteraEverything)
 
 ### Added
 - added: Moderation team for the Chinese channel (reporter: TraffiCloud)
