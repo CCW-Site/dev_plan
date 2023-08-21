@@ -27,7 +27,27 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ, linxin, jagger
 
-## 2023Y8M3W(20230807~20230813)
+## 2023Y8M3W(20230814~20230820)
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @[+] G-Dev // Dexter [+] | bug | Wont register click | collin  | Open  | 2023-08-21 |  |
+| @Exotic (Earl Grey/Parsnib Chef) | bug | ghost variable? | collin  | Open  | 2023-08-19 |  |
+| @chipiseth | bug | Failed to load | collin  | Open  | 2023-08-17 |  |
+| @Link4king | bug | When upload game to public it gets corrupted! | collin  | Open  | 2023-08-16 |  |
+| @Oblivious | bug | Unable to load project | collin  | Open  | 2023-08-15 |  |
+| @kebabo alt | suggestion | let new members see old message| collin  | Open  | 2023-08-20 |  |
+| @Ascension Parscension | suggestion | Stoping A Certain Frame| collin  | Open  | 2023-08-17 |  |
+| @Ambientys | suggestion | Customizable New Sprite Position| collin  | Open  | 2023-08-16 |  |
+| @Umbrella (Parsnib Caporegime) | suggestion | Customizable New Sprite Position| collin  | Open  | 2023-08-14 |  |
+| @Exotic (Earl Grey/Parsnib Chef) | suggestion | drag and drop audio files to instantly upload them| collin  | Open  | 2023-08-14 |  |
+
+| Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
+| ------------- | ------------- | ------------- | ------------- |
+| Bug  | 96% | 89%  | 30 |
+| Suggestion  | 88% | 13%  | 49 |
+
+
+## 2023Y8M2W(20230807~20230813)
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @Python boi | bug | Unable to load certain project files | collin  | Open  | 2023-08-09 |  |
@@ -54,7 +74,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - fixed: There is this error message being displayed in my game. Pls fix this (Puru)
 
 
-## 2023Y8M2W
+## 2023Y8M1W
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
@@ -82,7 +102,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - added: Moderation team for the Chinese channel (reporter: TraffiCloud)
 
 
-## 2023Y8M1W
+## 2023Y7M5W
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
