@@ -1149,7 +1149,6 @@ Community Contributor board(2022/12/26~2023/01/01)
 | @popkorn   | bug | Variables and lists not showing  | HCN  | Open  | 2022-11-30 |  |
 | @HexMa   | suggestion | Market Place  | HCN  | Open  | 2022-12-04 |  |
 | @NotSoPTBP   | suggestion | Interpolation (like in turbowarp)  | HCN  | Open  | 2022-11-30 |  |
-| @☭ Mewster ☭   | suggestion | Make In-Depth Tutorials on each of the Extensions on YouTube  | collin  | Open  | 2022-12-04 |  |
 | @PerlinNoise   | suggestion | Sprite Interpolation  | HCN  | Open  | 2022-12-04 |  |
 | @Suumy0327   | suggestion | Export to app  | HCN  | Open  | 2022-12-04 |  |
 | @BANANAKING   | suggestion | Costume Editor Grid  | HCN  | Open  | 2022-12-04 |  |
@@ -1170,6 +1169,7 @@ Community Contributor board(2022/12/26~2023/01/01)
 ### Added
 - added: Search Button in Cocrea (reporter: ☭ Mewster ☭ )
 - added: Sprites and Costumes Folder (reporter: NotSoPTBP)
+- added: Make In-Depth Tutorials on each of the Extensions on YouTube (☭ Mewster ☭)
 
 ### Rejected
 - rejected: Variable right click bug (reporter: @Suumy0327) (no response)
