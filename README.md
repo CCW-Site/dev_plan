@@ -50,7 +50,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 ## 2023Y8M2W(20230807~20230813)
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @Python boi | bug | Unable to load certain project files | collin  | Open  | 2023-08-09 |  |
 | @Ƒαтн11 | suggestion | Rename project card to advertisement | collin  | Open  | 2023-08-11 |  |
 | @Emptied Exodusk | suggestion | copy-paste code blocks into text | collin  | Open  | 2023-08-11 |  |
 | @x_Infinite | suggestion | Tutorial Bounty | collin  | Open  | 2023-08-11 |  |
@@ -72,6 +71,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 ### Fixed
 - fixed: There is this error message being displayed in my game. Pls fix this (Puru)
+
+### Rejected
+- rejected: Unable to load certain project files (Python boi )
 
 
 ## 2023Y8M1W
