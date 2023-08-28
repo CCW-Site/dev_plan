@@ -34,7 +34,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Exotic (Earl Grey/Parsnib Chef) | bug | ghost variable? | collin  | Open  | 2023-08-19 |  |
 | @chipiseth | bug | Failed to load | collin  | Open  | 2023-08-17 |  |
 | @Link4king | bug | When upload game to public it gets corrupted! | collin  | Open  | 2023-08-16 |  |
-| @Oblivious | bug | Unable to load project | collin  | Open  | 2023-08-15 |  |
 | @kebabo alt | suggestion | let new members see old message| collin  | Open  | 2023-08-20 |  |
 | @Ascension Parscension | suggestion | Stoping A Certain Frame| collin  | Open  | 2023-08-17 |  |
 | @Ambientys | suggestion | Customizable New Sprite Position| collin  | Open  | 2023-08-16 |  |
@@ -45,6 +44,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | ------------- | ------------- | ------------- | ------------- |
 | Bug  | 96% | 89%  | 30 |
 | Suggestion  | 88% | 13%  | 49 |
+
+### Fixed
+- fixed: Unable to load project (Oblivious)
 
 
 ## 2023Y8M2W(20230807~20230813)
