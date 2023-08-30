@@ -47,14 +47,13 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Suggestion  | 89% | 14%  | 46 |
 
 ### Fixed
-- fixed: Project Crash Issue (𝓟𝓪𝓹𝓲𝓬𝓱𝓲05/AZEATRE/kaplin86)
+- fixed: Project Crash Issue (𝓟𝓪𝓹𝓲𝓬𝓱𝓲05/AZEATRE/kaplin86/chipiseth)
 - fixed: Wont register click (Gabe Dev)
 
 ## 2023Y8M3W(20230814~20230820)
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @Exotic (Earl Grey/Parsnib Chef) | bug | ghost variable? | collin  | Open  | 2023-08-19 |  |
-| @chipiseth | bug | Failed to load | collin  | Open  | 2023-08-17 |  |
 | @Link4king | bug | When upload game to public it gets corrupted! | collin  | Open  | 2023-08-16 |  |
 | @kebabo alt | suggestion | let new members see old message| collin  | Open  | 2023-08-20 |  |
 | @Ascension Parscension | suggestion | Stoping A Certain Frame| collin  | Open  | 2023-08-17 |  |
