@@ -48,7 +48,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 ### Fixed
 - fixed: Project Crash Issue (𝓟𝓪𝓹𝓲𝓬𝓱𝓲05/AZEATRE/kaplin86)
-- fixed: Wont register click ([+] G-Dev // Dexter [+])
+- fixed: Wont register click (Gabe Dev)
 
 ## 2023Y8M3W(20230814~20230820)
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
