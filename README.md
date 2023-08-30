@@ -31,7 +31,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @Exotic | bug | team create not work | collin  | Open  | 2023-08-26 |  |
-| @kaplin86 | bug | Project wont load | collin  | Open  | 2023-08-25 |  |
 | @KeithJrTopaum | bug | MMO "Lag Reporter" Stays on 15 | collin  | Open  | 2023-08-25 |  |
 | @Exotic | bug | all my music in my game got randomly cut to be 0.8-3 seconds of sound | collin  | Open  | 2023-08-24 |  |
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05 | bug | Project Crash Issue | collin  | Open  | 2023-08-24 |  |
@@ -49,6 +48,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | ------------- | ------------- | ------------- | ------------- |
 | Bug  | 97% | 90%  | 35 |
 | Suggestion  | 89% | 14%  | 46 |
+
+### Fixed
+- fixed: Project wont load (kaplin86)
 
 ## 2023Y8M3W(20230814~20230820)
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
