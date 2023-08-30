@@ -35,7 +35,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Exotic | bug | all my music in my game got randomly cut to be 0.8-3 seconds of sound | collin  | Open  | 2023-08-24 |  |
 | @Exotic | bug | gandi project stops playing any sound for no reason | collin  | Open  | 2023-08-23 |  |
 | @V3RT1G0 | bug | MMO extension error | collin  | Open  | 2023-08-22 |  |
-| @[+] G-Dev // Dexter [+] | bug | Wont register click | collin  | Open  | 2023-08-21 |  |
 | @AndyGun11 | suggestion | Play sound while <> | collin  | Open  | 2023-08-25 |  |
 | @𝕀𝕧𝕒𝕟 (yo dad CEO) | suggestion | Import costumes from files | collin  | Open  | 2023-08-25 |  |
 | @"Goblin" Cuddamations | suggestion | sprite rig | collin  | Open  | 2023-08-25 |  |
@@ -49,6 +48,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 ### Fixed
 - fixed: Project Crash Issue (𝓟𝓪𝓹𝓲𝓬𝓱𝓲05/AZEATRE/kaplin86)
+- fixed: Wont register click ([+] G-Dev // Dexter [+])
 
 ## 2023Y8M3W(20230814~20230820)
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
