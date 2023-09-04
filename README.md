@@ -27,6 +27,33 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ, linxin, jagger
 
+## 2023Y8M4W(20230828~20230903)
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @kaplin86 | bug | Projects wont load from files | collin  | Done  | 2023-08-30 |  |
+| @slimy_cathlyx | bug | Game crashed again | collin  | Done  | 2023-08-30 |  |
+| @outrunfungus43 | bug | Games With Gandi Addons Not Loading | collin  | Done  | 2023-08-30 |  |
+| @reallysoftuser | bug | Game and editor not loading | collin  | Done  | 2023-08-30 |  |
+| @nikaxe | bug | All audio gets quiter when I switch to other tabs | collin  | Open  | 2023-08-29 |  |
+| @Exotic | bug | project wont load anymore after messing around with extensions | collin  | Done  | 2023-08-28 |  |
+| @slimy_cathlyx | suggestion | Remove binding A key to Framing | collin  | Open  | 2023-09-02 |  |
+| @mesuck1 | suggestion | button to switch other person that im collaborating with to editor | collin  | Open  | 2023-09-02 |  |
+| @gobbin_ | suggestion | convert all to Bitmap/Vector | collin  | Open  | 2023-09-01 |  |
+| @science6uru | suggestion | block to offset a sprite from its center | collin  | Open  | 2023-09-01 |  |
+| @gobbin_ | suggestion | layering in Editor window | collin  | Open  | 2023-08-31 |  |
+| @natesquared | suggestion | Very basic 3D support| collin  | Open  | 2023-08-31 |  |
+| @ytgodzillask | suggestion | increase preformence| collin  | Open  | 2023-08-30 |  |
+| @nikaxe | suggestion | New "prototyping" tag in the #devlog forum | collin  | Done  | 2023-08-29 |  |
+| @justtnoone | suggestion | Make it a Quote bot for the Gandi server | collin  | Open  | 2023-08-28 |  |
+| @orangefromcn | suggestion | HTML Extension | collin  | Open  | 2023-08-28 |  |
+
+| Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
+| ------------- | ------------- | ------------- | ------------- |
+| Bug  | 98% | 93%  | 25 |
+| Suggestion  | 88% | 13%  | 54 |
+
+
+
 ## 2023Y8M4W(20230821~20230827)
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
