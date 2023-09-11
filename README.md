@@ -27,6 +27,24 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ, linxin, jagger
 
+## 2023Y8M4W(20230904~20230910)
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @gummy | bug | gandi ide wont load my project | collin  | Open  | 2023-09-09 |  |
+| @fath11 | bug | Bitwise not working | collin  | Open  | 2023-09-08 |  |
+| @bestgamer12 | bug | [AIHub ERROR] Error: Request Error： code: 0001, msg: Invalid params | collin  | Open  | 2023-09-06 |  |
+| @labrosggv | bug | Global block in normal sprite | collin  | Open  | 2023-09-06 |  |
+| @labrosggv | bug | side menu overlap | collin  | Open  | 2023-09-06 |  |
+| @oneoblivious | bug | Physics Extension Bug | collin  | Open  | 2023-09-06 |  |
+| @reverttheusernamechangepls | bug | When converting a custom block with no text or inputs in it, Gandi crashes | collin  | Open  | 2023-09-05 |  |
+| @calyxhere | suggestion | Time-zone roles | collin  | Open  | 2023-09-10 |  |
+| @fath11 | suggestion | make this AUS extension public | collin  | Open  | 2023-09-08 |  |
+
+| Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
+| ------------- | ------------- | ------------- | ------------- |
+| Bug  | 98% | 93%  | 25 |
+| Suggestion  | 88% | 13%  | 54 |
+
 ## 2023Y8M4W(20230828~20230903)
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
@@ -51,8 +69,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | ------------- | ------------- | ------------- | ------------- |
 | Bug  | 98% | 93%  | 25 |
 | Suggestion  | 88% | 13%  | 54 |
-
-
 
 ## 2023Y8M4W(20230821~20230827)
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
