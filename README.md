@@ -40,11 +40,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @calyxhere | suggestion | Time-zone roles | collin  | Open  | 2023-09-10 |  |
 | @fath11 | suggestion | make this AUS extension public | collin  | Open  | 2023-09-08 |  |
 
-| Type      | Reply Rate       | Resolution Rate   | Unresolved Quantity         |
-| ------------- | ------------- | ------------- | ------------- |
-| Bug  | 98% | 93%  | 25 |
-| Suggestion  | 88% | 13%  | 54 |
-
 ## 2023Y8M4W(20230828~20230903)
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
