@@ -27,7 +27,18 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ, linxin, jagger
 
-## 2023Y8M4W(20230904~20230910)
+## 2023Y9M2W(20230911~20230917)
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @fath11 | bug | Load custom extension not working(again) | collin  | Open  | 2023-09-17 |  |
+| @bestgamer12 | bug | [AIHub ERROR] Error: Request Error： code: 0001, msg: Invalid params | collin  | Open  | 2023-09-16 |  |
+| @gummyboiyt | bug | clone bug | collin  | Open  | 2023-09-16 |  |
+| @calyxhere | bug | Search does not return vanilla scratch extensions | collin  | Open  | 2023-09-15 |  |
+| @jamthedev | suggestion | New Moderator Icons | collin  | Open  | 2023-09-15 |  |
+| @cb0516 | suggestion | Remove logging in with Metamask | collin  | Open  | 2023-09-15 |  |
+| @natesquared | suggestion | debug resolutions | collin  | Open  | 2023-09-13 |  |
+
+## 2023Y9M1W(20230904~20230910)
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @gummy | bug | gandi ide wont load my project | collin  | Open  | 2023-09-09 |  |
@@ -40,7 +51,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @calyxhere | suggestion | Time-zone roles | collin  | Open  | 2023-09-10 |  |
 | @fath11 | suggestion | make this AUS extension public | collin  | Open  | 2023-09-08 |  |
 
-## 2023Y8M4W(20230828~20230903)
+## 2023Y8M5W(20230828~20230903)
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @kaplin86 | bug | Projects wont load from files | collin  | Done  | 2023-08-30 |  |
