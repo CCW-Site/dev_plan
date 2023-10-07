@@ -27,6 +27,28 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ, linxin, jagger
 
+## 2023Y9M2W(20230918~20230930)
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @mrbxcx | bug | Clone outputs undefined even tho some clones output are fine (Dolly) | collin  | Open  | 2023-09-23 |  |
+| @papichi05 | bug | Cocrea Description Character Limit Issue | collin  | Open  | 2023-09-27 |  |
+| @hampter0365 | bug | Project loading stuck at 99% | collin  | Open  | 2023-09-27 |  |
+| @ps2cate. | bug | I'm using brave, wich is known for buggy text | collin  | Open  | 2023-09-28 |  |
+| @ps2cate. | bug | My game dissapeared | collin  | Open  | 2023-09-29 |  |
+| @jonaykon | bug | cant edit "for this sprite only" lists | collin  | Open  | 2023-09-29 |  |
+| @_21th_ascension_ | suggestion | Official Gandi Team Should Choose SGJ Themes Themselves | collin  | Open  | 2023-09-18 |  |
+| @fath11 | suggestion | Make an official packager | collin  | Open  | 2023-09-19 |  |
+| @fath11 | suggestion | Change Text Color based on background color | collin  | Open  | 2023-09-20 |  |
+| @fath11 | suggestion | Bring back Gandi quizes| collin  | Open  | 2023-09-20 |  |
+| @ptbp | suggestion | Add symbols for the Frame block arrangement features| collin  | Open  | 2023-09-22 |  |
+| @celestial_hamster_21800 | suggestion | embed iframe into project extension | collin  | Open  | 2023-09-25 |  |
+| @celestial_hamster_21800 | suggestion | turbowarp files extension | collin  | Open  | 2023-09-25 |  |
+| @jamthedev | suggestion | Roles that say what engine you use | collin  | Open  | 2023-09-25 |  |
+| @x_infinite | suggestion | Add a reason when gifting ng | collin  | Open  | 2023-09-26 |  |
+| @zackaryquackary | suggestion | gaem suggestion | collin  | Open  | 2023-09-27 |  |
+
+
+
 ## 2023Y9M2W(20230911~20230917)
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
